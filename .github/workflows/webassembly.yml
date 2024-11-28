@@ -47,7 +47,6 @@ jobs:
         mkdir /tmp/docker/source/deploy
         cat /tmp/docker/source/agenda_caf.ical
         cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy 
-        echo "::endgroup::"
     - name: Deploy to gh-pages (arntanguy) 🚀
       if: github.ref == 'refs/heads/main' && github.repository == 'arntanguy/caf_montpellier'
       uses: JamesIves/github-pages-deploy-action@v4
