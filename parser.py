@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 import urllib.request
+import sys
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -261,12 +262,27 @@ def genICAL(results, prefix="[CAF MPL]"):
 
 # main function
 def main():
-    # read from example.html
-    # html_content = open('example.html', 'r').read()
+    # parse main args: save url
+    save_url=""
+    if len(sys.argv) > 1:
+        save_url = sys.argv[1]
+    else:
+        save_url = "/tmp/sorties_caf.ical"
 
-    agenda_url = 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91'
-    response = urllib.request.urlopen(agenda_url)
-    html_content = response.read().decode('utf-8')
+    agenda_url=""
+    if(len(sys.argv) > 2):
+        agenda_url = sys.argv[2]
+    else:
+        agenda_url = 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91'
+
+    html_content = ""
+    if agenda_url:
+        response = urllib.request.urlopen(agenda_url)
+        html_content = response.read().decode('utf-8')
+    else:
+        # read from example.html
+        html_content = open('example.html', 'r').read()
+
 
     results = parse_html(html_content)
     # results = results[0:5] 
@@ -279,7 +295,7 @@ def main():
     printSorties(results)
     ical_str = genICAL(results)
     # write ical to tmp
-    with open('/tmp/sorties_caf.ical', 'w') as f:
+    with open(save_url, 'w') as f:
         f.write(ical_str)
 
 
