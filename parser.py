@@ -228,6 +228,12 @@ def genICAL(results, prefix="[CAF MPL]"):
     ical_str = ""
     ical_str += "BEGIN:VCALENDAR\n"
     ical_str += "VERSION:2.0\n"
+    ical_str += "NAME:CAF Montpellier"
+    ical_str += "X-WR-CALNAME:CAF Montpellier"
+    ical_str += "DESCRIPTION:Agenda des sorties du Club Alpin Français de Montpellier"
+    ical_str += "X-WR-CALDESC:Agenda des sorties du Club Alpin Français de Montpellier"
+    ical_str += "TIMEZONE-ID:Europe/Paris"
+    ical_str += "X-WR-TIMEZONE:Europe/Paris"
     for r in results:
         # format date and hour in ical
         date_start_ical = r['date_start'].strftime("%Y%m%dT%H%M%S")
@@ -237,6 +243,7 @@ def genICAL(results, prefix="[CAF MPL]"):
             description += "\\nInscription: " + r['inscription_url']
 
         ical_str += "BEGIN:VEVENT\n"
+
         # set UID
         ical_str += "UID:"+r['sortie_id']+"\n"
         timestamp = int(time.time())

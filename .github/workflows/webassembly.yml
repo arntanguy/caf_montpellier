@@ -52,3 +52,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: /tmp/docker/source/deploy # The folder the action should deploy.
+        permissions:
+          contents: write
