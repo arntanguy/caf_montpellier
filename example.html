@@ -1,0 +1,2202 @@
+<html><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+
+    <link href="adhi2/css/bootstrap.5.3.0.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="../common/css/sortie.css?v=2">
+
+    <title>Club alpin français - Gestionnaire de sortie Clubs</title>
+
+</head>
+<body style="" class="">
+<div class="container-fluid">
+       <input type="hidden" id="c" name="c" value="3400">
+<input type="hidden" id="s" name="s" value="12">
+<input type="hidden" id="h" name="h" value="32cdfd3f91">
+<input type="hidden" id="section" name="section" value="init">
+
+    
+        <div class="text-center">
+            <img class="logo-web" src="../profils/default/img/logoTexteWeb.png" alt="logo">
+        </div>
+        <h4 class="h4 text-center text-primary">
+            3400 CLUB ALPIN FRANCAIS MONTPELLIER
+        </h4>
+    
+
+    <div id="sortie_agenda">
+        <form method="get" action="out.php">
+       <input type="hidden" id="c" name="c" value="3400">
+<input type="hidden" id="s" name="s" value="12">
+<input type="hidden" id="h" name="h" value="32cdfd3f91">
+<input type="hidden" id="section" name="section" value="init">
+
+    <h4 class="text-center text-primary">Agenda des sorties clubs</h4>
+    <div id="sortie_criteres" class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4 p-3 bg-white border rounded shadow-sm">
+
+        <div class="mb-3 row">
+            <label for="pratique" class="col-sm-2 col-form-label">Activité</label>
+            <div class="col-sm-10">
+                
+<select id="pratique" name="pratique" class="form-control">
+	<option value="">#</option>
+	<option value="AL">Alpinisme</option>
+	<option value="BL">Bloc</option>
+	<option value="CA">Canyonisme</option>
+	<option value="CG">Cascade de glace</option>
+	<option value="DP">Deltaplane</option>
+	<option value="ES">Escalade</option>
+	<option value="NA">Neige et avalanche</option>
+	<option value="RA">Randonnée</option>
+	<option value="RP">Randonnée (plaine)</option>
+	<option value="RL">Randonnée Alpine</option>
+	<option value="RM">Randonnée Montagne</option>
+	<option value="RQ">Raquettes à neige</option>
+	<option value="CS">Ski alpinisme de compétition</option>
+	<option value="SM">Ski alpinisme/ski de montagne/snowboard alpinisme </option>
+	<option value="SP">Spéléologie</option>
+	<option value="TA">Terrain d'aventure</option>
+	<option value="TM">Terrain montagne</option>
+	<option value="TR">Trail</option>
+	<option value="VF">Via ferrata</option>
+</select>
+
+            </div>
+        </div>
+
+        <div class="mb-3 row">
+            <label for="statut" class="col-sm-2 col-form-label">Statut</label>
+            <div class="col-sm-10">
+                
+<select id="statut" name="statut" class="form-control">
+	<option value="">#</option>
+	<option value="AU PLANNING">AU PLANNING</option>
+	<option value="VALIDEE">VALIDEE</option>
+	<option value="ANNULEE">ANNULEE</option>
+</select>
+
+            </div>
+        </div>
+
+        <div class="mb-3 row">
+            <label for="responsable" class="col-sm-2 col-form-label">Responsable</label>
+            <div class="col-sm-10">
+                
+<select id="responsable" name="responsable" class="form-control">
+	<option value="">#</option>
+	<option value="340020249051">ABECASSIS CHARLOTTE</option>
+	<option value="340019950038">AUCLAIR DANIEL</option>
+	<option value="340020209051">BACCINI ERIC</option>
+	<option value="340020129038">BENSUSSAN DAVID</option>
+	<option value="340020229012">BERNARD LIONEL</option>
+	<option value="340020239074">BRESSON ANTONIN</option>
+	<option value="340020239122">FAYANT ALIZEE</option>
+	<option value="340020179048">GALZY NADINE</option>
+	<option value="340020160002">GODIARD FRANCK</option>
+	<option value="340020239146">ICHBIA DAVID</option>
+	<option value="340020229027">LEBEGUE QUENTIN</option>
+	<option value="340020169029">LECLERCQ MICHEL</option>
+	<option value="340020199059">MARY LAURA</option>
+	<option value="340020229018">MINANA FABIENNE</option>
+	<option value="340020120025">NAVONE GUILHEM</option>
+	<option value="340020050010">NOUVIAIRE NICOLAS</option>
+	<option value="340020239068">PALACIOS GREGORY</option>
+	<option value="340020229116">PAUL-DELVAUX JEANNE</option>
+	<option value="340020109005">PAVIOT ODILE</option>
+	<option value="340019970063">REBOULET ANNE MARIE</option>
+	<option value="340020239113">RIGOU PEGGY</option>
+	<option value="340020189169">ROLLIN MAEL</option>
+	<option value="340020229085">TANGUY ARNAUD</option>
+	<option value="340020050012">VIERO BRUNO</option>
+</select>
+
+            </div>
+        </div>
+
+        <div class="mty-1 text-end">
+            <button type="submit" class="btn btn-primary">Rechercher</button>
+            <button type="submit" class="btn btn-primary" name="section" value="impressionAgenda">Imprimer</button>
+        </div>
+    </div>
+</form>
+        <div id="sortie_liste" class="d-flex flex-column gap-1 mt-5">
+            
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240060">
+                            Mont Saint Baudille
+                            </a>
+                        </div>
+                        le 28/11/2024 de 09:30 à 16:30
+                        <div class="lieu">
+                            Massif de la Seranne
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                600
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        10/12 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAVIOT ODILE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    VALIDEE
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240243">
+                            Gimpe libre à Lattes
+                            </a>
+                        </div>
+                        le 28/11/2024 de 20:30 à 22:30
+                        <div class="lieu">
+                            SAE de Lattes
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        16 places<br>7 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            BACCINI ERIC
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240243&amp;h=b6d25b51a6">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=SP" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Spéléologie
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400SP240072">
+                            Spéléo dans la vallée de la Buèges
+                            </a>
+                        </div>
+                        le 30/11/2024 de 08:30 à 23:00
+                        <div class="lieu">
+                            secteur St Jean de Buèges
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=38" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=30" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        6/6 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            MINANA FABIENNE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Canyonisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CA240107">
+                            FORMATION CANYON NIVEAU 1 - VERDUS
+                            </a>
+                        </div>
+                        le 30/11/2024 de 09:00 à 18:00
+                        <div class="lieu">
+                            ST GUILHEM LE DESERT (34)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                100
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>4 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            LECLERCQ MICHEL
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    VALIDEE
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CA240107&amp;h=7490d554a7">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240075">
+                            Lever de soleil au pic Saint Loup
+                            </a>
+                        </div>
+                        le 01/12/2024 de 06:30 à 11:00
+                        <div class="lieu">
+                            Cazevieille
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                370
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        4/20 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            RIGOU PEGGY
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240075&amp;h=6876747818">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240218">
+                            Sortie falaise débutant (pour les nouveaux arrivants au club)
+                            </a>
+                        </div>
+                        le 01/12/2024 de 09:00 à 18:00
+                        <div class="lieu">
+                            Lieu à définir
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>5 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            ABECASSIS CHARLOTTE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240058">
+                            Orthus Corniches et Crêtes Modification
+                            </a>
+                        </div>
+                        le 01/12/2024 de 09:15 à 16:30
+                        <div class="lieu">
+                            Orthus
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                550
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        9/12 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAVIOT ODILE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240058&amp;h=d9f9502808">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240227">
+                            Séance d'escalade aux Aiguerelles
+                            </a>
+                        </div>
+                        le 02/12/2024 de 18:30 à 20:30
+                        <div class="lieu">
+                            SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        2/20 inscriptions confirmées<br>2 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            MARY LAURA
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240227&amp;h=87749f38af">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240239">
+                            Atelier vol et assurage dynamique
+                            </a>
+                        </div>
+                        le 02/12/2024 de 18:30 à 20:30
+                        <div class="lieu">
+                            SAE des Aiguerelles
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        8/8 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            ROLLIN MAEL
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240239&amp;h=7f5b6d3251">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240073">
+                            Quizz Cartographie ludique
+                            </a>
+                        </div>
+                        le 02/12/2024 de 19:00 à 20:30
+                        <div class="lieu">
+                            Local du Club
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=26" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        2/10 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            VIERO BRUNO
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240073&amp;h=f9aee77fac">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=SM" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Ski alpinisme/ski de montagne/snowboard alpinisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400SM240018">
+                            Assemblée Générale du Club : SAVE THE DATE
+                            </a>
+                        </div>
+                        le 04/12/2024 de 19:00 à 22:30
+                        <div class="lieu">
+                            LA COUPOLE SUD, 15 Pl. de Zeus, 34000 Montpellier
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                        
+                            Tous niveaux
+                        
+                         
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>13 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAUL-DELVAUX JEANNE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SM240018&amp;h=0a12328342">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240194">
+                            Groupe de progression en mixité choisie pour femmes et minorités de genre
+                            </a>
+                        </div>
+                        le 05/12/2024
+                        <div class="lieu">
+                            Local
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                        
+                            Tous niveaux
+                        
+                         
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        10/10 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            ABECASSIS CHARLOTTE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240194&amp;h=f407a16a29">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240072">
+                            VAUCLUSE - Secteur Mont Ventoux
+                            </a>
+                        </div>
+                        du 07/12/2024  à 07:00 au 08/12/2024 à 18:00
+                        <div class="lieu">
+                            Malaucenne
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                900
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        7 places<br>6 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            GALZY NADINE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240072&amp;h=dd45b21c6d">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=SP" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Spéléologie
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400SP240070">
+                            ARTENAC PONDERACH
+                            </a>
+                        </div>
+                        le 07/12/2024 de 08:00 à 22:00
+                        <div class="lieu">
+                            SAINT PONS de THOMIERES
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        11/11 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            NAVONE GUILHEM
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Canyonisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CA240108">
+                            FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34
+                            </a>
+                        </div>
+                        le 07/12/2024 de 09:00 à 18:00
+                        <div class="lieu">
+                            Saint Maurice de Navacelle (34)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                200
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        1/8 inscription confirmée
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            LECLERCQ MICHEL
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240207">
+                            Sortie falaise pour niveau 5b/5c+
+                            </a>
+                        </div>
+                        le 07/12/2024 de 12:45 à 18:00
+                        <div class="lieu">
+                            Thaurac secteur Atlantide / Saint Bauzille de Putois
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>8 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            GODIARD FRANCK
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240207&amp;h=32f17745b9">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Canyonisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CA240109">
+                            FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)
+                            </a>
+                        </div>
+                        le 08/12/2024 de 09:00 à 19:00
+                        <div class="lieu">
+                            Aumessas (30)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                200
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        1/8 inscription confirmée
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            LECLERCQ MICHEL
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240241">
+                            Sortie bloc à Lodève
+                            </a>
+                        </div>
+                        le 08/12/2024 de 09:30 à 17:00
+                        <div class="lieu">
+                            Prieuré, Lodève
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>1 inscription confirmée<br>1 inscription en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            FAYANT ALIZEE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240241&amp;h=f70ee29148">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240228">
+                            Séance d'escalade aux Aiguerelles
+                            </a>
+                        </div>
+                        le 09/12/2024 de 18:30 à 20:30
+                        <div class="lieu">
+                            SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        20 places
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            MARY LAURA
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    Inscriptions du 03/12/2024  au 09/12/2024&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240076">
+                            Balade poétique et agapes noeliques dans le vallon de Gellone
+                            </a>
+                        </div>
+                        le 10/12/2024 de 10:00 à 17:00
+                        <div class="lieu">
+                            Saint-Guilhem-le-Désert
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=26" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                50
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            REBOULET ANNE MARIE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240208">
+                            Clocheton des Matelles
+                            </a>
+                        </div>
+                        le 11/12/2024 de 10:30 à 18:00
+                        <div class="lieu">
+                            Clocheton des Matelles
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=26" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>2 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            GODIARD FRANCK
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240208&amp;h=f16702bec2">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240078">
+                            Soirée Local : Voyages à vélo avec Philippe Jansen
+                            </a>
+                        </div>
+                        le 11/12/2024 de 19:00 à 21:00
+                        <div class="lieu">
+                            Local beaux-arts
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=26" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>5 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PALACIOS GREGORY
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240078&amp;h=7e638e71b5">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240219">
+                            Sortie falaise débutant (pour les nouveaux arrivants au club)
+                            </a>
+                        </div>
+                        le 15/12/2024 de 09:00 à 17:00
+                        <div class="lieu">
+                            Lieu à définir
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>8 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            BRESSON ANTONIN
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240219&amp;h=0565a8810c">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=SM" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Ski alpinisme/ski de montagne/snowboard alpinisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400SM240017">
+                            Journée de recherche DVA sur la plage
+                            </a>
+                        </div>
+                        le 15/12/2024 de 10:00 à 16:00
+                        <div class="lieu">
+                            Petit travers (Plage de carnon)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                        
+                            Tous niveaux
+                        
+                         
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>16 inscriptions confirmées<br>1 inscription en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAUL-DELVAUX JEANNE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=ES" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Escalade
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400ES240229">
+                            Séance d'escalade aux Aiguerelles
+                            </a>
+                        </div>
+                        le 16/12/2024 de 18:30 à 20:30
+                        <div class="lieu">
+                            SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        20 places
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            MARY LAURA
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    Inscriptions du 10/12/2024  au 16/12/2024&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=TR" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Trail
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400TR240016">
+                            Soirée apéro au local - section trail
+                            </a>
+                        </div>
+                        le 19/12/2024 de 18:00 à 22:00
+                        <div class="lieu">
+                            Local du club
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=42" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=34" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                2000
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            ICHBIA DAVID
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CG" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Cascade de glace
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CG240003">
+                            PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE
+                            </a>
+                        </div>
+                        du 21/12/2024  à 08:00 au 22/12/2024 à 18:00
+                        <div class="lieu">
+                            Queyras
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        9 places<br>9 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            LEBEGUE QUENTIN
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CG240003&amp;h=2de9b9134e">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240055">
+                            Saint Micisse
+                            </a>
+                        </div>
+                        le 29/12/2024 de 10:00 à 16:30
+                        <div class="lieu">
+                            CAZILHAC
+                        </div>
+                        
+                            <div>
+                                <a href="https://extranet-clubalpin.com/app/out/out.php?s=13&amp;c=3400RA240055&amp;h=c47e29737e&amp;doc=17361" _target="_blank">Informations complémentaires</a>
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                600
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        2/12 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAVIOT ODILE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240055&amp;h=c47e29737e">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=AL" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Alpinisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400AL240022">
+                            INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET
+                            </a>
+                        </div>
+                        du 04/01/2025  à 06:00 au 05/01/2025 à 18:00
+                        <div class="lieu">
+                            Col d'Ornon
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=30" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=22" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                800
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        20/20 inscriptions confirmées<br>28 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            TANGUY ARNAUD
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=RA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Randonnée
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400RA240059">
+                            Corconne , Crête de la Taillade et Embruscalles
+                            </a>
+                        </div>
+                        le 09/01/2025 de 09:45 à 16:30
+                        <div class="lieu">
+                            Corconne
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=26" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                500
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        8/10 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            PAVIOT ODILE
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240059&amp;h=2eef0abd89">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=SM" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Ski alpinisme/ski de montagne/snowboard alpinisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400SM240020">
+                            Formation Ski de Pente Raide
+                            </a>
+                        </div>
+                        du 24/01/2025  à 18:00 au 26/01/2025 à 18:00
+                        <div class="lieu">
+                            massif de la Tarentaise
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=38" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=34" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                1300
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        7/7 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            BENSUSSAN DAVID
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    &nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CG" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Cascade de glace
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CG240002">
+                            Cascade de glace - Grandes Voies
+                            </a>
+                        </div>
+                        du 08/02/2025  à 07:00 au 09/02/2025 à 18:00
+                        <div class="lieu">
+                            Vallon du Fournel, Vallon du Diable, à voir selon conditions
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=38" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=30" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                        
+                            <div class="denivele">
+                                Dénivelé positif :
+                                1000
+                                m
+                            </div>
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>13 inscriptions en attente
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            TANGUY ARNAUD
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CG240002&amp;h=9f698a091f">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+                <div class="sortie d-flex flex-column flex-md-row gap-2 border border-secondary rounded justify-content-between flex-lg-nowrap text-center text-md-start align-items-center">
+                    <div class="col-12 col-md-1 border-right border-1 border-secondary-subtle text-center p-1 border-right">
+                        
+                            <img src="image.php?sousActivite=CA" class="activite rounded-circle img-activite">
+                        
+                        <br>
+                        Canyonisme
+                    </div>
+                    <div class="col-12 col-md-5 p-1 flex-shrink-1">
+                        <div class="intitule">
+                            <a href="#" class="lienDetail h4 fw-bold" data-sortie-id="3400CA240111">
+                            Rassemblement International de Canyon Italie
+                            </a>
+                        </div>
+                        du 02/08/2025  à 08:00 au 09/08/2025 à 20:00
+                        <div class="lieu">
+                            Val d'Ossola
+                        </div>
+                         
+                    </div>
+                    <div class="col-12 col-md-2 p-1">
+                        <div class="center font-weight-bold">Difficulté</div>
+                         
+                        
+                            
+                                 
+                                
+                                    <img src="image.php?type=physique&amp;id=42" class="niveau" title="Niveau physique">
+                                
+                                <br>
+                            
+                            
+                                 
+                                
+                                    <img src="image.php?type=technique&amp;id=34" class="niveau" title="Niveau technique">
+                                
+                                <br>
+                            
+                        
+                         
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        Capacité illimitée<br>2 inscriptions confirmées
+                    </div>
+                    <div class="col-12 col-md-1 p-1">
+                        
+                            <div class="center">Responsable :</div>
+                            BERNARD LIONEL
+                        
+                    </div>
+                    <div class="col-12 col-md-1 p-1    ">
+                    AU PLANNING
+                </div>
+                <div class="col-12 col-md-1 p-1 text-center">
+                    <a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CA240111&amp;h=709310c952">Inscriptions ouvertes</a>&nbsp;
+                </div>
+        </div>
+        
+         
+    </div>
+</div>
+</div>
+
+<div id="sortie_detail" class="modal fade modal-xl" tabindex="-1" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen-lg-down">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Détail de la sortie</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body"><div class="d-flex flex-column flex-wrap justify-content-center fiche-sortie">
+    <div class="text-center text-md-start">
+        <div class="d-flex flex-column flex-md-row justify-content-between align-items-stretch mb-3">
+            <div class="mb-2 text-center d-flex align-items-center">
+                <div>
+                
+                    <img src="image.php?sousActivite=RA" class="activite img-activite rounded-circle"><br>
+                
+                Randonnée
+                </div>
+            </div>
+            <div class="text-center">
+                <div class="intitule">Lever de soleil au pic Saint Loup</div>
+                <div>le 01/12/2024<br></div>
+                <div class="lieu">Cazevieille</div>
+                <div>4/20 inscriptions confirmées</div>
+                <div><a class="packClub" href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240075&amp;h=6876747818">Inscriptions ouvertes</a></div>
+            </div>
+             
+            <div class="mt-2 mt-md-0 border rounded">
+                <div class="bloc-titre rounded-top">Encadrement</div>
+                
+                    <div style="padding: 0 0.5em;">
+                        Responsable : <span class="responsable">RIGOU PEGGY</span>
+                    </div>
+                
+                 
+                 
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div class="bloc-titre">
+            Description générale de la sortie et contacts
+        </div>
+        <div class="bloc-contenu">
+            <p>Une ascension du pic saint loup à la frontale pour observer un magnifique lever de soleil. Une expérience incroyable. Au sommet, petit déjeuner et vin chaud ;-)</p>
+<p>Cette sortie ne sera possible que si ciel non voilés.</p>
+<p>POssibilité de covoiturage depuis Montpellier (même souhaité pour réduire l'impact carbone de la sortie).</p>
+        </div>
+        <div class="ui-helper-clearfix"></div>
+    </div>
+    <div>
+        <div class="bloc-titre">
+            Description de la difficulté de la sortie, du niveau nécessaire pour participer ou autre pré-requis
+        </div>
+        <div class="bloc-contenu">
+            <div class="colonne bordered col30">
+                 
+                
+                    
+                         
+                            
+                                <img src="image.php?type=physique&amp;id=34" class="niveau" title="Niveau physique">
+                            
+                        <br>
+                    
+                    
+                         
+                        
+                            <img src="image.php?type=technique&amp;id=18" class="niveau" title="Niveau technique">
+                        
+                        <br>
+                    
+                
+                
+                    <div class="denivele">
+                        Dénivelé positif : 370m
+                    </div>
+                
+            </div>
+            <div class="colonne bordered col70">
+                <p>Sortie peu difficile mais mieux vaut avoir un bon rythme pour pas rater le lever de soleil</p>
+            </div>
+            <div class="ui-helper-clearfix"></div>
+        </div>
+    </div>
+    <div class="ui-helper-clearfix"></div>
+    <div>
+        <div class="bloc-titre">
+            Description du matériel nécessaire pour pouvoir participer, ou autres informations relatives au matériel (prêts, etc..)
+        </div>
+        <div class="bloc-contenu">
+            <p>Chaussures de montagne</p>
+<p>Des habits chauds car à cette saison et à cette heure, il fait très froid au sommet.</p>
+<p>De l'eau et de quoi prendre son petit déjeuner au sommet. Les gateaux au chocolat et vienoiseries sont les bienvenues.</p>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="../common/js/jquery.js"></script>
+<script type="text/javascript" src="adhi2/js/bootstrap.5.3.0/bootstrap.bundle.min.js"></script>
+<!--    <script type="text/javascript" src="../common/js/jquery-ui.custom.min.js"></script>-->
+<script type="text/javascript" src="./js/sortieClubAgenda.js?v=4"></script>
+
+</body></html>
