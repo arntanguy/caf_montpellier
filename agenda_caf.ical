@@ -2,353 +2,353 @@ BEGIN:VCALENDAR
 VERSION:2.0
 NAME:CAF MontpellierX-WR-CALNAME:CAF MontpellierDESCRIPTION:Agenda des sorties du Club Alpin Français de MontpellierX-WR-CALDESC:Agenda des sorties du Club Alpin Français de MontpellierTIMEZONE-ID:Europe/ParisX-WR-TIMEZONE:Europe/ParisBEGIN:VEVENT
 UID:3400ES240243
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Gimpe libre à Lattes
+SEQUENCE:1732823424
+SUMMARY:Gimpe libre à Lattes [Escalade]
 DTSTART:20241128T203000
 DTEND:20241128T223000
 LOCATION:SAE de Lattes
-DESCRIPTION:Sortie: Gimpe libre à Lattes\nLieu: SAE de Lattes\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 100 m\nPlaces: 11/16 inscriptions confirmées, 1 inscription en attente\nResponsable: BACCINI ERIC\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240243&h=b6d25b51a6
+DESCRIPTION:Sortie: Gimpe libre à Lattes\nActivité: Escalade\nLieu: SAE de Lattes\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 100 m\nPlaces: 11/16 inscriptions confirmées, 1 inscription en attente\nResponsable: BACCINI ERIC\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240243&h=b6d25b51a6
 ORGANIZER;CN=BACCINI ERIC:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400SP240072
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Spéléo dans la vallée de la Buèges
+SEQUENCE:1732823424
+SUMMARY:Spéléo dans la vallée de la Buèges [Spéléologie]
 DTSTART:20241130T083000
 DTEND:20241130T230000
 LOCATION:secteur St Jean de Buèges
-DESCRIPTION:Sortie: Spéléo dans la vallée de la Buèges\nLieu: secteur St Jean de Buèges\nNiveau Technique: 3\nNiveau Physique: 3\nDénivelé positif : 100 m\nPlaces: 6/6 inscriptions confirmées\nResponsable: MINANA FABIENNE\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Spéléo dans la vallée de la Buèges\nActivité: Spéléologie\nLieu: secteur St Jean de Buèges\nNiveau Technique: 3\nNiveau Physique: 3\nDénivelé positif : 100 m\nPlaces: 6/6 inscriptions confirmées\nResponsable: MINANA FABIENNE\nStatus: AU PLANNING
 ORGANIZER;CN=MINANA FABIENNE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CA240107
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] FORMATION CANYON NIVEAU 1 - VERDUS
+SEQUENCE:1732823424
+SUMMARY:FORMATION CANYON NIVEAU 1 - VERDUS [Canyonisme]
 DTSTART:20241130T090000
 DTEND:20241130T180000
 LOCATION:ST GUILHEM LE DESERT (34)
-DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 - VERDUS\nLieu: ST GUILHEM LE DESERT (34)\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 100 m\nPlaces: Capacité illimitée, 4 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: VALIDEE\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240107&h=7490d554a7
+DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 - VERDUS\nActivité: Canyonisme\nLieu: ST GUILHEM LE DESERT (34)\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 100 m\nPlaces: Capacité illimitée, 4 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: VALIDEE\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240107&h=7490d554a7
 ORGANIZER;CN=LECLERCQ MICHEL:
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240075
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Lever de soleil au pic Saint Loup
+SEQUENCE:1732823424
+SUMMARY:Lever de soleil au pic Saint Loup [Randonnée]
 DTSTART:20241201T063000
 DTEND:20241201T110000
 LOCATION:Cazevieille
-DESCRIPTION:Sortie: Lever de soleil au pic Saint Loup\nLieu: Cazevieille\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 370 m\nPlaces: 4/20 inscriptions confirmées, 1 inscription en attente\nResponsable: RIGOU PEGGY\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240075&h=6876747818
+DESCRIPTION:Sortie: Lever de soleil au pic Saint Loup\nActivité: Randonnée\nLieu: Cazevieille\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 370 m\nPlaces: 4/20 inscriptions confirmées, 1 inscription en attente\nResponsable: RIGOU PEGGY\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240075&h=6876747818
 ORGANIZER;CN=RIGOU PEGGY:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240218
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Sortie falaise débutant (pour les nouveaux arrivants au club)
+SEQUENCE:1732823424
+SUMMARY:Sortie falaise débutant (pour les nouveaux arrivants au club) [Escalade]
 DTSTART:20241201T090000
 DTEND:20241201T180000
 LOCATION:Lieu à définir
-DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nLieu: Lieu à définir\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 550 m\nPlaces: Capacité illimitée, 5 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nActivité: Escalade\nLieu: Lieu à définir\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 550 m\nPlaces: Capacité illimitée, 5 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING
 ORGANIZER;CN=ABECASSIS CHARLOTTE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240058
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Orthus Corniches et Crêtes Modification
+SEQUENCE:1732823424
+SUMMARY:Orthus Corniches et Crêtes Modification [Randonnée]
 DTSTART:20241201T091500
 DTEND:20241201T163000
 LOCATION:Orthus
-DESCRIPTION:Sortie: Orthus Corniches et Crêtes Modification\nLieu: Orthus\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 550 m\nPlaces: 10/12 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240058&h=d9f9502808
+DESCRIPTION:Sortie: Orthus Corniches et Crêtes Modification\nActivité: Randonnée\nLieu: Orthus\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 550 m\nPlaces: 10/12 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240058&h=d9f9502808
 ORGANIZER;CN=PAVIOT ODILE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240227
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Séance d'escalade aux Aiguerelles
+SEQUENCE:1732823424
+SUMMARY:Séance d'escalade aux Aiguerelles [Escalade]
 DTSTART:20241202T183000
 DTEND:20241202T203000
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 2/20 inscriptions confirmées, 2 inscriptions en attente\nResponsable: MARY LAURA\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240227&h=87749f38af
+DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nActivité: Escalade\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 2/20 inscriptions confirmées, 2 inscriptions en attente\nResponsable: MARY LAURA\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240227&h=87749f38af
 ORGANIZER;CN=MARY LAURA:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240239
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Atelier vol et assurage dynamique
+SEQUENCE:1732823424
+SUMMARY:Atelier vol et assurage dynamique [Escalade]
 DTSTART:20241202T183000
 DTEND:20241202T203000
 LOCATION:SAE des Aiguerelles
-DESCRIPTION:Sortie: Atelier vol et assurage dynamique\nLieu: SAE des Aiguerelles\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 8/8 inscriptions confirmées\nResponsable: ROLLIN MAEL\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240239&h=7f5b6d3251
+DESCRIPTION:Sortie: Atelier vol et assurage dynamique\nActivité: Escalade\nLieu: SAE des Aiguerelles\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 8/8 inscriptions confirmées\nResponsable: ROLLIN MAEL\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240239&h=7f5b6d3251
 ORGANIZER;CN=ROLLIN MAEL:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240073
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Quizz Cartographie ludique
+SEQUENCE:1732823424
+SUMMARY:Quizz Cartographie ludique [Randonnée]
 DTSTART:20241202T190000
 DTEND:20241202T203000
 LOCATION:Local du Club
-DESCRIPTION:Sortie: Quizz Cartographie ludique\nLieu: Local du Club\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 2/10 inscriptions confirmées\nResponsable: VIERO BRUNO\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240073&h=f9aee77fac
+DESCRIPTION:Sortie: Quizz Cartographie ludique\nActivité: Randonnée\nLieu: Local du Club\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 900 m\nPlaces: 2/10 inscriptions confirmées\nResponsable: VIERO BRUNO\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240073&h=f9aee77fac
 ORGANIZER;CN=VIERO BRUNO:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400SM240018
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Assemblée Générale du Club : SAVE THE DATE
+SEQUENCE:1732823424
+SUMMARY:Assemblée Générale du Club : SAVE THE DATE [Ski alpinisme/ski de montagne/snowboard alpinisme]
 DTSTART:20241204T190000
 DTEND:20241204T223000
 LOCATION:LA COUPOLE SUD, 15 Pl. de Zeus, 34000 Montpellier
-DESCRIPTION:Sortie: Assemblée Générale du Club : SAVE THE DATE\nLieu: LA COUPOLE SUD, 15 Pl. de Zeus, 34000 Montpellier\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: \nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240018&h=0a12328342
+DESCRIPTION:Sortie: Assemblée Générale du Club : SAVE THE DATE\nActivité: Ski alpinisme/ski de montagne/snowboard alpinisme\nLieu: LA COUPOLE SUD, 15 Pl. de Zeus, 34000 Montpellier\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: \nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240018&h=0a12328342
 ORGANIZER;CN=PAUL-DELVAUX JEANNE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240194
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Groupe de progression en mixité choisie pour femmes et minorités de genre
+SEQUENCE:1732823424
+SUMMARY:Groupe de progression en mixité choisie pour femmes et minorités de genre [Escalade]
 DTSTART:20241205T000000
 DTEND:20241205T235900
 LOCATION:Local
-DESCRIPTION:Sortie: Groupe de progression en mixité choisie pour femmes et minorités de genre\nLieu: Local\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 10/10 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240194&h=f407a16a29
+DESCRIPTION:Sortie: Groupe de progression en mixité choisie pour femmes et minorités de genre\nActivité: Escalade\nLieu: Local\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 10/10 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240194&h=f407a16a29
 ORGANIZER;CN=ABECASSIS CHARLOTTE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240072
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] VAUCLUSE - Secteur Mont Ventoux
+SEQUENCE:1732823424
+SUMMARY:VAUCLUSE - Secteur Mont Ventoux [Randonnée]
 DTSTART:20241207T070000
 DTEND:20241208T180000
 LOCATION:Malaucenne
-DESCRIPTION:Sortie: VAUCLUSE - Secteur Mont Ventoux\nLieu: Malaucenne\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 900 m\nPlaces: \nResponsable: GALZY NADINE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240072&h=dd45b21c6d
+DESCRIPTION:Sortie: VAUCLUSE - Secteur Mont Ventoux\nActivité: Randonnée\nLieu: Malaucenne\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 900 m\nPlaces: \nResponsable: GALZY NADINE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240072&h=dd45b21c6d
 ORGANIZER;CN=GALZY NADINE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400SP240070
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] ARTENAC PONDERACH
+SEQUENCE:1732823424
+SUMMARY:ARTENAC PONDERACH [Spéléologie]
 DTSTART:20241207T080000
 DTEND:20241207T220000
 LOCATION:SAINT PONS de THOMIERES
-DESCRIPTION:Sortie: ARTENAC PONDERACH\nLieu: SAINT PONS de THOMIERES\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: 11/11 inscriptions confirmées\nResponsable: NAVONE GUILHEM\nStatus: AU PLANNING
+DESCRIPTION:Sortie: ARTENAC PONDERACH\nActivité: Spéléologie\nLieu: SAINT PONS de THOMIERES\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: 11/11 inscriptions confirmées\nResponsable: NAVONE GUILHEM\nStatus: AU PLANNING
 ORGANIZER;CN=NAVONE GUILHEM:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CA240108
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34
+SEQUENCE:1732823424
+SUMMARY:FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34 [Canyonisme]
 DTSTART:20241207T090000
 DTEND:20241207T180000
 LOCATION:Saint Maurice de Navacelle (34)
-DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34\nLieu: Saint Maurice de Navacelle (34)\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
+DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34\nActivité: Canyonisme\nLieu: Saint Maurice de Navacelle (34)\nNiveau Technique: 1\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 ORGANIZER;CN=LECLERCQ MICHEL:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240207
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Sortie falaise pour niveau 5b/5c+
+SEQUENCE:1732823424
+SUMMARY:Sortie falaise pour niveau 5b/5c+ [Escalade]
 DTSTART:20241207T124500
 DTEND:20241207T180000
 LOCATION:Thaurac secteur Atlantide / Saint Bauzille de Putois
-DESCRIPTION:Sortie: Sortie falaise pour niveau 5b/5c+\nLieu: Thaurac secteur Atlantide / Saint Bauzille de Putois\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 200 m\nPlaces: Capacité illimitée, 8 inscriptions confirmées\nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240207&h=32f17745b9
+DESCRIPTION:Sortie: Sortie falaise pour niveau 5b/5c+\nActivité: Escalade\nLieu: Thaurac secteur Atlantide / Saint Bauzille de Putois\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 200 m\nPlaces: Capacité illimitée, 8 inscriptions confirmées\nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240207&h=32f17745b9
 ORGANIZER;CN=GODIARD FRANCK:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CA240109
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)
+SEQUENCE:1732823424
+SUMMARY:FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30) [Canyonisme]
 DTSTART:20241208T090000
 DTEND:20241208T190000
 LOCATION:Aumessas (30)
-DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)\nLieu: Aumessas (30)\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
+DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)\nActivité: Canyonisme\nLieu: Aumessas (30)\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 ORGANIZER;CN=LECLERCQ MICHEL:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240241
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Sortie bloc à Lodève
+SEQUENCE:1732823424
+SUMMARY:Sortie bloc à Lodève [Escalade]
 DTSTART:20241208T093000
 DTEND:20241208T170000
 LOCATION:Prieuré, Lodève
-DESCRIPTION:Sortie: Sortie bloc à Lodève\nLieu: Prieuré, Lodève\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: FAYANT ALIZEE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240241&h=f70ee29148
+DESCRIPTION:Sortie: Sortie bloc à Lodève\nActivité: Escalade\nLieu: Prieuré, Lodève\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: FAYANT ALIZEE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240241&h=f70ee29148
 ORGANIZER;CN=FAYANT ALIZEE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240228
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Séance d'escalade aux Aiguerelles
+SEQUENCE:1732823424
+SUMMARY:Séance d'escalade aux Aiguerelles [Escalade]
 DTSTART:20241209T183000
 DTEND:20241209T203000
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nActivité: Escalade\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
 ORGANIZER;CN=MARY LAURA:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240076
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Balade poétique et agapes noeliques dans le vallon de Gellone
+SEQUENCE:1732823424
+SUMMARY:Balade poétique et agapes noeliques dans le vallon de Gellone [Randonnée]
 DTSTART:20241210T100000
 DTEND:20241210T170000
 LOCATION:Saint-Guilhem-le-Désert
-DESCRIPTION:Sortie: Balade poétique et agapes noeliques dans le vallon de Gellone\nLieu: Saint-Guilhem-le-Désert\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Balade poétique et agapes noeliques dans le vallon de Gellone\nActivité: Randonnée\nLieu: Saint-Guilhem-le-Désert\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 50 m\nPlaces: \nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING
 ORGANIZER;CN=REBOULET ANNE MARIE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240208
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Clocheton des Matelles
+SEQUENCE:1732823424
+SUMMARY:Clocheton des Matelles [Escalade]
 DTSTART:20241211T103000
 DTEND:20241211T180000
 LOCATION:Clocheton des Matelles
-DESCRIPTION:Sortie: Clocheton des Matelles\nLieu: Clocheton des Matelles\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240208&h=f16702bec2
+DESCRIPTION:Sortie: Clocheton des Matelles\nActivité: Escalade\nLieu: Clocheton des Matelles\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240208&h=f16702bec2
 ORGANIZER;CN=GODIARD FRANCK:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240078
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Soirée Local : Voyages à vélo avec Philippe Jansen
+SEQUENCE:1732823424
+SUMMARY:Soirée Local : Voyages à vélo avec Philippe Jansen [Randonnée]
 DTSTART:20241211T190000
 DTEND:20241211T210000
 LOCATION:Local beaux-arts
-DESCRIPTION:Sortie: Soirée Local : Voyages à vélo avec Philippe Jansen\nLieu: Local beaux-arts\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: PALACIOS GREGORY\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240078&h=7e638e71b5
+DESCRIPTION:Sortie: Soirée Local : Voyages à vélo avec Philippe Jansen\nActivité: Randonnée\nLieu: Local beaux-arts\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: PALACIOS GREGORY\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240078&h=7e638e71b5
 ORGANIZER;CN=PALACIOS GREGORY:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240219
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Sortie falaise débutant (pour les nouveaux arrivants au club)
+SEQUENCE:1732823424
+SUMMARY:Sortie falaise débutant (pour les nouveaux arrivants au club) [Escalade]
 DTSTART:20241215T090000
 DTEND:20241215T170000
 LOCATION:Lieu à définir
-DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nLieu: Lieu à définir\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: BRESSON ANTONIN\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240219&h=0565a8810c
+DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nActivité: Escalade\nLieu: Lieu à définir\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: BRESSON ANTONIN\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240219&h=0565a8810c
 ORGANIZER;CN=BRESSON ANTONIN:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400SM240017
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Journée de recherche DVA sur la plage
+SEQUENCE:1732823424
+SUMMARY:Journée de recherche DVA sur la plage [Ski alpinisme/ski de montagne/snowboard alpinisme]
 DTSTART:20241215T100000
 DTEND:20241215T160000
 LOCATION:Petit travers (Plage de carnon)
-DESCRIPTION:Sortie: Journée de recherche DVA sur la plage\nLieu: Petit travers (Plage de carnon)\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 2000 m\nPlaces: Capacité illimitée, 16 inscriptions confirmées, 1 inscription en attente\nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Journée de recherche DVA sur la plage\nActivité: Ski alpinisme/ski de montagne/snowboard alpinisme\nLieu: Petit travers (Plage de carnon)\nNiveau Technique: Tous niveaux\nNiveau Physique: Tous niveaux\nDénivelé positif : 2000 m\nPlaces: Capacité illimitée, 16 inscriptions confirmées, 1 inscription en attente\nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING
 ORGANIZER;CN=PAUL-DELVAUX JEANNE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400ES240229
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Séance d'escalade aux Aiguerelles
+SEQUENCE:1732823424
+SUMMARY:Séance d'escalade aux Aiguerelles [Escalade]
 DTSTART:20241216T183000
 DTEND:20241216T203000
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nActivité: Escalade\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 2000 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
 ORGANIZER;CN=MARY LAURA:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400TR240016
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Soirée apéro au local - section trail
+SEQUENCE:1732823424
+SUMMARY:Soirée apéro au local - section trail [Trail]
 DTSTART:20241219T180000
 DTEND:20241219T220000
 LOCATION:Local du club
-DESCRIPTION:Sortie: Soirée apéro au local - section trail\nLieu: Local du club\nNiveau Technique: 4\nNiveau Physique: 4\nDénivelé positif : 2000 m\nPlaces: \nResponsable: ICHBIA DAVID\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Soirée apéro au local - section trail\nActivité: Trail\nLieu: Local du club\nNiveau Technique: 4\nNiveau Physique: 4\nDénivelé positif : 2000 m\nPlaces: \nResponsable: ICHBIA DAVID\nStatus: AU PLANNING
 ORGANIZER;CN=ICHBIA DAVID:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CG240003
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE
+SEQUENCE:1732823424
+SUMMARY:PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE [Cascade de glace]
 DTSTART:20241221T080000
 DTEND:20241222T180000
 LOCATION:Queyras
-DESCRIPTION:Sortie: PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE\nLieu: Queyras\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 600 m\nPlaces: \nResponsable: LEBEGUE QUENTIN\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240003&h=2de9b9134e
+DESCRIPTION:Sortie: PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE\nActivité: Cascade de glace\nLieu: Queyras\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 600 m\nPlaces: \nResponsable: LEBEGUE QUENTIN\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240003&h=2de9b9134e
 ORGANIZER;CN=LEBEGUE QUENTIN:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240055
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Saint Micisse
+SEQUENCE:1732823424
+SUMMARY:Saint Micisse [Randonnée]
 DTSTART:20241229T100000
 DTEND:20241229T163000
 LOCATION:CAZILHAC
-DESCRIPTION:Sortie: Saint Micisse\nLieu: CAZILHAC\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 600 m\nPlaces: 2/12 inscriptions confirmées, 1 inscription en attente\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240055&h=c47e29737e
+DESCRIPTION:Sortie: Saint Micisse\nActivité: Randonnée\nLieu: CAZILHAC\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 600 m\nPlaces: 2/12 inscriptions confirmées, 1 inscription en attente\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240055&h=c47e29737e
 ORGANIZER;CN=PAVIOT ODILE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400AL240022
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET
+SEQUENCE:1732823424
+SUMMARY:INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET [Alpinisme]
 DTSTART:20250104T060000
 DTEND:20250105T180000
 LOCATION:Col d'Ornon
-DESCRIPTION:Sortie: INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET\nLieu: Col d'Ornon\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 800 m\nPlaces: 20/20 inscriptions confirmées, 28 inscriptions en attente\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
+DESCRIPTION:Sortie: INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET\nActivité: Alpinisme\nLieu: Col d'Ornon\nNiveau Technique: 1\nNiveau Physique: 1\nDénivelé positif : 800 m\nPlaces: 20/20 inscriptions confirmées, 28 inscriptions en attente\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
 ORGANIZER;CN=TANGUY ARNAUD:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400RA240059
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Corconne , Crête de la Taillade et Embruscalles
+SEQUENCE:1732823424
+SUMMARY:Corconne , Crête de la Taillade et Embruscalles [Randonnée]
 DTSTART:20250109T094500
 DTEND:20250109T163000
 LOCATION:Corconne
-DESCRIPTION:Sortie: Corconne , Crête de la Taillade et Embruscalles\nLieu: Corconne\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 500 m\nPlaces: 8/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240059&h=2eef0abd89
+DESCRIPTION:Sortie: Corconne , Crête de la Taillade et Embruscalles\nActivité: Randonnée\nLieu: Corconne\nNiveau Technique: 2\nNiveau Physique: 2\nDénivelé positif : 500 m\nPlaces: 8/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240059&h=2eef0abd89
 ORGANIZER;CN=PAVIOT ODILE:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400SM240020
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Formation Ski de Pente Raide
+SEQUENCE:1732823424
+SUMMARY:Formation Ski de Pente Raide [Ski alpinisme/ski de montagne/snowboard alpinisme]
 DTSTART:20250124T180000
 DTEND:20250126T180000
 LOCATION:massif de la Tarentaise
-DESCRIPTION:Sortie: Formation Ski de Pente Raide\nLieu: massif de la Tarentaise\nNiveau Technique: 4\nNiveau Physique: 3\nDénivelé positif : 1300 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: BENSUSSAN DAVID\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Formation Ski de Pente Raide\nActivité: Ski alpinisme/ski de montagne/snowboard alpinisme\nLieu: massif de la Tarentaise\nNiveau Technique: 4\nNiveau Physique: 3\nDénivelé positif : 1300 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: BENSUSSAN DAVID\nStatus: AU PLANNING
 ORGANIZER;CN=BENSUSSAN DAVID:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CG240002
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Cascade de glace - Grandes Voies
+SEQUENCE:1732823424
+SUMMARY:Cascade de glace - Grandes Voies [Cascade de glace]
 DTSTART:20250208T070000
 DTEND:20250209T180000
 LOCATION:Vallon du Fournel, Vallon du Diable, à voir selon conditions
-DESCRIPTION:Sortie: Cascade de glace - Grandes Voies\nLieu: Vallon du Fournel, Vallon du Diable, à voir selon conditions\nNiveau Technique: 3\nNiveau Physique: 3\nDénivelé positif : 1000 m\nPlaces: \nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240002&h=9f698a091f
+DESCRIPTION:Sortie: Cascade de glace - Grandes Voies\nActivité: Cascade de glace\nLieu: Vallon du Fournel, Vallon du Diable, à voir selon conditions\nNiveau Technique: 3\nNiveau Physique: 3\nDénivelé positif : 1000 m\nPlaces: \nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240002&h=9f698a091f
 ORGANIZER;CN=TANGUY ARNAUD:
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3400CA240111
-SEQUENCE:1732822420
-SUMMARY:[CAF MPL] Rassemblement International de Canyon Italie
+SEQUENCE:1732823424
+SUMMARY:Rassemblement International de Canyon Italie [Canyonisme]
 DTSTART:20250802T080000
 DTEND:20250809T200000
 LOCATION:Val d'Ossola
-DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nLieu: Val d'Ossola\nNiveau Technique: 4\nNiveau Physique: 4\n\nPlaces: Capacité illimitée, 2 inscriptions confirmées\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
+DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nActivité: Canyonisme\nLieu: Val d'Ossola\nNiveau Technique: 4\nNiveau Physique: 4\n\nPlaces: Capacité illimitée, 2 inscriptions confirmées\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscription: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
 ORGANIZER;CN=BERNARD LIONEL:
 STATUS:TENTATIVE
 END:VEVENT
