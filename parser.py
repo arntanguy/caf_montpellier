@@ -158,7 +158,7 @@ def parse_html(html_content):
             'sortie_id': sortie_id,
             'inscription_url': inscription_url,
             'activite_image': activite_image,
-            'activite_nom': activite_nom,
+            'activite': activite_nom,
             'lieu': lieu,
             'date_str': date_str,
             'date_start': date_start,
@@ -183,7 +183,7 @@ def printSorties(results):
         print('sortie_id: ', r['sortie_id'])
         print('inscription_url: ', r['inscription_url'])
         print('activite_image: ', r['activite_image'])
-        print('activite_nom: ', r['activite_nom'])
+        print('activite: ', r['activite'])
         print('lieu: ', r['lieu'])
         print('date_str: ', r['date_str'])
         print('date start: ', r['date_start'])
@@ -239,7 +239,7 @@ def genICAL(results, prefix=""):
         # format date and hour in ical
         date_start_ical = r['date_start'].strftime("%Y%m%dT%H%M%S")
         date_end_ical = r['date_end'].strftime("%Y%m%dT%H%M%S")
-        description = "Sortie: " + r['title'] + "\\nLieu: " + r['lieu'] + "\\nNiveau Technique: " + r['niveau_technique'] + "\\nNiveau Physique: " + r['niveau_physique'] + "\\n" + r['denivele'] + "\\nPlaces: " + r['places'] + "\\nResponsable: " + r['responsable'] + "\\nStatus: " + r['status']
+        description = "Sortie: " + r['title'] + "\\nActivité: " + r['activite'] + "\\nLieu: " + r['lieu'] + "\\nNiveau Technique: " + r['niveau_technique'] + "\\nNiveau Physique: " + r['niveau_physique'] + "\\n" + r['denivele'] + "\\nPlaces: " + r['places'] + "\\nResponsable: " + r['responsable'] + "\\nStatus: " + r['status']
         if r['inscription_url']:
             description += "\\nInscription: " + r['inscription_url']
 
