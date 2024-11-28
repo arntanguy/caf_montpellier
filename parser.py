@@ -3,6 +3,7 @@ from datetime import datetime
 import time
 import urllib.request
 import sys
+import rfeed
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -267,18 +268,45 @@ def genICAL(results, prefix="[CAF MPL]"):
     ical_str += "END:VCALENDAR\n"
     return ical_str
 
+def genRSS(results, prefix = ""):
+    items = []
+    for r in results:
+        item = rfeed.Item(
+            title = prefix + " " + r['title'],
+            link = r['inscription_url'],
+            description = r['title'] + "\n" + r['lieu'] + "\n" + r['niveau_technique'] + "\n" + r['niveau_physique'] + "\n" + r['denivele'] + "\n" + r['places'] + "\n" + r['responsable'] + "\n" + r['status'], 
+            author = r['responsable'], 
+            guid = rfeed.Guid(r['sortie_id']),
+            pubDate = r['date_start'])
+        items.append(item)
+    feed = rfeed.Feed(
+        title = "Agenda CAF Montpellier",
+        link = "https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91",
+        description = "Agenda des sorties du Club Alpin Français de Montpellier",
+        language = "fr-FR",
+        lastBuildDate = datetime.now(),
+        items = items)
+    return feed
+
+
 # main function
 def main():
     # parse main args: save url
-    save_url=""
+    save_ical_url=""
     if len(sys.argv) > 1:
-        save_url = sys.argv[1]
+        save_ical_url = sys.argv[1]
     else:
-        save_url = "/tmp/sorties_caf.ical"
+        save_ical_url = "/tmp/sorties_caf.ical"
+
+    save_rss_url=""
+    if len(sys.argv) > 2:
+        save_rss_url = sys.argv[2]
+    else:
+        save_rss_url = "/tmp/sorties_caf.rss"
 
     agenda_url=""
-    if(len(sys.argv) > 2):
-        agenda_url = sys.argv[2]
+    if(len(sys.argv) > 3):
+        agenda_url = sys.argv[3]
     else:
         agenda_url = 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91'
 
@@ -293,17 +321,17 @@ def main():
 
     results = parse_html(html_content)
     # results = results[0:5] 
-    print ("====================")
-    print ("====================")
-    print ("====================")
-    print ("====================")
     print('Number of sorties: ', len(results))
     print(results)
     printSorties(results)
     ical_str = genICAL(results)
     # write ical to tmp
-    with open(save_url, 'w') as f:
+    with open(save_ical_url, 'w') as f:
         f.write(ical_str)
+
+    rss = genRSS(results) 
+    with open(save_rss_url, 'w') as f:
+        f.write(rss.rss())
 
 
 if __name__ == "__main__":

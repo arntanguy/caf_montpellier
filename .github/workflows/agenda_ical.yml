@@ -1,4 +1,4 @@
-name: Build ICAL 
+name: Build ICAL and RSS
 on:
   push:
     paths-ignore:
@@ -37,20 +37,25 @@ jobs:
         cp .github/docker/Dockerfile /tmp/docker/Dockerfile
         cd /tmp/docker
         echo "::endgroup::"
-        echo "::group::Dockerfile used to build ical"
+        echo "::group::Dockerfile used to build ical and rss"
         cat Dockerfile
         echo "::endgroup::"
         echo "::group::Build base image"
         docker build -t ical-ci-${{matrix.os}} .
         echo "::endgroup::"
         echo "::group::Build within docker"
-        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} 'python3 /src/parser.py /src/agenda_caf.ical'
+        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} 'python3 /src/parser.py /src/agenda_caf.ical /src/agenda_caf.rss'
         echo "::endgroup::"
-        echo "::group::Create ical-webassembly.tar.gz archive"
+        echo "::group::Copy generated ical and rss file to deploy folder"
         mkdir /tmp/docker/source/deploy
-        cat /tmp/docker/source/agenda_caf.ical
-        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy 
-    - name: Deploy ical to gh-pages (arntanguy) 🚀
+        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy
+        cp /tmp/docker/source/agenda_caf.rss /tmp/docker/source/deploy
+        echo "::endgroup::"
+        echo "::group::Deploy path"
+        echo "The ICAL will be published to https://arntanguy.github.io/caf_montreal/agenda_caf.ical"
+        echo "The RSS will be published to https://arntanguy.github.io/caf_montreal/agenda_caf.rss"
+        echo "::endgroup::"
+    - name: Deploy ical and rss to gh-pages (arntanguy) 🚀
       if: github.ref == 'refs/heads/main' && github.repository == 'arntanguy/caf_montpellier'
       uses: JamesIves/github-pages-deploy-action@v4
       with:

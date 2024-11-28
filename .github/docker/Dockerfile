@@ -3,6 +3,6 @@ FROM ubuntu:22.04
 
 # Install required tools that are useful for your project i.e. ninja-build
 RUN apt update && apt install -y python3-bs4 python3-pip
-RUN pip install pip-system-certs
+RUN pip install pip-system-certs rfeed
 
 ENTRYPOINT ["/bin/bash", "-c"]
