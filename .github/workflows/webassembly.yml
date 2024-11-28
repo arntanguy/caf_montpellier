@@ -1,0 +1,55 @@
+name: Build ICAL 
+on:
+  push:
+    paths-ignore:
+      # Changes to those files don't mandate running CI
+      - ".github/workflows/package.yml"
+      - ".github/workflows/build.yml"
+      - "debian/**"
+      - "README.md"
+      - "doc/**"
+      - ".pre-commit-config.yaml"
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build-webassembly:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: ["ubuntu_22.04"]
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+    - name: Build within Docker
+      run: |
+        echo "::group::Setup Dockerfile"
+        mkdir -p /tmp/docker
+        cp -r `pwd` /tmp/docker/source
+        cp .github/docker/Dockerfile /tmp/docker/Dockerfile
+        cd /tmp/docker
+        echo "::endgroup::"
+        echo "::group::Dockerfile used to build ical"
+        cat Dockerfile
+        echo "::endgroup::"
+        echo "::group::Build base image"
+        docker build -t ical-ci-${{matrix.os}} .
+        echo "::endgroup::"
+        echo "::group::Build within docker"
+        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} 'python3 /src/parser.py /src/agenda_caf.ical'
+        echo "::endgroup::"
+        echo "::group::Create ical-webassembly.tar.gz archive"
+        mkdir /tmp/docker/source/deploy
+        cat /tmp/docker/source/agenda_caf.ical
+        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy 
+        echo "::endgroup::"
+    - name: Deploy to gh-pages (arntanguy) 🚀
+      if: github.ref == 'refs/heads/main' && github.repository == 'arntanguy/caf_montpellier'
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: /tmp/docker/source/deploy # The folder the action should deploy.
