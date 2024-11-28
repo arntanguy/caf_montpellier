@@ -225,7 +225,7 @@ def printSorties(results):
     #
     # print("END:VCALENDAR")
 
-def genICAL(results, prefix="[CAF MPL]"):
+def genICAL(results, prefix=""):
     ical_str = ""
     ical_str += "BEGIN:VCALENDAR\n"
     ical_str += "VERSION:2.0\n"
@@ -249,7 +249,7 @@ def genICAL(results, prefix="[CAF MPL]"):
         ical_str += "UID:"+r['sortie_id']+"\n"
         timestamp = int(time.time())
         ical_str += "SEQUENCE:" + str(timestamp) + "\n" # Always increasing sequence number such that each update to this event with the same UID is propagated
-        ical_str += "SUMMARY:"+prefix + " " + r['title']+"\n"
+        ical_str += "SUMMARY:"+r['title']+" ["+r['activite']+"]\n"
         ical_str += "DTSTART:"+date_start_ical+"\n"
         ical_str += "DTEND:"+date_end_ical+"\n"
         ical_str += "LOCATION:"+r['lieu']+"\n"
@@ -268,11 +268,11 @@ def genICAL(results, prefix="[CAF MPL]"):
     ical_str += "END:VCALENDAR\n"
     return ical_str
 
-def genRSS(results, prefix = ""):
+def genRSS(results):
     items = []
     for r in results:
         item = rfeed.Item(
-            title = prefix + " " + r['title'],
+            title = r['title'] + "[" + r['activite'] + "]",
             link = r['inscription_url'],
             description = r['title'] + "\n" + r['lieu'] + "\n" + r['niveau_technique'] + "\n" + r['niveau_physique'] + "\n" + r['denivele'] + "\n" + r['places'] + "\n" + r['responsable'] + "\n" + r['status'], 
             author = r['responsable'], 
