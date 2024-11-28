@@ -11,12 +11,15 @@ on:
       - ".pre-commit-config.yaml"
     branches:
       - '**'
+  # Triggers the workflow every 15 minutes
+  schedule:
+    - cron: "*/15 * * * *"
   pull_request:
     branches:
       - '**'
 
 jobs:
-  build-webassembly:
+  build-ical:
     strategy:
       fail-fast: false
       matrix:
@@ -47,10 +50,8 @@ jobs:
         mkdir /tmp/docker/source/deploy
         cat /tmp/docker/source/agenda_caf.ical
         cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy 
-    - name: Deploy to gh-pages (arntanguy) 🚀
+    - name: Deploy ical to gh-pages (arntanguy) 🚀
       if: github.ref == 'refs/heads/main' && github.repository == 'arntanguy/caf_montpellier'
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: /tmp/docker/source/deploy # The folder the action should deploy.
-        permissions:
-          contents: write
