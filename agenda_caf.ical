@@ -4,10 +4,10 @@ PRODID:CAF Montpellier - https://arntanguy.github.io/caf_montpellier
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie falaise pour niveau 5b/5c+\nLieu: Thaurac secteur Atlantide / Saint Bauzille de Putois\nDate: le 07/12/2024 de 12:45 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 200 m\nPlaces: Capacité illimitée\, 8 inscriptions confirmées\nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240207&h=32f17745b9
 DTEND:20241207T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Thaurac secteur Atlantide / Saint Bauzille de Putois
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241207T124500Z
+DTSTART:20241207T114500Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Sortie falaise pour niveau 5b/5c+
 UID:3400ES240207@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -16,19 +16,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Quizz Cartographie ludique\nLieu: Local du Club\nDate: le 02/12/2024 de 19:00 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 900 m\nPlaces: 2/10 inscriptions confirmées\nResponsable: VIERO BRUNO\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240073&h=f9aee77fac
 DTEND:20241202T203000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Local du Club
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241202T190000Z
+DTSTART:20241202T180000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Quizz Cartographie ludique
 UID:3400RA240073@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240073&h=f9aee77fac
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
+DTSTART;VALUE=DATE:20241204
+DTEND;VALUE=DATE:20241206
 DESCRIPTION:Sortie: Groupe de progression en mixité choisie pour femmes et minorités de genre\nLieu: Local\nDate: le 05/12/2024\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDenivele: Dénivelé positif : 900 m\nPlaces: 10/10 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240194&h=f407a16a29
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Local
 ORGANIZER;CN=CAF Montpellier:mailto:
 STATUS:TENTATIVE
@@ -39,10 +40,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 09/12/2024 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 50 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20241209T203000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241209T183000Z
+DTSTART:20241209T173000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
 UID:3400ES240228@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -50,10 +51,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Lever de soleil au pic Saint Loup\nLieu: Cazevieille\nDate: le 30/11/2024 de 06:30 à 11:00\nNiveau technique: 1\nNiveau physique: 2\nDenivele: Dénivelé positif : 370 m\nPlaces: 4/20 inscriptions confirmées\nResponsable: RIGOU PEGGY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240075&h=6876747818
 DTEND:20241130T110000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Cazevieille
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241130T063000Z
+DTSTART:20241130T053000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Lever de soleil au pic Saint Loup
 UID:3400RA240075@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -62,10 +63,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nLieu: Val d'Ossola\nDate: du 02/08/2025  à 08:00 au 09/08/2025 à 20:00\nNiveau technique: 4\nNiveau physique: 4\nDenivele: \nPlaces: Capacité illimitée\, 2 inscriptions confirmées\, 1 inscription en attente\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
 DTEND:20250809T200000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Val d'Ossola
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250802T080000Z
+DTSTART:20250802T060000Z
 STATUS:TENTATIVE
 SUMMARY:[Canyonisme] Rassemblement International de Canyon Italie
 UID:3400CA240111@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -74,10 +75,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Journée de recherche DVA sur la plage\nLieu: Petit travers (Plage de carnon)\nDate: le 15/12/2024 de 10:00 à 16:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDenivele: Dénivelé positif : 2000 m\nPlaces: Capacité illimitée\, 16 inscriptions confirmées\, 1 inscription en attente\nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING
 DTEND:20241215T160000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Petit travers (Plage de carnon)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241215T100000Z
+DTSTART:20241215T090000Z
 STATUS:TENTATIVE
 SUMMARY:[Ski alpinisme/ski de montagne/snowboard alpinisme] Journée de recherche DVA sur la plage
 UID:3400SM240017@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -85,10 +86,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 - VERDUS\nLieu: ST GUILHEM LE DESERT (34)\nDate: le 30/11/2024 de 09:00 à 18:00\nNiveau technique: 1\nNiveau physique: 2\nDenivele: Dénivelé positif : 100 m\nPlaces: Capacité illimitée\, 4 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: VALIDEE\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240107&h=7490d554a7
 DTEND:20241130T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:ST GUILHEM LE DESERT (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241130T090000Z
+DTSTART:20241130T080000Z
 STATUS:CONFIRMED
 SUMMARY:[Canyonisme] FORMATION CANYON NIVEAU 1 - VERDUS
 UID:3400CA240107@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -97,10 +98,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Orthus Corniches et Crêtes Modification\nLieu: Orthus\nDate: le 01/12/2024 de 09:15 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 550 m\nPlaces: 10/12 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240058&h=d9f9502808
 DTEND:20241201T163000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Orthus
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241201T091500Z
+DTSTART:20241201T081500Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Orthus Corniches et Crêtes Modification
 UID:3400RA240058@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -109,10 +110,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Soirée apéro au local - section trail\nLieu: Local du club\nDate: le 19/12/2024 de 18:00 à 22:00\nNiveau technique: 4\nNiveau physique: 4\nDenivele: Dénivelé positif : 2000 m\nPlaces: \nResponsable: ICHBIA DAVID\nStatus: AU PLANNING
 DTEND:20241219T220000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Local du club
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241219T180000Z
+DTSTART:20241219T170000Z
 STATUS:TENTATIVE
 SUMMARY:[Trail] Soirée apéro au local - section trail
 UID:3400TR240016@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -120,10 +121,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: ARTENAC PONDERACH\nLieu: SAINT PONS de THOMIERES\nDate: le 07/12/2024 de 08:00 à 22:00\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 200 m\nPlaces: 11/11 inscriptions confirmées\nResponsable: NAVONE GUILHEM\nStatus: AU PLANNING
 DTEND:20241207T220000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:SAINT PONS de THOMIERES
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241207T080000Z
+DTSTART:20241207T070000Z
 STATUS:TENTATIVE
 SUMMARY:[Spéléologie] ARTENAC PONDERACH
 UID:3400SP240070@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -131,10 +132,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nLieu: Lieu à définir\nDate: le 15/12/2024 de 09:00 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 2000 m\nPlaces: \nResponsable: BRESSON ANTONIN\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240219&h=0565a8810c
 DTEND:20241215T170000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Lieu à définir
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241215T090000Z
+DTSTART:20241215T080000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)
 UID:3400ES240219@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -143,10 +144,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)\nLieu: Aumessas (30)\nDate: le 08/12/2024 de 09:00 à 19:00\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20241208T190000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Aumessas (30)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241208T090000Z
+DTSTART:20241208T080000Z
 STATUS:TENTATIVE
 SUMMARY:[Canyonisme] FORMATION CANYON NIVEAU 1 : canyon du BAVEZON (30)
 UID:3400CA240109@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -154,10 +155,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE\nLieu: Queyras\nDate: du 21/12/2024  à 08:00 au 22/12/2024 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 600 m\nPlaces: \nResponsable: LEBEGUE QUENTIN\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240003&h=2de9b9134e
 DTEND:20241222T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Queyras
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241221T080000Z
+DTSTART:20241221T070000Z
 STATUS:TENTATIVE
 SUMMARY:[Cascade de glace] PREMIERE GLACE AIGUILLES - INITATION CASCADE DE GLACE
 UID:3400CG240003@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -166,10 +167,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: VAUCLUSE - Secteur Mont Ventoux\nLieu: Malaucenne\nDate: du 07/12/2024  à 07:00 au 08/12/2024 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 900 m\nPlaces: \nResponsable: GALZY NADINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240072&h=dd45b21c6d
 DTEND:20241208T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Malaucenne
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241207T070000Z
+DTSTART:20241207T060000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] VAUCLUSE - Secteur Mont Ventoux
 UID:3400RA240072@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -178,10 +179,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Spéléo dans la vallée de la Buèges\nLieu: secteur St Jean de Buèges\nDate: le 30/11/2024 de 08:30 à 23:00\nNiveau technique: 3\nNiveau physique: 3\nDenivele: Dénivelé positif : 100 m\nPlaces: 6/6 inscriptions confirmées\nResponsable: MINANA FABIENNE\nStatus: AU PLANNING
 DTEND:20241130T230000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:secteur St Jean de Buèges
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241130T083000Z
+DTSTART:20241130T073000Z
 STATUS:TENTATIVE
 SUMMARY:[Spéléologie] Spéléo dans la vallée de la Buèges
 UID:3400SP240072@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -189,10 +190,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET\nLieu: Col d'Ornon\nDate: du 04/01/2025  au 05/01/2025\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 800 m\nPlaces: 19/20 inscriptions confirmées\, 28 inscriptions en attente\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
 DTEND:20250105T000000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Col d'Ornon
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250104T000000Z
+DTSTART:20250103T230000Z
 STATUS:TENTATIVE
 SUMMARY:[Alpinisme] INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET
 UID:3400AL240022@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -200,10 +201,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 02/12/2024 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 900 m\nPlaces: 2/20 inscriptions confirmées\, 3 inscriptions en attente\nResponsable: MARY LAURA\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240227&h=87749f38af
 DTEND:20241202T203000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241202T183000Z
+DTSTART:20241202T173000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
 UID:3400ES240227@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -212,10 +213,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Formation Ski de Pente Raide\nLieu: massif de la Tarentaise\nDate: du 24/01/2025  à 18:00 au 26/01/2025 à 18:00\nNiveau technique: 4\nNiveau physique: 3\nDenivele: Dénivelé positif : 1300 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: BENSUSSAN DAVID\nStatus: AU PLANNING
 DTEND:20250126T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:massif de la Tarentaise
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250124T180000Z
+DTSTART:20250124T170000Z
 STATUS:TENTATIVE
 SUMMARY:[Ski alpinisme/ski de montagne/snowboard alpinisme] Formation Ski de Pente Raide
 UID:3400SM240020@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -223,10 +224,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Clocheton des Matelles\nLieu: Clocheton des Matelles\nDate: le 11/12/2024 de 10:00 à 15:45\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 2000 m\nPlaces: Capacité illimitée\, 2 inscriptions confirmées\nResponsable: GODIARD FRANCK\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240208&h=f16702bec2
 DTEND:20241211T154500Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Clocheton des Matelles
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241211T100000Z
+DTSTART:20241211T090000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Clocheton des Matelles
 UID:3400ES240208@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -235,10 +236,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Saint Micisse\nLieu: CAZILHAC\nDate: le 29/12/2024 de 10:00 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 600 m\nPlaces: 2/12 inscriptions confirmées\, 1 inscription en attente\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240055&h=c47e29737e
 DTEND:20241229T163000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:CAZILHAC
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241229T100000Z
+DTSTART:20241229T090000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Saint Micisse
 UID:3400RA240055@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -247,10 +248,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 16/12/2024 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 2000 m\nPlaces: \nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20241216T203000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241216T183000Z
+DTSTART:20241216T173000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
 UID:3400ES240229@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -258,10 +259,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie bloc à Lodève\nLieu: Prieuré\, Lodève\nDate: le 08/12/2024 de 09:30 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 50 m\nPlaces: \nResponsable: FAYANT ALIZEE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240241&h=f70ee29148
 DTEND:20241208T170000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Prieuré\, Lodève
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241208T093000Z
+DTSTART:20241208T083000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Sortie bloc à Lodève
 UID:3400ES240241@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -270,10 +271,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Balade poétique et agapes noeliques dans le vallon de Gellone\nLieu: Saint-Guilhem-le-Désert\nDate: le 10/12/2024 de 10:00 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 50 m\nPlaces: \nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING
 DTEND:20241210T170000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Saint-Guilhem-le-Désert
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241210T100000Z
+DTSTART:20241210T090000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Balade poétique et agapes noeliques dans le vallon de Gellone
 UID:3400RA240076@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -281,10 +282,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Assemblée Générale du Club : SAVE THE DATE\nLieu: LA COUPOLE SUD\, 15 Pl. de Zeus\, 34000 Montpellier\nDate: le 04/12/2024 de 19:00 à 22:30\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDenivele: Dénivelé positif : 900 m\nPlaces: \nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240018&h=0a12328342
 DTEND:20241204T223000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:LA COUPOLE SUD\, 15 Pl. de Zeus\, 34000 Montpellier
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241204T190000Z
+DTSTART:20241204T180000Z
 STATUS:TENTATIVE
 SUMMARY:[Ski alpinisme/ski de montagne/snowboard alpinisme] Assemblée Générale du Club : SAVE THE DATE
 UID:3400SM240018@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -293,10 +294,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie falaise débutant (pour les nouveaux arrivants au club)\nLieu: Lieu à définir\nDate: le 01/12/2024 de 09:00 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 550 m\nPlaces: Capacité illimitée\, 5 inscriptions confirmées\nResponsable: ABECASSIS CHARLOTTE\nStatus: AU PLANNING
 DTEND:20241201T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Lieu à définir
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241201T090000Z
+DTSTART:20241201T080000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)
 UID:3400ES240218@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -304,10 +305,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Soirée Local : Voyages à vélo avec Philippe Jansen\nLieu: Local beaux-arts\nDate: le 11/12/2024 de 19:00 à 21:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 2000 m\nPlaces: \nResponsable: PALACIOS GREGORY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240078&h=7e638e71b5
 DTEND:20241211T210000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Local beaux-arts
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241211T190000Z
+DTSTART:20241211T180000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Soirée Local : Voyages à vélo avec Philippe Jansen
 UID:3400RA240078@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -316,10 +317,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34\nLieu: Saint Maurice de Navacelle (34)\nDate: le 07/12/2024 de 09:00 à 18:00\nNiveau technique: 1\nNiveau physique: 2\nDenivele: Dénivelé positif : 200 m\nPlaces: \nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20241207T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Saint Maurice de Navacelle (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241207T090000Z
+DTSTART:20241207T080000Z
 STATUS:TENTATIVE
 SUMMARY:[Canyonisme] FORMATION CANYON NIVEAU 1 : Canyon du BERGOUGNOUS 34
 UID:3400CA240108@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -327,10 +328,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Corconne \, Crête de la Taillade et Embruscalles\nLieu: Corconne\nDate: le 09/01/2025 de 09:45 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDenivele: Dénivelé positif : 500 m\nPlaces: 8/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240059&h=2eef0abd89
 DTEND:20250109T163000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Corconne
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250109T094500Z
+DTSTART:20250109T084500Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée] Corconne \, Crête de la Taillade et Embruscalles
 UID:3400RA240059@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -339,10 +340,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Cascade de glace - Grandes Voies\nLieu: Vallon du Fournel\, Vallon du Diable\, à voir selon conditions\nDate: du 08/02/2025  à 07:00 au 09/02/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDenivele: Dénivelé positif : 1000 m\nPlaces: \nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CG240002&h=9f698a091f
 DTEND:20250209T180000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:Vallon du Fournel\, Vallon du Diable\, à voir selon conditions
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250208T070000Z
+DTSTART:20250208T060000Z
 STATUS:TENTATIVE
 SUMMARY:[Cascade de glace] Cascade de glace - Grandes Voies
 UID:3400CG240002@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -351,10 +352,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Atelier vol et assurage dynamique\nLieu: SAE des Aiguerelles\nDate: le 02/12/2024 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 900 m\nPlaces: 8/8 inscriptions confirmées\nResponsable: ROLLIN MAEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240239&h=7f5b6d3251
 DTEND:20241202T203000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:SAE des Aiguerelles
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241202T183000Z
+DTSTART:20241202T173000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Atelier vol et assurage dynamique
 UID:3400ES240239@arntanguy.github.io/caf_montpellier/agenda_caf.ical
@@ -363,10 +364,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie tranquille pour se dégourdir les jambes\nLieu: A définir\nDate: le 30/11/2024 de 10:00 à 12:00\nNiveau technique: 1\nNiveau physique: 1\nDenivele: Dénivelé positif : 550 m\nPlaces: \nResponsable: ICHBIA DAVID\nStatus: AU PLANNING
 DTEND:20241130T120000Z
-LAST-MODIFIED:20241129T123908Z
+LAST-MODIFIED:20241129T124346Z
 LOCATION:A définir
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20241130T100000Z
+DTSTART:20241130T090000Z
 STATUS:TENTATIVE
 SUMMARY:[Trail] Sortie tranquille pour se dégourdir les jambes
 UID:3400TR240017@arntanguy.github.io/caf_montpellier/agenda_caf.ical
