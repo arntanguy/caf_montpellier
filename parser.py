@@ -5,6 +5,9 @@ import urllib.request
 import sys
 import rfeed
 from ics import Calendar, Event, Organizer
+import pytz
+
+timezone = pytz.timezone('Europe/Paris')
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -235,7 +238,7 @@ def genICAL(results):
         organizer = Organizer(email="", common_name="CAF Montpellier")
         event.organizer = organizer
 
-        event.last_modified = datetime.now()
+        event.last_modified = datetime.now(timezone)
         ics.events.add(event)
 
     return ics
@@ -280,7 +283,7 @@ def genRSS(results):
         link = "https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91",
         description = "Agenda des sorties du Club Alpin Français de Montpellier",
         language = "fr-FR",
-        lastBuildDate = datetime.now(),
+        lastBuildDate = datetime.now(timezone),
         items = items)
     return feed
 
