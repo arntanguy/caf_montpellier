@@ -206,30 +206,6 @@ def printSorties(results):
         print('responsable: ', r['responsable'])
         print('status: ', r['status'])
 
-
-    # for event in events:
-    #     title = event.text.strip()
-    #     date_str = event.find_next_sibling('p').text.strip()  # Find the next paragraph
-    #
-    #     # Extract date (assuming it's the first part before "de")
-    #     date_str = date_str.split('de').strip()
-    #
-    #     # Parse date string
-    #     try:
-    #         date_obj = datetime.strptime(date_str, "%d/%m/%Y")
-    #         date_ical = date_obj.strftime("%Y%m%d")
-    #     except ValueError:
-    #         print(f"Skipping event '{title}' due to invalid date format: {date_str}")
-    #         continue
-    #
-    #     print("BEGIN:VEVENT")
-    #     print(f"SUMMARY:{title}")
-    #     print(f"DTSTART:{date_ical}")
-    #     print(f"DTEND:{date_ical}")
-    #     print("END:VEVENT")
-    #
-    # print("END:VCALENDAR")
-
 def genICAL(results):
     ics = Calendar()
     ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
@@ -243,8 +219,10 @@ def genICAL(results):
             event.make_all_day()
         event.uid = r['sortie_id'] + "@arntanguy.github.io/caf_montpellier/agenda_caf.ical"
         event.location = r['lieu']
-        event.description =  r['title'] + "\n" + r['lieu'] + "\n" + r['niveau_technique'] + "\n" + r['niveau_physique'] + "\n" + r['denivele'] + "\n" + r['places'] + "\n" + r['responsable'] + "\n" + r['status']
-        event.url = r['inscription_url']
+        event.description = "Sortie: " + r['title'] + "\nLieu: " + r['lieu'] + "\nDate: " + r['date_str'] + "\nNiveau technique: " + r['niveau_technique'] + "\nNiveau physique: " + r['niveau_physique'] + "\nDenivele: " + r['denivele'] + "\nPlaces: " + r['places'] + "\nResponsable: " + r['responsable'] + "\nStatus: " + r['status']
+        if r['inscription_url']:
+            event.description += "\nInscriptions: " + r['inscription_url']
+            event.url = r['inscription_url']
 
         status = ""
         if r['status'] == 'AU PLANNING':
@@ -280,12 +258,14 @@ def genRSS(results):
                     <li><b>Responsable:</b> {responsable}</li>
                     <li><b>Status:</b> {status}</li>
                     <li><b>Activité:</b> {activite}</li>
-                    <li><b>URL:</b> <a href="{link}">{link}</a></li>
+                    <li><b>Inscriptions:</b> <a href="{link}">{link}</a></li>
                 </ul>""".format(
                 title = r['title'],
                 lieu = r['lieu'],
                 niveau_technique = r['niveau_technique'],
+                niveau_technique_img = r['niveau_technique_img'],
                 niveau_physique = r['niveau_physique'],
+                niveau_physique_img = r['niveau_physique_img'],
                 denivele = r['denivele'],
                 places = r['places'],
                 responsable = r['responsable'],
