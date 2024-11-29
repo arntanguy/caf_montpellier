@@ -36,7 +36,6 @@ def parse_html(html_content):
         all_day=False
         # convert date to ical format
         if date_str.startswith('le'): # same day
-            all_day = True
             # Date format is one of the following:
             # date_str:  le 09/01/2025 de 09:45 à 16:30
             # date_str:  le 09/01/2025
@@ -45,13 +44,13 @@ def parse_html(html_content):
             if(len(date_arr) == 1): # No hours provided
                 date_start_str = date_arr[0] + ', 00:00'
                 date_end_str = date_arr[0] + ', 23:59'
+                all_day = True
             else: # Start and end hours provided
                 date_start_str = date_arr[0] + ', ' + date_arr[1].split(' à ')[0]
                 date_end_str = date_arr[0] + ', ' + date_arr[1].split(' à ')[1]
             date_start = datetime.strptime(date_start_str, "%d/%m/%Y, %H:%M")
             date_end = datetime.strptime(date_end_str, "%d/%m/%Y, %H:%M")
         else: # date range
-            all_day=False
             date_arr = date_str.split('du ')[1].split(' au ')
             date_start_arr = ', '.join(date_arr[0].split("  à "))
             date_end_arr = ', '.join(date_arr[1].split(" à "))
