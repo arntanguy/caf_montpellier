@@ -11,6 +11,9 @@ timezone = pytz.timezone('Europe/Paris')
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
+def isValInLst(val, lst):
+    return [index for index, content in enumerate(lst) if val in content]
+
 def parse_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
 
@@ -55,15 +58,27 @@ def parse_html(html_content):
             date_end = datetime.strptime(date_end_str, "%d/%m/%Y, %H:%M")
         else: # date range
             date_arr = date_str.split('du ')[1].split(' au ')
-            date_start_arr = ', '.join(date_arr[0].split("  à "))
-            date_end_arr = ', '.join(date_arr[1].split(" à "))
-            print(date_start_arr)
-            print(date_end_arr)
+            date_time_start_arr = date_arr[0].split("  à ")
+            date_start_str = ', '.join(date_time_start_arr).strip()
+            date_time_end_arr = date_arr[1].split(" à ")
+            date_end_str = ', '.join(date_time_end_arr).strip()
+            print(date_time_start_arr)
+            print(date_start_str)
+            print(date_time_end_arr)
+            print(date_end_str)
             # now we get date with the following format
             # date_start_arr = '08/02/2025, 07:00'
+            # or date_start_arr = '08/02/2025'
             # parse date into ical format
-            date_start = datetime.strptime(date_start_arr, "%d/%m/%Y, %H:%M")
-            date_end = datetime.strptime(date_end_arr, "%d/%m/%Y, %H:%M")
+            if len(date_time_start_arr) == 2: # No hours provided
+                date_start = datetime.strptime(date_start_str, "%d/%m/%Y, %H:%M")
+            else:
+                date_start = datetime.strptime(date_start_str, "%d/%m/%Y")
+
+            if len(date_time_end_arr) == 2:
+                date_end = datetime.strptime(date_end_str, "%d/%m/%Y, %H:%M")
+            else:
+                date_end = datetime.strptime(date_end_str, "%d/%m/%Y")
 
         activite_image_tag = sortie.find('img', {'class': 'activite'})
         activite_image = image_url + activite_image_tag['src']
@@ -137,8 +152,6 @@ def parse_html(html_content):
         # Places can be:
         # - Capacite illimitée
         # - 9/12 inscriptions confirmées
-        def isValInLst(val, lst):
-            return [index for index, content in enumerate(lst) if val in content]
 
         if isValInLst('Capacite illimitée', text):
             places = 'Capacite illimitée'
