@@ -1,13 +1,12 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone
 import time
 import urllib.request
 import sys
 import rfeed
 from ics import Calendar, Event, Organizer
 import pytz
-
-timezone = pytz.timezone('Europe/Paris')
+from zoneinfo import ZoneInfo
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -37,8 +36,8 @@ def parse_html(html_content):
 
         # get text from intitule_tag after the title div
         date_str = intitule_tag.next_sibling.strip()
-        date_start = ""
-        date_end = ""
+        date_start = "" 
+        date_end = "" 
         all_day=False
         # convert date to ical format
         if date_str.startswith('le'): # same day
@@ -70,6 +69,7 @@ def parse_html(html_content):
             # date_start_arr = '08/02/2025, 07:00'
             # or date_start_arr = '08/02/2025'
             # parse date into ical format
+            tz = pytz.timezone('Europe/Paris')
             if len(date_time_start_arr) == 2: # No hours provided
                 date_start = datetime.strptime(date_start_str, "%d/%m/%Y, %H:%M")
             else:
@@ -226,10 +226,13 @@ def genICAL(results):
     ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
 
     for r in results:
+        date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+
         event = Event()
         event.name = "[" + r['activite'] + "] " + r['title']
-        event.begin = r['date_start']
-        event.end = r['date_end']
+        event.begin = date_start
+        event.end = date_end
         if r['all_day']:
             event.make_all_day()
         event.uid = r['sortie_id'] + "@arntanguy.github.io/caf_montpellier/agenda_caf.ical"
@@ -251,7 +254,7 @@ def genICAL(results):
         organizer = Organizer(email="", common_name="CAF Montpellier")
         event.organizer = organizer
 
-        event.last_modified = datetime.now(timezone)
+        event.last_modified = datetime.now()
         ics.events.add(event)
 
     return ics
@@ -296,7 +299,7 @@ def genRSS(results):
         link = "https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91",
         description = "Agenda des sorties du Club Alpin Français de Montpellier",
         language = "fr-FR",
-        lastBuildDate = datetime.now(timezone),
+        lastBuildDate = datetime.now(),
         items = items)
     return feed
 
