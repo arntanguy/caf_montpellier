@@ -236,7 +236,7 @@ def genICAL(results):
 
     for r in results:
         event = Event()
-        event.name = r['title']
+        event.name = "[" + r['activite'] + "] " + r['title']
         event.begin = r['date_start']
         event.end = r['date_end']
         if r['all_day']:
@@ -267,14 +267,14 @@ def genRSS(results):
     items = []
     for r in results:
         item = rfeed.Item(
-            title = r['title'] + "[" + r['activite'] + "]",
+            title = "[" + r['activite'] + "] " + r['title'],
             link = r['inscription_url'],
             description = """
                 <ul>
                     <li><b>Sortie:</b> {title}</li>
                     <li><b>Lieu:</b> {lieu}</li>
-                    <li><b>Niveau technique:</b> {niveau_technique}</li>
-                    <li><b>Niveau physique:</b> {niveau_physique}</li>
+                    <li><b>Niveau technique:</b> {niveau_technique}<br /><img src="{niveau_technique_img}" alt="Niveau {niveau_technique}"/></li>
+                    <li><b>Niveau physique:</b> {niveau_physique}<br /><img src="{niveau_physique_img}" alt="Niveau {niveau_physique}"/></li>
                     <li><b>Dénivele:</b> {denivele}</li>
                     <li><b>Places:</b> {places}</li>
                     <li><b>Responsable:</b> {responsable}</li>
