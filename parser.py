@@ -4,21 +4,22 @@ import time
 import urllib.request
 import sys
 import rfeed
+from ics import Calendar, Event, Organizer
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
 def parse_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
-    
+
     sortie_liste = soup.find('div', {'id': 'sortie_liste'})
     sortie_array = sortie_liste.findAll('div', {'class': 'sortie'})
     print(sortie_array)
-    
+
     results = []
     for sortie in sortie_array:
         print('========')
         intitule_tag = sortie.find('div', {'class': 'intitule'})
-        # strip title from link 
+        # strip title from link
         title = intitule_tag.find('a').text.strip()
         # get data-sortie-id from a tag
         sortie_id = intitule_tag.find('a')['data-sortie-id']
@@ -32,8 +33,10 @@ def parse_html(html_content):
         date_str = intitule_tag.next_sibling.strip()
         date_start = ""
         date_end = ""
+        all_day=False
         # convert date to ical format
         if date_str.startswith('le'): # same day
+            all_day = True
             # Date format is one of the following:
             # date_str:  le 09/01/2025 de 09:45 à 16:30
             # date_str:  le 09/01/2025
@@ -48,6 +51,7 @@ def parse_html(html_content):
             date_start = datetime.strptime(date_start_str, "%d/%m/%Y, %H:%M")
             date_end = datetime.strptime(date_end_str, "%d/%m/%Y, %H:%M")
         else: # date range
+            all_day=False
             date_arr = date_str.split('du ')[1].split(' au ')
             date_start_arr = ', '.join(date_arr[0].split("  à "))
             date_end_arr = ', '.join(date_arr[1].split(" à "))
@@ -58,7 +62,7 @@ def parse_html(html_content):
             # parse date into ical format
             date_start = datetime.strptime(date_start_arr, "%d/%m/%Y, %H:%M")
             date_end = datetime.strptime(date_end_arr, "%d/%m/%Y, %H:%M")
-    
+
         activite_image_tag = sortie.find('img', {'class': 'activite'})
         activite_image = image_url + activite_image_tag['src']
         # get parent div
@@ -66,14 +70,14 @@ def parse_html(html_content):
         activite_nom = parent.text.strip()
         # get lieu
         lieu = sortie.find('div', {'class': 'lieu'}).text.strip()
-    
+
         # Find div with containing text 'Difficulté'
         # Difficulté can either be:
         # - Tout niveaux
         # - or two images corresponding to:
         #   - Niveau physique
         #   - Niveau technique
-    
+
         difficulte_tag = sortie.find('div', text='Difficulté')
         difficulte = ""
         niveau_technique=""
@@ -88,7 +92,7 @@ def parse_html(html_content):
             niveau_physique_img = image_url + niveau_physique_tag['src']
             print("Niveau physique: ", niveau_physique_img)
             print("Niveau technique: ", niveau_technique_img)
-    
+
             NIVEAU_PHYSIQUE_MAP = {
                 '42': '4',
                 '38': '3',
@@ -103,8 +107,8 @@ def parse_html(html_content):
                 '22': '1',
                 '18': '1'
             }
-    
-            # url is image.php?type=physique&amp;id=30 
+
+            # url is image.php?type=physique&amp;id=30
             # get id from url
             niveau_physique_id = niveau_physique_img.split('id=')[1]
             niveau_physique = NIVEAU_PHYSIQUE_MAP.get(niveau_physique_id, "Inconnu: " + niveau_physique_img)
@@ -112,9 +116,9 @@ def parse_html(html_content):
             niveau_technique = NIVEAU_TECHNIQUE_MAP.get(niveau_technique_id, "Inconnu: " + niveau_technique_img)
         else:
             difficulte = difficulte_tag.next_sibling.strip()
-            niveau_technique = difficulte 
+            niveau_technique = difficulte
             niveau_physique = difficulte
-    
+
         denivele_tag = sortie.find_next('div', {'class': 'denivele'})
         denivele = ""
         if denivele_tag:
@@ -122,18 +126,18 @@ def parse_html(html_content):
             # ensure there is at most a single space
             denivele = ' '.join(denivele.split())
             print(denivele)
-    
+
         text = [x.strip() for x in sortie.text.split('\n')]
         # find 'Responsable :' and next element in list
         responsable = text[text.index('Responsable :')+1]
-    
+
         places = ""
         # Places can be:
         # - Capacite illimitée
         # - 9/12 inscriptions confirmées
         def isValInLst(val, lst):
             return [index for index, content in enumerate(lst) if val in content]
-    
+
         if isValInLst('Capacite illimitée', text):
             places = 'Capacite illimitée'
         elif isValInLst('inscriptions confirmées', text):
@@ -143,7 +147,7 @@ def parse_html(html_content):
                 places = places.replace('inscriptions confirmées', 'inscriptions confirmées, ')
             if not places.endswith('Capacite illimitée'):
                 places = places.replace('Capacité illimitée', 'Capacité illimitée, ')
-    
+
         STATUS = ["AU PLANNING", "VALIDEE", "ANNULEE"]
         # find if status is in text list
         status = [x for x in STATUS if x in text]
@@ -151,8 +155,8 @@ def parse_html(html_content):
             status = status[0]
         else:
             status = 'INCONNU'
-    
-    
+
+
         dict = {
             'title': title,
             'sortie_id': sortie_id,
@@ -163,6 +167,7 @@ def parse_html(html_content):
             'date_str': date_str,
             'date_start': date_start,
             'date_end': date_end,
+            'all_day': all_day,
             'difficulte': difficulte,
             'niveau_technique': str(niveau_technique),
             'niveau_technique_img': niveau_technique_img,
@@ -201,7 +206,7 @@ def printSorties(results):
         print('responsable: ', r['responsable'])
         print('status: ', r['status'])
 
-    
+
     # for event in events:
     #     title = event.text.strip()
     #     date_str = event.find_next_sibling('p').text.strip()  # Find the next paragraph
@@ -225,37 +230,22 @@ def printSorties(results):
     #
     # print("END:VCALENDAR")
 
-def genICAL(results, prefix=""):
-    ical_str = ""
-    ical_str += "BEGIN:VCALENDAR\n"
-    ical_str += "VERSION:2.0\n"
-    ical_str += "NAME:CAF Montpellier"
-    ical_str += "X-WR-CALNAME:CAF Montpellier"
-    ical_str += "DESCRIPTION:Agenda des sorties du Club Alpin Français de Montpellier"
-    ical_str += "X-WR-CALDESC:Agenda des sorties du Club Alpin Français de Montpellier"
-    ical_str += "TIMEZONE-ID:Europe/Paris"
-    ical_str += "X-WR-TIMEZONE:Europe/Paris"
+def genICAL(results):
+    ics = Calendar()
+    ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
+
     for r in results:
-        # format date and hour in ical
-        date_start_ical = r['date_start'].strftime("%Y%m%dT%H%M%S")
-        date_end_ical = r['date_end'].strftime("%Y%m%dT%H%M%S")
-        description = "Sortie: " + r['title'] + "\\nActivité: " + r['activite'] + "\\nLieu: " + r['lieu'] + "\\nNiveau Technique: " + r['niveau_technique'] + "\\nNiveau Physique: " + r['niveau_physique'] + "\\n" + r['denivele'] + "\\nPlaces: " + r['places'] + "\\nResponsable: " + r['responsable'] + "\\nStatus: " + r['status']
-        if r['inscription_url']:
-            description += "\\nInscription: " + r['inscription_url']
+        event = Event()
+        event.name = r['title']
+        event.begin = r['date_start']
+        event.end = r['date_end']
+        if r['all_day']:
+            event.make_all_day()
+        event.uid = r['sortie_id'] + "@arntanguy.github.io/caf_montpellier/agenda_caf.ical"
+        event.location = r['lieu']
+        event.description =  r['title'] + "\n" + r['lieu'] + "\n" + r['niveau_technique'] + "\n" + r['niveau_physique'] + "\n" + r['denivele'] + "\n" + r['places'] + "\n" + r['responsable'] + "\n" + r['status']
+        event.url = r['inscription_url']
 
-        ical_str += "BEGIN:VEVENT\n"
-
-        # set UID
-        ical_str += "UID:"+r['sortie_id']+"\n"
-        timestamp = int(time.time())
-        ical_str += "SEQUENCE:" + str(timestamp) + "\n" # Always increasing sequence number such that each update to this event with the same UID is propagated
-        ical_str += "SUMMARY:"+r['title']+" ["+r['activite']+"]\n"
-        ical_str += "DTSTART:"+date_start_ical+"\n"
-        ical_str += "DTEND:"+date_end_ical+"\n"
-        ical_str += "LOCATION:"+r['lieu']+"\n"
-        ical_str += "DESCRIPTION:"+description+"\n"
-        # organiser
-        ical_str += "ORGANIZER;CN="+r['responsable']+":\n"
         status = ""
         if r['status'] == 'AU PLANNING':
             status = "TENTATIVE"
@@ -263,10 +253,15 @@ def genICAL(results, prefix=""):
             status = "CONFIRMED"
         elif r['status'] == 'CANCELLED':
             status = "CANCELLED"
-        ical_str += "STATUS:"+status+"\n"
-        ical_str += "END:VEVENT\n"
-    ical_str += "END:VCALENDAR\n"
-    return ical_str
+        event.status = status
+
+        organizer = Organizer(email="", common_name="CAF Montpellier")
+        event.organizer = organizer
+
+        event.last_modified = datetime.now()
+        ics.events.add(event)
+
+    return ics
 
 def genRSS(results):
     items = []
@@ -274,8 +269,30 @@ def genRSS(results):
         item = rfeed.Item(
             title = r['title'] + "[" + r['activite'] + "]",
             link = r['inscription_url'],
-            description = r['title'] + "\n" + r['lieu'] + "\n" + r['niveau_technique'] + "\n" + r['niveau_physique'] + "\n" + r['denivele'] + "\n" + r['places'] + "\n" + r['responsable'] + "\n" + r['status'], 
-            author = r['responsable'], 
+            description = """
+                <ul>
+                    <li><b>Sortie:</b> {title}</li>
+                    <li><b>Lieu:</b> {lieu}</li>
+                    <li><b>Niveau technique:</b> {niveau_technique}</li>
+                    <li><b>Niveau physique:</b> {niveau_physique}</li>
+                    <li><b>Dénivele:</b> {denivele}</li>
+                    <li><b>Places:</b> {places}</li>
+                    <li><b>Responsable:</b> {responsable}</li>
+                    <li><b>Status:</b> {status}</li>
+                    <li><b>Activité:</b> {activite}</li>
+                    <li><b>URL:</b> <a href="{link}">{link}</a></li>
+                </ul>""".format(
+                title = r['title'],
+                lieu = r['lieu'],
+                niveau_technique = r['niveau_technique'],
+                niveau_physique = r['niveau_physique'],
+                denivele = r['denivele'],
+                places = r['places'],
+                responsable = r['responsable'],
+                status = r['status'],
+                activite = r['activite'],
+                link = r['inscription_url']),
+            author = r['responsable'],
             guid = rfeed.Guid(r['sortie_id']),
             pubDate = r['date_start'])
         items.append(item)
@@ -320,16 +337,16 @@ def main():
 
 
     results = parse_html(html_content)
-    # results = results[0:5] 
+    # results = results[0:5]
     print('Number of sorties: ', len(results))
     print(results)
     printSorties(results)
-    ical_str = genICAL(results)
+    ical = genICAL(results)
     # write ical to tmp
     with open(save_ical_url, 'w') as f:
-        f.write(ical_str)
+        f.writelines(ical.serialize_iter())
 
-    rss = genRSS(results) 
+    rss = genRSS(results)
     with open(save_rss_url, 'w') as f:
         f.write(rss.rss())
 
