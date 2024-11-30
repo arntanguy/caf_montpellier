@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sat, 30 Nov 2024 22:48:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] Lever de soleil au pic Saint Loup</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Lever de soleil au pic Saint Loup&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Cazevieille&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 370 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4/20 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RIGOU PEGGY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RIGOU PEGGY</author><pubDate>Sat, 30 Nov 2024 06:30:00 GMT</pubDate><guid isPermaLink="true">3400RA240075</guid></item><item><title>[Spéléologie] Spéléo dans la vallée de la Buèges</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Spéléo dans la vallée de la Buèges&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; secteur St Jean de Buèges&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 550 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6/6 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MINANA FABIENNE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Spéléologie&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>MINANA FABIENNE</author><pubDate>Sat, 30 Nov 2024 08:30:00 GMT</pubDate><guid isPermaLink="true">3400SP240072</guid></item><item><title>[Randonnée] Rando Le CAF pour tous</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240079&amp;h=d9ffb68d61</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Rando Le CAF pour tous&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Domaine de Restinclières&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 550 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/5 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PALACIOS GREGORY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240079&amp;h=d9ffb68d61"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240079&amp;h=d9ffb68d61&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>PALACIOS GREGORY</author><pubDate>Sat, 30 Nov 2024 09:45:00 GMT</pubDate><guid isPermaLink="true">3400RA240079</guid></item><item><title>[Trail] Tour du pic saint Loup</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Tour du pic saint Loup&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint-Mathieu de Tréviers&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 550 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ICHBIA DAVID&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Trail&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ICHBIA DAVID</author><pubDate>Sat, 30 Nov 2024 10:00:00 GMT</pubDate><guid isPermaLink="true">3400TR240017</guid></item><item><title>[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sat, 30 Nov 2024 23:04:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie falaise débutant (pour les nouveaux arrivants au club)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Lieu à définir&lt;/li&gt;
@@ -263,7 +215,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240078&amp;h=7e638e71b5"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RA240078&amp;h=7e638e71b5&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>PALACIOS GREGORY</author><pubDate>Wed, 11 Dec 2024 19:00:00 GMT</pubDate><guid isPermaLink="true">3400RA240078</guid></item><item><title>[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240219&amp;h=0565a8810c</link><description>
+                &lt;/ul&gt;</description><author>PALACIOS GREGORY</author><pubDate>Wed, 11 Dec 2024 19:00:00 GMT</pubDate><guid isPermaLink="true">3400RA240078</guid></item><item><title>[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie falaise débutant (pour les nouveaux arrivants au club)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Lieu à définir&lt;/li&gt;
@@ -274,7 +226,7 @@
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRESSON ANTONIN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240219&amp;h=0565a8810c"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240219&amp;h=0565a8810c&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>BRESSON ANTONIN</author><pubDate>Sun, 15 Dec 2024 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES240219</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Journée de recherche DVA sur la plage</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Journée de recherche DVA sur la plage&lt;/li&gt;
