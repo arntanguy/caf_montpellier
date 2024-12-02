@@ -11,7 +11,9 @@ from zoneinfo import ZoneInfo
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
 def isValInLst(val, lst):
-    return [index for index, content in enumerate(lst) if val in content]
+    # check if val is in any substring of lst and returns a new list with the resulting ematches
+    res = list(filter(lambda x: val in x, lst))
+    return res
 
 def parse_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -36,8 +38,8 @@ def parse_html(html_content):
 
         # get text from intitule_tag after the title div
         date_str = intitule_tag.next_sibling.strip()
-        date_start = "" 
-        date_end = "" 
+        date_start = ""
+        date_end = ""
         all_day=False
         # convert date to ical format
         if date_str.startswith('le'): # same day
@@ -151,17 +153,22 @@ def parse_html(html_content):
         places = ""
         # Places can be:
         # - Capacite illimitée
-        # - 9/12 inscriptions confirmées
+        # - 9/12 inscriptions confirmée(s)
+        # Capacité illimitée18 inscriptions en attente
+        res = isValInLst('Capacité', text)
+        if res:
+            places = ", ".join(res)
+        res = isValInLst('inscriptions', text)
+        if res:
+            places = ", ".join(res)
 
-        if isValInLst('Capacite illimitée', text):
-            places = 'Capacite illimitée'
-        elif isValInLst('inscriptions confirmées', text):
-            id = isValInLst('inscriptions confirmées', text)[0]
-            places = text[id]
-            if not places.endswith('inscriptions confirmées'):
-                places = places.replace('inscriptions confirmées', 'inscriptions confirmées, ')
-            if not places.endswith('Capacite illimitée'):
-                places = places.replace('Capacité illimitée', 'Capacité illimitée, ')
+        # Capacité illimitée2 inscriptions confirmées1 inscription en attente
+        places = places.replace('Capacité illimitée', 'Capacité illimitée, ')
+        places = places.replace('inscriptions en attente', 'inscriptions en attente, ')
+        places = places.replace('inscriptions confirmées', 'inscriptions confirmées, ')
+        # remove trailing coma
+        if len(places) > 2 and places.endswith(', '):
+            places = places[:-2]
 
         STATUS = ["AU PLANNING", "VALIDEE", "ANNULEE"]
         # find if status is in text list
@@ -237,7 +244,10 @@ def genICAL(results):
             event.make_all_day()
         event.uid = r['sortie_id'] + "@arntanguy.github.io/caf_montpellier/agenda_caf.ical"
         event.location = r['lieu']
-        event.description = "Sortie: " + r['title'] + "\nLieu: " + r['lieu'] + "\nDate: " + r['date_str'] + "\nNiveau technique: " + r['niveau_technique'] + "\nNiveau physique: " + r['niveau_physique'] + "\nDenivele: " + r['denivele'] + "\nPlaces: " + r['places'] + "\nResponsable: " + r['responsable'] + "\nStatus: " + r['status']
+        event.description = "Sortie: " + r['title'] + "\nLieu: " + r['lieu'] + "\nDate: " + r['date_str'] + "\nNiveau technique: " + r['niveau_technique'] + "\nNiveau physique: " + r['niveau_physique']
+        if r['denivele']:
+            event.description += "\n" + r['denivele']
+        event.description+= "\nPlaces: " + r['places'] + "\nResponsable: " + r['responsable'] + "\nStatus: " + r['status']
         if r['inscription_url']:
             event.description += "\nInscriptions: " + r['inscription_url']
             event.url = r['inscription_url']
@@ -271,25 +281,26 @@ def genRSS(results):
                     <li><b>Lieu:</b> {lieu}</li>
                     <li><b>Niveau technique:</b> {niveau_technique}<br /><img src="{niveau_technique_img}" alt="Niveau {niveau_technique}"/></li>
                     <li><b>Niveau physique:</b> {niveau_physique}<br /><img src="{niveau_physique_img}" alt="Niveau {niveau_physique}"/></li>
-                    <li><b>Dénivele:</b> {denivele}</li>
+                    {denivele}
                     <li><b>Places:</b> {places}</li>
                     <li><b>Responsable:</b> {responsable}</li>
                     <li><b>Status:</b> {status}</li>
                     <li><b>Activité:</b> {activite}</li>
                     <li><b>Inscriptions:</b> <a href="{link}">{link}</a></li>
                 </ul>""".format(
-                title = r['title'],
-                lieu = r['lieu'],
-                niveau_technique = r['niveau_technique'],
-                niveau_technique_img = r['niveau_technique_img'],
-                niveau_physique = r['niveau_physique'],
-                niveau_physique_img = r['niveau_physique_img'],
-                denivele = r['denivele'],
-                places = r['places'],
-                responsable = r['responsable'],
-                status = r['status'],
-                activite = r['activite'],
-                link = r['inscription_url']),
+                            title = r['title'],
+                            lieu = r['lieu'],
+                            niveau_technique = r['niveau_technique'],
+                            niveau_technique_img = r['niveau_technique_img'],
+                            niveau_physique = r['niveau_physique'],
+                            niveau_physique_img = r['niveau_physique_img'],
+                            denivele = "<li><b>Dénivelé:</b> " + r['denivele'] + "</li>" if r['denivele'] else "",
+                            places = r['places'],
+                            responsable = r['responsable'],
+                            status = r['status'],
+                            activite = r['activite'],
+                            link = r['inscription_url']
+                            ),
             author = r['responsable'],
             guid = rfeed.Guid(r['sortie_id']),
             pubDate = r['date_start'])
@@ -335,9 +346,6 @@ def main():
 
 
     results = parse_html(html_content)
-    # results = results[0:5]
-    print('Number of sorties: ', len(results))
-    print(results)
     printSorties(results)
     ical = genICAL(results)
     # write ical to tmp
