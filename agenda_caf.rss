@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 02 Dec 2024 13:49:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240227&amp;h=87749f38af</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 02 Dec 2024 14:01:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240227&amp;h=87749f38af</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Séance d'escalade aux Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 15/15 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MARY LAURA&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -17,7 +17,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8/8 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROLLIN MAEL&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
@@ -29,7 +29,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Local du Club&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VIERO BRUNO&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
@@ -41,8 +41,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE de Lattes&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 14 places4 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PISCITELLO FLAVIA&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
@@ -53,8 +53,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; LA COUPOLE SUD, 15 Pl. de Zeus, 34000 Montpellier&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 18 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PAUL-DELVAUX JEANNE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
@@ -65,7 +65,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Local&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10/10 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ABECASSIS CHARLOTTE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -77,8 +77,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Malaucenne&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7 places6 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GALZY NADINE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
@@ -89,7 +89,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAINT PONS de THOMIERES&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 11/11 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; NAVONE GUILHEM&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -101,7 +101,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint Maurice de Navacelle (34)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/8 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LECLERCQ MICHEL&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -113,7 +113,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Thaurac secteur Atlantide / Saint Bauzille de Putois&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 9 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GODIARD FRANCK&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -125,7 +125,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Aumessas (30)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/8 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LECLERCQ MICHEL&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -137,7 +137,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Prieuré, Lodève&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions confirmées, 1 inscription en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FAYANT ALIZEE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -149,7 +149,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MARY LAURA&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -161,8 +161,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint-Guilhem-le-Désert&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; REBOULET ANNE MARIE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
@@ -173,7 +173,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Clocheton des Matelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 2 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GODIARD FRANCK&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -185,8 +185,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Local beaux-arts&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 4 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PALACIOS GREGORY&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
@@ -197,8 +197,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Lieu à définir&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 10 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRESSON ANTONIN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
@@ -209,7 +209,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Petit travers (Plage de carnon)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 16 inscriptions confirmées, 1 inscription en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PAUL-DELVAUX JEANNE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -221,7 +221,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MARY LAURA&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -233,7 +233,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Local du club&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=42" alt="Niveau 4"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 4 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ICHBIA DAVID&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -245,8 +245,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Queyras&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 9 places9 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LEBEGUE QUENTIN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Cascade de glace&lt;/li&gt;
@@ -257,7 +257,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; CAZILHAC&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 3/12 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PAVIOT ODILE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -269,7 +269,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Col d'Ornon&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 19/20 inscriptions confirmées, 28 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TANGUY ARNAUD&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -281,7 +281,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Corconne&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8/10 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PAVIOT ODILE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -293,7 +293,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; massif de la Tarentaise&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 1300 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1300 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6/7 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BENSUSSAN DAVID&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
@@ -305,8 +305,8 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Vallon du Fournel, Vallon du Diable, à voir selon conditions&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; &lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 13 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TANGUY ARNAUD&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Cascade de glace&lt;/li&gt;
@@ -317,7 +317,7 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Val d'Ossola&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=42" alt="Niveau 4"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivele:&lt;/b&gt; &lt;/li&gt;
+                    
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 2 inscriptions confirmées, 1 inscription en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BERNARD LIONEL&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
