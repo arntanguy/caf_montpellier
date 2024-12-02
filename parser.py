@@ -166,6 +166,7 @@ def parse_html(html_content):
         places = places.replace('Capacité illimitée', 'Capacité illimitée, ')
         places = places.replace('inscriptions en attente', 'inscriptions en attente, ')
         places = places.replace('inscriptions confirmées', 'inscriptions confirmées, ')
+        places = places.replace('places', 'places, ')
         # remove trailing coma
         if len(places) > 2 and places.endswith(', '):
             places = places[:-2]
