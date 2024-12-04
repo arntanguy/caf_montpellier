@@ -6,7 +6,7 @@ import sys
 import rfeed
 from ics import Calendar, Event, Organizer
 import pytz
-from zoneinfo import ZoneInfo
+# from zoneinfo import ZoneInfo
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -20,7 +20,7 @@ def parse_html(html_content):
 
     sortie_liste = soup.find('div', {'id': 'sortie_liste'})
     sortie_array = sortie_liste.findAll('div', {'class': 'sortie'})
-    print(sortie_array)
+    # print(sortie_array)
 
     results = []
     for sortie in sortie_array:
@@ -154,11 +154,22 @@ def parse_html(html_content):
         # Places can be:
         # - Capacite illimitée
         # - 9/12 inscriptions confirmée(s)
-        # Capacité illimitée18 inscriptions en attente
+        # - Capacité illimitée18 inscriptions en attente
+        # - Capacité illimitée18 inscriptions confirmées
+        # - Capacité illimitée18 inscriptions en attente18 inscriptions confirmées
+        # - 20 places1 inscription en attente
+        # - 20 places12 inscriptions confirmées1 inscription en attente
+        # - 20 places
         res = isValInLst('Capacité', text)
         if res:
             places = ", ".join(res)
-        res = isValInLst('inscriptions', text)
+        res = isValInLst('Place', text)
+        if res:
+            places = ", ".join(res)
+        res = isValInLst('place', text)
+        if res:
+            places = ", ".join(res)
+        res = isValInLst('inscription', text)
         if res:
             places = ", ".join(res)
 
@@ -234,8 +245,11 @@ def genICAL(results):
     ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
 
     for r in results:
-        date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
-        date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        # date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        # date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        date_start = r['date_start']
+        date_end = r['date_end']
+
 
         event = Event()
         event.name = "[" + r['activite'] + "] " + r['title']
