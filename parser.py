@@ -245,10 +245,10 @@ def genICAL(results):
     ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
 
     for r in results:
+        # date_start = r['date_start']
+        # date_end = r['date_end']
         date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
         date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
-        date_start = r['date_start']
-        date_end = r['date_end']
 
 
         event = Event()
