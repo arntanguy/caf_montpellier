@@ -6,7 +6,7 @@ import sys
 import rfeed
 from ics import Calendar, Event, Organizer
 import pytz
-# from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo
 
 image_url = 'https://extranet-clubalpin.com/app/out/'
 
@@ -245,8 +245,8 @@ def genICAL(results):
     ics.creator = "CAF Montpellier - https://arntanguy.github.io/caf_montpellier"
 
     for r in results:
-        # date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
-        # date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        date_start = r['date_start'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
+        date_end = r['date_end'].replace(tzinfo=ZoneInfo('Europe/Paris')).astimezone(pytz.utc)
         date_start = r['date_start']
         date_end = r['date_end']
 
@@ -268,11 +268,12 @@ def genICAL(results):
             event.url = r['inscription_url']
 
         status = ""
+        print("STATUS: ", r['status'])
         if r['status'] == 'AU PLANNING':
             status = "TENTATIVE"
         elif r['status'] == 'VALIDEE':
             status = "CONFIRMED"
-        elif r['status'] == 'CANCELLED':
+        elif r['status'] == 'ANNULEE':
             status = "CANCELLED"
         event.status = status
 
