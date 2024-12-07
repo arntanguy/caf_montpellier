@@ -28,6 +28,7 @@ def parse_html(html_content):
         intitule_tag = sortie.find('div', {'class': 'intitule'})
         # strip title from link
         title = intitule_tag.find('a').text.strip()
+        print('title: ', title)
         # get data-sortie-id from a tag
         sortie_id = intitule_tag.find('a')['data-sortie-id']
 
@@ -71,7 +72,6 @@ def parse_html(html_content):
             # date_start_arr = '08/02/2025, 07:00'
             # or date_start_arr = '08/02/2025'
             # parse date into ical format
-            tz = pytz.timezone('Europe/Paris')
             if len(date_time_start_arr) == 2: # No hours provided
                 date_start = datetime.strptime(date_start_str, "%d/%m/%Y, %H:%M")
             else:
@@ -83,10 +83,17 @@ def parse_html(html_content):
                 date_end = datetime.strptime(date_end_str, "%d/%m/%Y")
 
         activite_image_tag = sortie.find('img', {'class': 'activite'})
-        activite_image = image_url + activite_image_tag['src']
-        # get parent div
-        parent = activite_image_tag.parent
-        activite_nom = parent.text.strip()
+        activite_image = ''
+        if activite_image_tag:
+            activite_image = image_url + activite_image_tag['src']
+            # get parent div
+            parent = activite_image_tag.parent
+            activite_nom = parent.text.strip()
+        else: # some activities do not have images (ex: Neige et Avalanche)
+            activite_nom = intitule_tag.parent.find_previous_sibling('div').text.strip()
+
+        print('activite_image: ', activite_image)
+        print('activite: ', activite_nom)
         # get lieu
         lieu = sortie.find('div', {'class': 'lieu'}).text.strip()
 
