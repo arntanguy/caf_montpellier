@@ -60,3 +60,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: /tmp/docker/source/deploy # The folder the action should deploy.
+        git-config-name: 'Github Pages Deploy Action'
+        git-config-email: '<>' # Ignore email to push anonymous commits (so that they don't show up in contributions)
