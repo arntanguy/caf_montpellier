@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 09 Dec 2024 10:24:07 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240228&amp;h=f1d9b6da97</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 09 Dec 2024 10:39:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240228&amp;h=f1d9b6da97</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Séance d'escalade aux Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
@@ -335,7 +335,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SM240019&amp;h=9492808535"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SM240019&amp;h=9492808535&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>AUCLAIR DANIEL</author><pubDate>Fri, 31 Jan 2025 16:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240019</guid></item><item><title>[Ski de randonnée nordique] Ski de randonnée nordique: le retour !</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RN240001&amp;h=85042008ca</link><description>
+                &lt;/ul&gt;</description><author>AUCLAIR DANIEL</author><pubDate>Fri, 31 Jan 2025 16:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240019</guid></item><item><title>[Cascade de glace] Camp départemental Cascade de Glace / Alpi Hivernale Guillestre</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Camp départemental Cascade de Glace / Alpi Hivernale Guillestre&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Guillestre&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TANGUY ARNAUD&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Cascade de glace&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>TANGUY ARNAUD</author><pubDate>Sun, 02 Feb 2025 12:00:00 GMT</pubDate><guid isPermaLink="true">3400CG240005</guid></item><item><title>[Ski de randonnée nordique] Ski de randonnée nordique: le retour !</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RN240001&amp;h=85042008ca</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Ski de randonnée nordique: le retour !&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Suivant enneigement&lt;/li&gt;
@@ -347,7 +359,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski de randonnée nordique&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RN240001&amp;h=85042008ca"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400RN240001&amp;h=85042008ca&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>DELAPERRIERE ERIC</author><pubDate>Fri, 07 Feb 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400RN240001</guid></item><item><title>[Cascade de glace] Cascade de glace - Grandes Voies</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CG240002&amp;h=9f698a091f</link><description>
+                &lt;/ul&gt;</description><author>DELAPERRIERE ERIC</author><pubDate>Fri, 07 Feb 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400RN240001</guid></item><item><title>[Cascade de glace] Cascade de glace - Grandes Voies</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Cascade de glace - Grandes Voies&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Vallon du Fournel, Vallon du Diable, à voir selon conditions&lt;/li&gt;
@@ -356,9 +368,9 @@
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 15 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TANGUY ARNAUD&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Cascade de glace&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CG240002&amp;h=9f698a091f"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400CG240002&amp;h=9f698a091f&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>TANGUY ARNAUD</author><pubDate>Sat, 08 Feb 2025 07:00:00 GMT</pubDate><guid isPermaLink="true">3400CG240002</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Semaine ski de rando en étoile</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SM240023&amp;h=8123afbc4a</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Semaine ski de rando en étoile&lt;/li&gt;
