@@ -1,60 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 15 Dec 2024 22:48:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] "1ere Neige au Lautaret"</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; "1ere Neige au Lautaret"&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; VILLAR D'ARENE(05)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4/4 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRUNEL THIERRY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRUNEL THIERRY</author><pubDate>Fri, 13 Dec 2024 14:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240029</guid></item><item><title>[Canyonisme] CANYONS DANS LA GARROTXA (SP)</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; CANYONS DANS LA GARROTXA (SP)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; COUSTOUGES&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 200 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6/6 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LECLERCQ MICHEL&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Canyonisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>LECLERCQ MICHEL</author><pubDate>Sat, 14 Dec 2024 08:00:00 GMT</pubDate><guid isPermaLink="true">3400CA240112</guid></item><item><title>[Escalade] Sortie falaise débutant (pour les nouveaux arrivants au club)</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie falaise débutant (pour les nouveaux arrivants au club)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Valflaunès&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 6 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRESSON ANTONIN&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRESSON ANTONIN</author><pubDate>Sun, 15 Dec 2024 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES240219</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Journée de recherche DVA sur la plage</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Journée de recherche DVA sur la plage&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Petit travers (Plage de carnon)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 17 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PAUL-DELVAUX JEANNE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>PAUL-DELVAUX JEANNE</author><pubDate>Sun, 15 Dec 2024 10:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240017</guid></item><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240229&amp;h=aa17178762</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 15 Dec 2024 23:05:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240229&amp;h=aa17178762</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Séance d'escalade aux Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6/20 inscriptions confirmées, 1 inscription en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6/20 inscriptions confirmées, 2 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MARY LAURA&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
