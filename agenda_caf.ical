@@ -4,7 +4,7 @@ PRODID:CAF Montpellier - https://arntanguy.github.io/caf_montpellier
 BEGIN:VEVENT
 DESCRIPTION:Sortie: WE Découverte du Ski de Randonnée et formation Neige et Avalanche NA1\nLieu: Ariège\nDate: du 17/01/2025  à 14:00 au 19/01/2025 à 20:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 8 places\, 8 inscriptions en attente\nResponsable: LAFFONT JACQUES\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240028&h=fb86be3bbe
 DTEND:20250119T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Ariège
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250117T130000Z
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 06/01/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 1300 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20250106T193000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250106T173000Z
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: TORRENT DES VERNEDES\nLieu: AUMESSAS (30)\nDate: le 25/01/2025 de 07:00 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 200 m\nPlaces: 5/6 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20250125T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:AUMESSAS (30)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250125T060000Z
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Cycle vers le perfectionnement au ski de randonnée (en mobilité douce)\nLieu: Local du CAF 6 rue de la Poésie\nDate: du 06/01/2025  à 19:00 au 31/03/2025 à 20:30\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1300 m\nPlaces: Capacité illimitée\nResponsable: PAUL-DELVAUX JEANNE\nStatus: AU PLANNING
 DTEND:20250331T183000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Local du CAF 6 rue de la Poésie
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250106T180000Z
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Saint Micisse\nLieu: CAZILHAC\nDate: le 05/01/2025 de 10:00 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 12 places\, 5 inscriptions en attente\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240081&h=17f298391d
 DTEND:20250105T153000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:CAZILHAC
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250105T090000Z
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nLieu: Val d'Ossola\nDate: du 02/08/2025  à 08:00 au 09/08/2025 à 20:00\nNiveau technique: 4\nNiveau physique: 4\nPlaces: Capacité illimitée\, 2 inscriptions confirmées\, 5 inscriptions en attente\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
 DTEND:20250809T180000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Val d'Ossola
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250802T060000Z
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 20/01/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 2000 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20250120T193000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250120T173000Z
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Semaine ski de rando en étoile\nLieu: Briançonnais ?\nDate: du 22/02/2025  à 09:00 au 01/03/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 2\nPlaces: 5 places\, 5 inscriptions en attente\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240023&h=8123afbc4a
 DTEND:20250301T170000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Briançonnais ?
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250222T080000Z
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Formation "Initié en Ski de randonnée 3.3" : Carto-Orientation (CO1)\nLieu: Selon enneigement\nDate: du 31/01/2025  à 16:00 au 02/02/2025 à 22:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: 8/12 inscriptions confirmées\, 4 inscriptions en attente\nResponsable: AUCLAIR DANIEL\nStatus: AU PLANNING
 DTEND:20250202T210000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Selon enneigement
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250131T150000Z
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: TORRENT D'ALBINE\nLieu: COLOMBIERE-SUR-ORB (34)\nDate: le 29/12/2024 de 07:00 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 300 m\nPlaces: 5/6 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20241229T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:COLOMBIERE-SUR-ORB (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20241229T060000Z
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: WE Découverte du Ski de Randonnée et formation Neige et Avalanche NA1\nLieu: Lieu à déterminer selon enneigement\nDate: du 10/01/2025  à 14:00 au 12/01/2025 à 20:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 7/8 inscriptions confirmées\, 1 inscription en attente\nResponsable: BIENVENU SOPHIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240027&h=ca3c1083d2
 DTEND:20250112T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Lieu à déterminer selon enneigement
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250110T130000Z
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 30/12/2024 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 20 places\, 1 inscription en attente\nResponsable: MARY LAURA\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240252&h=4315a5754b
 DTEND:20241230T193000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20241230T173000Z
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige et Avalanche NA1 - COMPLET\nLieu: Col d'Ornon\nDate: du 04/01/2025  au 05/01/2025 à 23:59\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 19/19 inscriptions confirmées\, 21 inscriptions en attente\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
 DTEND:20250105T225900Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Col d'Ornon
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250103T230000Z
@@ -153,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Soirée de Préparation : Découverte\, Activités en Montagne Enneigée (Ski de randonnée\, Raquette\, Alpinisme ) - Théorie NA1\nLieu: En salle à l' IUT de Montpellier\nDate: le 08/01/2025 de 19:30 à 22:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 500 m\nPlaces: 68/80 inscriptions confirmées\, 9 inscriptions en attente\nResponsable: BRUNEL THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400NA240002&h=0f4256a5ca
 DTEND:20250108T213000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:En salle à l' IUT de Montpellier
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250108T183000Z
@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: TORRENT D'ALBINE\nLieu: COLOMBIERE-SUR-ORB (34)\nDate: le 19/01/2025 de 07:00 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 300 m\nPlaces: 3/6 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20250119T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:COLOMBIERE-SUR-ORB (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250119T060000Z
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Formation Ski de Pente Raide\nLieu: massif de la Tarentaise\nDate: du 24/01/2025  à 18:00 au 26/01/2025 à 18:00\nNiveau technique: 4\nNiveau physique: 3\nDénivelé positif : 1300 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: BENSUSSAN DAVID\nStatus: AU PLANNING
 DTEND:20250126T170000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:massif de la Tarentaise
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250124T170000Z
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: WE NA1 (Inité 3.4) - Découverte Raquettes\nLieu: ARIEGE\nDate: du 31/01/2025  à 14:00 au 02/02/2025 à 19:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 600 m\nPlaces: 3 places\, 3 inscriptions en attente\nResponsable: NOUVIAIRE NICOLAS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RQ240003&h=877bf48851
 DTEND:20250202T180000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:ARIEGE
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250131T130000Z
@@ -199,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Camp départemental Cascade de Glace / Alpi Hivernale Guillestre\nLieu: Guillestre\nDate: du 02/02/2025  à 12:00 au 09/02/2025 à 12:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: Capacité illimitée\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
 DTEND:20250209T110000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Guillestre
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250202T110000Z
@@ -210,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Bivouac au Pic Saint Loup\nLieu: Pic Saint Loup\nDate: du 30/12/2024  à 14:00 au 31/12/2024 à 12:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 370 m\nPlaces: 4 places\, 1 inscription en attente\nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING
 DTEND:20241231T110000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Pic Saint Loup
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20241230T130000Z
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Rando Galette\nLieu: Castries Carrieresde Sussargues et Beaulieu\nDate: le 12/01/2025 de 09:30 à 16:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 50 m\nPlaces: Capacité illimitée\nResponsable: PIERRE AUGUSTE ALINE\nStatus: AU PLANNING
 DTEND:20250112T150000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Castries Carrieresde Sussargues et Beaulieu
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250112T083000Z
@@ -232,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Saint Micisse\nLieu: CAZILHAC\nDate: le 29/12/2024 de 10:00 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: 4/12 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: ANNULEE
 DTEND:20241229T153000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:CAZILHAC
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20241229T090000Z
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 13/01/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20250113T193000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250113T173000Z
@@ -254,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: RANDO RAPPELS DU PIC SAINT LOUP VERSION LONGUE\nLieu: COL DU FAMBETOU\nDate: le 12/01/2025 de 08:00 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 300 m\nPlaces: 5/8 inscriptions confirmées\nResponsable: VINCENT MAGALI\nStatus: AU PLANNING
 DTEND:20250112T170000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:COL DU FAMBETOU
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250112T070000Z
@@ -265,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Clés et techniques pour encadrer\nLieu: SAE et falaises du coin\nDate: le 15/01/2025 de 18:00 à 21:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: 8 places\, 3 inscriptions en attente\nResponsable: ICHBIA DAVID\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES240256&h=e6423a3131
 DTEND:20250115T200000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:SAE et falaises du coin
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250115T170000Z
@@ -277,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: week-end de début de saison\nLieu: Pyrénées ?\nDate: du 24/01/2025  à 14:00 au 26/01/2025 à 20:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 2000 m\nPlaces: 5 places\, 5 inscriptions en attente\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240024&h=d1380d0efa
 DTEND:20250126T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Pyrénées ?
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250124T130000Z
@@ -289,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Cascade de glace - Grandes Voies\nLieu: Vallon du Fournel\, Vallon du Diable\, à voir selon conditions\nDate: du 08/02/2025  à 07:00 au 09/02/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: Capacité illimitée\, 15 inscriptions en attente\nResponsable: TANGUY ARNAUD\nStatus: ANNULEE
 DTEND:20250209T170000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Vallon du Fournel\, Vallon du Diable\, à voir selon conditions
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250208T060000Z
@@ -300,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Corconne \, Crête de la Taillade et Embruscalles\nLieu: Corconne\nDate: le 09/01/2025 de 09:45 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 12/14 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA240059&h=2eef0abd89
 DTEND:20250109T153000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Corconne
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250109T084500Z
@@ -312,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: GALETTE DES ROIS AU ROCHER DE SION\nLieu: AGONES (34)\nDate: le 05/01/2025 de 09:00 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: Capacité illimitée\, 29 inscriptions confirmées\, 1 inscription en attente\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240120&h=c35e456d53
 DTEND:20250105T170000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:AGONES (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250105T080000Z
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: INITIÉ 2.3 et 3.4 - Découverte de l'alpinisme en couloir et formation Neige Avalanche NA1 - COMPLET\nLieu: Col d'Ornon\nDate: du 18/01/2025  à 08:00 au 19/01/2025 à 16:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 8/8 inscriptions confirmées\nResponsable: DUVAL ERWAN\nStatus: AU PLANNING
 DTEND:20250119T150000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Col d'Ornon
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250118T070000Z
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Ski de randonnée nordique: le retour !\nLieu: Suivant enneigement\nDate: du 07/02/2025  à 14:00 au 09/02/2025 à 21:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 5/6 inscriptions confirmées\nResponsable: DELAPERRIERE ERIC\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RN240001&h=85042008ca
 DTEND:20250209T200000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Suivant enneigement
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250207T130000Z
@@ -347,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: WE Découverte du Ski de Randonnée et formation Neige et Avalanche NA1\nLieu: Villar d'arêne (05)\nDate: du 17/01/2025  à 14:00 au 19/01/2025 à 20:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: 4/8 inscriptions confirmées\, 4 inscriptions en attente\nResponsable: BRUNEL THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM240026&h=b3294b1fc9
 DTEND:20250119T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:Villar d'arêne (05)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250117T130000Z
@@ -359,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: TORRENT D'ALBINE\nLieu: COLOMBIERE-SUR-ORB (34)\nDate: le 18/01/2025 de 07:00 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 300 m\nPlaces: 5/6 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
 DTEND:20250118T190000Z
-LAST-MODIFIED:20241227T090440Z
+LAST-MODIFIED:20241227T092327Z
 LOCATION:COLOMBIERE-SUR-ORB (34)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250118T060000Z
