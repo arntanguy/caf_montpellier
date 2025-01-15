@@ -354,10 +354,14 @@ def main():
         save_rss_url = "/tmp/sorties_caf.rss"
 
     agenda_url=""
-    if(len(sys.argv) > 3):
+    if len(sys.argv) > 3:
         agenda_url = sys.argv[3]
+        print("Agenda URL: ", agenda_url)
     else:
+        # CAF Montpellier
         agenda_url = 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91'
+        # CAF Bezier 
+        # agenda_url = 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3450&h=b2c61fdc99'
 
     html_content = ""
     if agenda_url:

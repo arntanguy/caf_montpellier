@@ -29,7 +29,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         submodules: recursive
-    - name: Build within Docker
+    - name: Create docker from Dockerfile
       run: |
         echo "::group::Setup Dockerfile"
         mkdir -p /tmp/docker
@@ -44,16 +44,32 @@ jobs:
         docker build -t ical-ci-${{matrix.os}} .
         echo "::endgroup::"
         echo "::group::Build within docker"
-        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} 'python3 /src/parser.py /src/agenda_caf.ical /src/agenda_caf.rss'
+        mkdir /tmp/docker/source/deploy
+    - name: 'Build ical and rss - CAF Montpellier'
+      run: |
+        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} "python3 /src/parser.py /src/agenda_caf.ical /src/agenda_caf.rss 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3400&h=32cdfd3f91'"
         echo "::endgroup::"
         echo "::group::Copy generated ical and rss file to deploy folder"
-        mkdir /tmp/docker/source/deploy
-        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy
-        cp /tmp/docker/source/agenda_caf.rss /tmp/docker/source/deploy
+        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy # keep name agenda_caf.ical for backward compatibility
+        cp /tmp/docker/source/agenda_caf.rss /tmp/docker/source/deploy # keep name agenda_caf.rss for backward compatibility
+        cp /tmp/docker/source/agenda_caf.ical /tmp/docker/source/deploy/agenda_caf_montpellier.ical
+        cp /tmp/docker/source/agenda_caf.rss /tmp/docker/source/deploy/agenda_caf_montpellier.rss
         echo "::endgroup::"
         echo "::group::Deploy path"
-        echo "The ICAL will be published to https://arntanguy.github.io/caf_montreal/agenda_caf.ical"
-        echo "The RSS will be published to https://arntanguy.github.io/caf_montreal/agenda_caf.rss"
+        echo "The ICAL will be published to https://arntanguy.github.io/caf_montpellier/agenda_caf_montpellier.ical"
+        echo "The RSS will be published to https://arntanguy.github.io/caf_montpellier/agenda_caf_montpellier.rss"
+        echo "::endgroup::"
+    - name: 'Build ical and rss - CAF Beziers Caroux'
+      run: |
+        docker run --rm -v "/tmp/docker/source:/src/" -u $(id -u):$(id -g) ical-ci-${{matrix.os}} "python3 /src/parser.py /src/agenda_caf_beziers.ical /src/agenda_caf_beziers.rss 'https://extranet-clubalpin.com/app/out/out.php?s=12&c=3450&h=b2c61fdc99'"
+        echo "::endgroup::"
+        echo "::group::Copy generated ical and rss file to deploy folder"
+        cp /tmp/docker/source/agenda_caf_beziers.ical /tmp/docker/source/deploy
+        cp /tmp/docker/source/agenda_caf_beziers.rss /tmp/docker/source/deploy
+        echo "::endgroup::"
+        echo "::group::Deploy path"
+        echo "The ICAL will be published to https://arntanguy.github.io/caf_montpellier/agenda_caf_beziers.ical"
+        echo "The RSS will be published to https://arntanguy.github.io/caf_montpellier/agenda_caf_beziers.rss"
         echo "::endgroup::"
     - name: Deploy ical and rss to gh-pages (arntanguy) 🚀
       if: github.ref == 'refs/heads/main' && github.repository == 'arntanguy/caf_montpellier'
