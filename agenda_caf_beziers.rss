@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Wed, 15 Jan 2025 12:25:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] FAUGERES / groupe 2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250009&amp;h=bf392ee86e</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Wed, 15 Jan 2025 12:45:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] LES MOULINS DE FAUGERES / groupe 2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250009&amp;h=bf392ee86e</link><description>
                 &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; FAUGERES / groupe 2&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; LES MOULINS DE FAUGERES / groupe 2&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; FAUGERES&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
@@ -431,7 +431,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Raquettes à neige&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRUOT VALERIE</author><pubDate>Fri, 07 Mar 2025 19:00:00 GMT</pubDate><guid isPermaLink="true">3450RQ250003</guid></item><item><title>[Escalade] vendredi technique</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250007&amp;h=5fef6d037c</link><description>
+                &lt;/ul&gt;</description><author>BRUOT VALERIE</author><pubDate>Fri, 07 Mar 2025 19:00:00 GMT</pubDate><guid isPermaLink="true">3450RQ250003</guid></item><item><title>[Randonnée] Minerve Vélieux</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Minerve Vélieux&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Minerve&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROSELLI ROLAND&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>ROSELLI ROLAND</author><pubDate>Thu, 13 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250010</guid></item><item><title>[Escalade] vendredi technique</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250007&amp;h=5fef6d037c</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; vendredi technique&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; salle escalade lucie aubrac beziers&lt;/li&gt;
