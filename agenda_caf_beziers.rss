@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Thu, 16 Jan 2025 22:48:32 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] Arête du Grifoulas</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240171&amp;h=a4a376e211</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Arête du Grifoulas&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Caroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 21/22 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROMBEAUX CHRISTOPHE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240171&amp;h=a4a376e211"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240171&amp;h=a4a376e211&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROMBEAUX CHRISTOPHE</author><pubDate>Thu, 16 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240171</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Réunion d'information sur le thème "Faire sa Trace"=&gt; aller vers l'autonomie</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Réunion d'information sur le thème "Faire sa Trace"=&gt; aller vers l'autonomie&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; MVA Beziers&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FOURNIER DOMINIQUE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>FOURNIER DOMINIQUE</author><pubDate>Thu, 16 Jan 2025 19:00:00 GMT</pubDate><guid isPermaLink="true">3450SM240002</guid></item><item><title>[Alpinisme] Couloir de Neige</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL240033&amp;h=00c16e7f0c</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Thu, 16 Jan 2025 23:04:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Alpinisme] Couloir de Neige</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Couloir de Neige&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Lieu à définir&lt;/li&gt;
@@ -34,7 +10,7 @@
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LOUBET BERNARD&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL240033&amp;h=00c16e7f0c"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL240033&amp;h=00c16e7f0c&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>LOUBET BERNARD</author><pubDate>Fri, 17 Jan 2025 17:00:00 GMT</pubDate><guid isPermaLink="true">3450AL240033</guid></item><item><title>[Escalade] Grimpe en salle</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES240144&amp;h=f605682c05</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Grimpe en salle&lt;/li&gt;
@@ -47,7 +23,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES240144&amp;h=f605682c05"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES240144&amp;h=f605682c05&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Fri, 17 Jan 2025 17:00:00 GMT</pubDate><guid isPermaLink="true">3450ES240144</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Initiation/découverte</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250001&amp;h=13af276912</link><description>
+                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Fri, 17 Jan 2025 17:00:00 GMT</pubDate><guid isPermaLink="true">3450ES240144</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Initiation/découverte</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Initiation/découverte&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Ariège. Merens les Vals&lt;/li&gt;
@@ -58,7 +34,7 @@
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FOURNIER DOMINIQUE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250001&amp;h=13af276912"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250001&amp;h=13af276912&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>FOURNIER DOMINIQUE</author><pubDate>Sat, 18 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450SM250001</guid></item><item><title>[Escalade] Sortie 2 : Groupe de progression en mixité choisie pour femmes et/ou minorités de genre ( personnes trans / non-binaires )</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie 2 : Groupe de progression en mixité choisie pour femmes et/ou minorités de genre ( personnes trans / non-binaires )&lt;/li&gt;
