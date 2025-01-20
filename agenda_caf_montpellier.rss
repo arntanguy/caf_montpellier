@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 20 Jan 2025 13:13:07 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240255&amp;h=af71be863b</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 20 Jan 2025 13:26:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES240255&amp;h=af71be863b</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Séance d'escalade aux Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
@@ -173,13 +173,25 @@
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint Bauzille de Montmel&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 4 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRESSON ANTONIN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250012&amp;h=f540c6c137"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250012&amp;h=f540c6c137&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRESSON ANTONIN</author><pubDate>Sat, 01 Feb 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250012</guid></item><item><title>[Cascade de glace] Camp départemental Cascade de Glace Guillestre</title><link></link><description>
+                &lt;/ul&gt;</description><author>BRESSON ANTONIN</author><pubDate>Sat, 01 Feb 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250012</guid></item><item><title>[Randonnée] Un tour sur la Séranne</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Un tour sur la Séranne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Séranne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 16 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PIERRE AUGUSTE ALINE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PIERRE AUGUSTE ALINE</author><pubDate>Sun, 02 Feb 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3400RA250003</guid></item><item><title>[Cascade de glace] Camp départemental Cascade de Glace Guillestre</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Camp départemental Cascade de Glace Guillestre&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Guillestre&lt;/li&gt;
