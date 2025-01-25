@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sat, 25 Jan 2025 22:48:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] le désert marocain COMPLET</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sat, 25 Jan 2025 23:04:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] le désert marocain COMPLET</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; le désert marocain COMPLET&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; marrakech&lt;/li&gt;
@@ -11,31 +11,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VILLEMIN NOELLE</author><pubDate>Sat, 25 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240070</guid></item><item><title>[Escalade] 31ème CHALLENGE D'ESCALADE OMS</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250008&amp;h=41525b756f</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; 31ème CHALLENGE D'ESCALADE OMS&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SALLE LUCIE AUBRAC&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 50 places, 11 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LOUBET BERNARD&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250008&amp;h=41525b756f"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250008&amp;h=41525b756f&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>LOUBET BERNARD</author><pubDate>Sat, 25 Jan 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3450ES250008</guid></item><item><title>[Escalade] ELAN avec Romain Beauquier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES240027&amp;h=e7ba8696b1</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; ELAN avec Romain Beauquier&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint Bauzille de Montmel&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SILLOU JEAN-MARIE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES240027&amp;h=e7ba8696b1"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES240027&amp;h=e7ba8696b1&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SILLOU JEAN-MARIE</author><pubDate>Sat, 25 Jan 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3498ES240027</guid></item><item><title>[Randonnée] Les Tourelles</title><link></link><description>
+                &lt;/ul&gt;</description><author>VILLEMIN NOELLE</author><pubDate>Sat, 25 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240070</guid></item><item><title>[Randonnée] Les Tourelles</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Les Tourelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; col de Madale&lt;/li&gt;
@@ -47,7 +23,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>COMBES CLAUDE</author><pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240113</guid></item><item><title>[Randonnée] les 3 pechs</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250021&amp;h=c26507b919</link><description>
+                &lt;/ul&gt;</description><author>COMBES CLAUDE</author><pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240113</guid></item><item><title>[Randonnée] les 3 pechs</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; les 3 pechs&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Causses et Veyran&lt;/li&gt;
@@ -58,7 +34,7 @@
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GELY FRANCIS&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250021&amp;h=c26507b919"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250021&amp;h=c26507b919&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>GELY FRANCIS</author><pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250021</guid></item><item><title>[Escalade] Escalade pour débutants ou non autonomes non inscrits à l'école d'escalade</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Escalade pour débutants ou non autonomes non inscrits à l'école d'escalade&lt;/li&gt;
@@ -71,7 +47,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Sun, 26 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450ES240141</guid></item><item><title>[Vélo de montagne] VTT à La Clape</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VM250002&amp;h=c7f9b948ca</link><description>
+                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Sun, 26 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450ES240141</guid></item><item><title>[Vélo de montagne] VTT à La Clape</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; VTT à La Clape&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Notre Dame des Auzils - Gruissan&lt;/li&gt;
@@ -82,7 +58,7 @@
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GERVAIS GAEL&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Vélo de montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VM250002&amp;h=c7f9b948ca"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VM250002&amp;h=c7f9b948ca&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;</description><author>GERVAIS GAEL</author><pubDate>Sun, 26 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450VM250002</guid></item><item><title>[Randonnée Montagne] Arête de Nébuzon</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250009&amp;h=476ef40f62</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Arête de Nébuzon&lt;/li&gt;
