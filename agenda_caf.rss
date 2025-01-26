@@ -1,65 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 26 Jan 2025 22:48:13 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Clés et techniques pour encadrer</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 26 Jan 2025 23:04:31 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Clés et techniques pour encadrer</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Clés et techniques pour encadrer&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE et falaises du coin&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 400 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7/8 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ICHBIA DAVID&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ICHBIA DAVID</author><pubDate>Wed, 15 Jan 2025 19:30:00 GMT</pubDate><guid isPermaLink="true">3400ES240256</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] week-end de début de saison : ANNULE cause novo-météo trop défavorable</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; week-end de début de saison : ANNULE cause novo-météo trop défavorable&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Pyrénées ?&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 2000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6 places, 6 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GUERIN PAUL&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>GUERIN PAUL</author><pubDate>Fri, 24 Jan 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240024</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Formation Ski de Pente Raide</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Formation Ski de Pente Raide&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; massif de la Tarentaise&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7/7 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BENSUSSAN DAVID&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BENSUSSAN DAVID</author><pubDate>Fri, 24 Jan 2025 18:00:00 GMT</pubDate><guid isPermaLink="true">3400SM240020</guid></item><item><title>[Escalade] Formation Initiateur SAE</title><link></link><description>
+                &lt;/ul&gt;</description><author>ICHBIA DAVID</author><pubDate>Wed, 15 Jan 2025 19:30:00 GMT</pubDate><guid isPermaLink="true">3400ES240256</guid></item><item><title>[Escalade] Formation Initiateur SAE</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Formation Initiateur SAE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE de Lattes&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 400 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5 places&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; JAY DELPHINE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>JAY DELPHINE</author><pubDate>Sat, 25 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250009</guid></item><item><title>[Canyonisme] RANDO RAPPELS DU PIC SAINT LOUP VERSION LONGUE</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; RANDO RAPPELS DU PIC SAINT LOUP VERSION LONGUE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; COL DU FAMBETOU&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8/8 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VINCENT MAGALI&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Canyonisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VINCENT MAGALI</author><pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3400CA250005</guid></item><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250021&amp;h=84fe0ca959</link><description>
+                &lt;/ul&gt;</description><author>JAY DELPHINE</author><pubDate>Sat, 25 Jan 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250009</guid></item><item><title>[Escalade] Séance d'escalade aux Aiguerelles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250021&amp;h=84fe0ca959</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Séance d'escalade aux Aiguerelles&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE des Aiguerelles (accès rue de l'Améthyste, en face du n°25)&lt;/li&gt;
