@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Wed, 29 Jan 2025 17:22:13 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] le désert marocain COMPLET</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Wed, 29 Jan 2025 17:34:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] le désert marocain COMPLET</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; le désert marocain COMPLET&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; marrakech&lt;/li&gt;
@@ -18,7 +18,7 @@
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 4 inscriptions confirmées&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; CHEVALIER MARJORIE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
@@ -107,19 +107,7 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240163&amp;h=5fb2cd1815"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240163&amp;h=5fb2cd1815&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RENOUARD JEAN-FRANÇOIS</author><pubDate>Sun, 02 Feb 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240163</guid></item><item><title>[Randonnée Montagne] CAROUX CAF Béziers</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; CAROUX CAF Béziers&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; à définir&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 10 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Tue, 04 Feb 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250003</guid></item><item><title>[Randonnée Montagne] Arête de Nébuzon</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250011&amp;h=f0dd0555fc</link><description>
+                &lt;/ul&gt;</description><author>RENOUARD JEAN-FRANÇOIS</author><pubDate>Sun, 02 Feb 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240163</guid></item><item><title>[Randonnée Montagne] Arête de Nébuzon</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250011&amp;h=f0dd0555fc</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Arête de Nébuzon&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; COURS St Gervais sur Mare&lt;/li&gt;
@@ -227,7 +215,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250017&amp;h=f2a56e1497"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250017&amp;h=f2a56e1497&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>JAY DELPHINE</author><pubDate>Sun, 09 Feb 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250017</guid></item><item><title>[Randonnée Montagne] Les dessus de Roquefort -Les-Corbières</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250007&amp;h=bead130abb</link><description>
+                &lt;/ul&gt;</description><author>JAY DELPHINE</author><pubDate>Sun, 09 Feb 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400ES250017</guid></item><item><title>[Randonnée Montagne] CAROUX CAF Béziers</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; CAROUX CAF Béziers&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; à définir&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Tue, 11 Feb 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250012</guid></item><item><title>[Randonnée Montagne] Les dessus de Roquefort -Les-Corbières</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250007&amp;h=bead130abb</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Les dessus de Roquefort -Les-Corbières&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Roquefort-les-Corbières&lt;/li&gt;
