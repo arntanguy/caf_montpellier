@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 17 Feb 2025 14:48:16 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Clés et techniques pour encadrer</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 17 Feb 2025 15:05:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] Clés et techniques pour encadrer</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Clés et techniques pour encadrer&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE de Lattes et falaises du coin&lt;/li&gt;
@@ -107,7 +107,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Spéléologie&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SP250006&amp;h=00c877880a"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400SP250006&amp;h=00c877880a&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>LECLERCQ MICHEL</author><pubDate>Tue, 18 Feb 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3400SP250006</guid></item><item><title>[Escalade] Gimpe libre à Lattes</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250045&amp;h=16857e7127</link><description>
+                &lt;/ul&gt;</description><author>LECLERCQ MICHEL</author><pubDate>Tue, 18 Feb 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3400SP250006</guid></item><item><title>[Trail] Sortie dans le massif de la Gardiole</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400TR250002&amp;h=db0509fb21</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie dans le massif de la Gardiole&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Massif de la Gardiole&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BEAUGIER REMI&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Trail&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400TR250002&amp;h=db0509fb21"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400TR250002&amp;h=db0509fb21&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>BEAUGIER REMI</author><pubDate>Tue, 18 Feb 2025 18:00:00 GMT</pubDate><guid isPermaLink="true">3400TR250002</guid></item><item><title>[Escalade] Gimpe libre à Lattes</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400ES250045&amp;h=16857e7127</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Gimpe libre à Lattes&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; SAE de Lattes&lt;/li&gt;
