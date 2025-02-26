@@ -4,7 +4,7 @@ PRODID:CAF Montpellier - https://arntanguy.github.io/caf_montpellier
 BEGIN:VEVENT
 DESCRIPTION:Sortie: les 3 esteles\, la Dona\nLieu: Mantet\nDate: du 29/05/2025  à 07:00 au 31/05/2025 à 19:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 900 m\nPlaces: 5 places\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM240070&h=1f1323f970
 DTEND:20250531T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Mantet
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250529T050000Z
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Mont Aigoual - Sentier des 4000 marches - Gr 1\nLieu: Valleraugue\nDate: le 01/05/2025 de 07:00 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1360 m\nPlaces: Capacité illimitée\, 11 inscriptions en attente\nResponsable: SOYRIS JOEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA240157&h=547576a214
 DTEND:20250501T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Valleraugue
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250501T050000Z
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Minerve et ses rivières groupe 2\nLieu: Minerve\nDate: le 15/05/2025 de 08:30 à 19:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: Capacité illimitée\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250040&h=778d103dd2
 DTEND:20250515T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Minerve
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250515T063000Z
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: NA1 partie pratique\nLieu: Ascou Ariège\nDate: du 07/03/2025  à 19:00 au 09/03/2025 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: BRUOT VALERIE\nStatus: AU PLANNING
 DTEND:20250309T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Ascou Ariège
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250307T180000Z
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: neige ou rocher  lieu à definir\nDate: du 03/05/2025  à 08:30 au 04/05/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250504T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:neige ou rocher  lieu à definir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250503T063000Z
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: le Costabonne\nLieu: les conques\nDate: du 26/07/2025  à 06:30 au 27/07/2025 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1100 m\nPlaces: 1/6 inscription confirmée\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM240072&h=3e7b9e3875
 DTEND:20250727T180000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:les conques
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250726T043000Z
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: trek dans l'Anti Atlas marocain\nLieu: Tafraout (Maroc)\nDate: du 13/10/2025  à 12:35 au 23/10/2025 à 15:45\nNiveau technique: 3\nNiveau physique: 3\nPlaces: 10 places\, 8 inscriptions en attente\nResponsable: LUCAS BERNARD\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM250015&h=f4c0b4af31
 DTEND:20251023T134500Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Tafraout (Maroc)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20251013T103500Z
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: SEJOUR NEIGE\; ski de rando et raquettes\nLieu: ST VERAN (05)\nDate: du 22/02/2025  à 16:00 au 01/03/2025 à 09:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 600 m\nPlaces: 35/36 inscriptions confirmées\nResponsable: VAILHE ANNE\nStatus: AU PLANNING
 DTEND:20250301T080000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:ST VERAN (05)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250222T150000Z
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: grand parcours alpinisme chamonix\nDate: du 20/06/2025  à 08:30 au 22/06/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250622T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:grand parcours alpinisme chamonix
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250620T063000Z
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Gr1 les balcons du sommail\nLieu: le Moulinet\nDate: le 10/04/2025 de 08:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1360 m\nPlaces: Capacité illimitée\, 1 inscription en attente\nResponsable: VAILHE CHRISTIAN\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250017&h=b85b6f49ae
 DTEND:20250410T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:le Moulinet
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250410T060000Z
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: vers l'aigoual\, en complément du 1er mai avec Joel\nLieu: valleraugue\nDate: du 02/05/2025  à 07:00 au 03/05/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: 5/5 inscriptions confirmées\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM240068&h=9423c8d07e
 DTEND:20250503T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:valleraugue
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250502T050000Z
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Voyage ski de rando en Norvège\nLieu: Hemsedal et fjord à Aurland\nDate: du 22/03/2025  à 08:00 au 01/04/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 9000 m\nPlaces: 4/5 inscriptions confirmées\nResponsable: BELDA THIERRY\nStatus: AU PLANNING
 DTEND:20250401T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Hemsedal et fjord à Aurland
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250322T070000Z
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: vendredi technique\nLieu: salle escalade lucie aubrac beziers\nDate: le 14/03/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 800 m\nPlaces: Capacité illimitée\, 5 inscriptions confirmées\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450ES250007&h=5fef6d037c
 DTEND:20250314T193000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:salle escalade lucie aubrac beziers
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250314T173000Z
@@ -155,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Partie pratique "Faire sa trace"\nLieu: À définir selon  enneigement\nDate: du 21/03/2025  à 13:00 au 23/03/2025 à 16:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1200 m\nPlaces: 8 places\nResponsable: FOURNIER DOMINIQUE\nStatus: AU PLANNING
 DTEND:20250323T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:À définir selon  enneigement
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250321T120000Z
@@ -166,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: là oùil y aura de la neige\nLieu: refuge ou vicdessos\nDate: du 15/03/2025  à 07:00 au 16/03/2025 à 17:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 800 m\nPlaces: 6/7 inscriptions confirmées\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RQ240018&h=87198ef74d
 DTEND:20250316T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:refuge ou vicdessos
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250315T060000Z
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: stage initiation carto orientation\nLieu: les aires\nDate: le 03/04/2025 de 09:00 à 17:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 1360 m\nPlaces: 9/9 inscriptions confirmées\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250004&h=cd6051a15d
 DTEND:20250403T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:les aires
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250403T070000Z
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Minerve Vélieux   Groupe 1\nLieu: Minerve\nDate: le 13/03/2025 de 08:00 à 19:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: Capacité illimitée\, 4 inscriptions confirmées\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250010&h=d98193b95c
 DTEND:20250313T180000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Minerve
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250313T070000Z
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Des Abbatuts  au coffre de Pech Redon\nLieu: Narbonne plage\nDate: le 20/03/2025 de 08:30 à 19:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: Capacité illimitée\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250038&h=1f74321979
 DTEND:20250320T180000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Narbonne plage
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250320T073000Z
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Nettoyage sentier du Médaillé\, N°11\nLieu: Bardou\nDate: le 25/04/2025 de 08:00 à 17:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1360 m\nPlaces: 8 places\nResponsable: ASTRUC BESMA\nStatus: AU PLANNING
 DTEND:20250425T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Bardou
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250425T060000Z
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: St Veran J4 clapeyto\nLieu: Brunissard\nDate: le 26/02/2025 de 08:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: Capacité illimitée\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING
 DTEND:20250226T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Brunissard
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250226T070000Z
@@ -236,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Rando-Orchido-Bricolo et autres activités\nLieu: Plateau du Larzac\nDate: du 29/05/2025  à 08:00 au 01/06/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 1/18 inscription confirmée2 inscriptions en attente\nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250013&h=63635a0b39
 DTEND:20250601T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Plateau du Larzac
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250529T060000Z
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: col du Longet à partir de St Véran\nLieu: St Véran\nDate: le 26/02/2025 de 09:00 à 17:00\nNiveau technique: 2\nNiveau physique: 3\nDénivelé positif : 700 m\nPlaces: Capacité illimitée\, 2 inscriptions confirmées\nResponsable: BRUOT VALERIE\nStatus: AU PLANNING
 DTEND:20250226T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:St Véran
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250226T080000Z
@@ -259,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Bramefan - Mt Gros - Montahut\nLieu: Bardou\nDate: le 20/03/2025 de 08:00 à 17:00\nNiveau technique: 2\nNiveau physique: 3\nDénivelé positif : 730 m\nPlaces: Capacité illimitée\, 7 inscriptions en attente\nResponsable: SOYRIS JOEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA240160&h=5e89f20c9f
 DTEND:20250320T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Bardou
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250320T070000Z
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Piste de la Madeleine piste de Rocarel\nLieu: Colombières sur Orb\nDate: le 27/03/2025 de 09:00 à 16:00\nNiveau technique: 4\nNiveau physique: 3\nDénivelé positif : 600 m\nPlaces: Capacité illimitée\, 6 inscriptions confirmées\nResponsable: ROMBEAUX CHRISTOPHE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250025&h=40bcb316b3
 DTEND:20250327T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Colombières sur Orb
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250327T080000Z
@@ -283,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Camp d'été pour les adultes: rando\, escalade\, alpinisme\, VTT....\nLieu: Vercors\nDate: du 28/06/2025  à 08:00 au 05/07/2025 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: Capacité illimitée\, 15 inscriptions en attente\nResponsable: BRUOT VALERIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250019&h=ff0c16953f
 DTEND:20250705T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Vercors
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250628T060000Z
@@ -295,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: escalade pour grimpeur autonome\nLieu: a definir\nDate: le 12/04/2025 de 08:30 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1360 m\nPlaces: 4 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250412T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:a definir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250412T063000Z
@@ -306,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie escalade non autonomes non inscrits à l'EE\nLieu: Opoul\nDate: le 08/03/2025 de 09:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 700 m\nPlaces: 7 places\, 4 inscriptions en attente\nResponsable: OLIVA NADINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450ES250021&h=7d10d493e2
 DTEND:20250308T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Opoul
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250308T080000Z
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: le Cirque du bout du monde\nLieu: Soubès\nDate: le 23/03/2025 de 08:00 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: Capacité illimitée\, 2 inscriptions confirmées\nResponsable: COMBES CLAUDE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA240116&h=913bcb927f
 DTEND:20250323T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Soubès
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250323T070000Z
@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: CAROUX CAF Béziers\nLieu: à définir\nDate: le 18/03/2025 de 09:00 à 17:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 10 m\nPlaces: 10 places\nResponsable: PONS THIERRY\nStatus: AU PLANNING
 DTEND:20250318T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:à définir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250318T080000Z
@@ -341,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Pic de Nore    Groupe 1\nLieu: Pradelle Cabardes\nDate: le 05/06/2025 de 08:00 à 19:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 700 m\nPlaces: Capacité illimitée\, 1 inscription confirmée\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250012&h=e294f7ee81
 DTEND:20250605T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Pradelle Cabardes
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250605T060000Z
@@ -353,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: St veran J6 selon météo\nLieu: ?\nDate: le 28/02/2025 de 08:00 à 17:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: Capacité illimitée\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING
 DTEND:20250228T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:?
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250228T070000Z
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: PISTE DE BRAMEFAN\nLieu: CAROUX\nDate: le 09/03/2025 de 08:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 700 m\nPlaces: Capacité illimitée\, 6 inscriptions en attente\nResponsable: RENOUARD JEAN-FRANÇOIS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250033&h=4618e55ea3
 DTEND:20250309T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:CAROUX
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250309T070000Z
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: escalade pour grimpeur autonome\nLieu: a definir\nDate: le 07/06/2025 de 08:30 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1200 m\nPlaces: 4 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250607T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:a definir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250607T063000Z
@@ -387,7 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: creneau d'endron\nDate: du 05/04/2025  à 08:30 au 06/04/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1360 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250406T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:creneau d'endron
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250405T063000Z
@@ -398,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: à définir/ groupe1\nLieu: à définir\nDate: le 03/04/2025 de 07:00 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 570 m\nPlaces: 11 places\nResponsable: ASTRUC BESMA\nStatus: AU PLANNING
 DTEND:20250403T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:à définir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250403T050000Z
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Tour du Canigou 4 jours\nLieu: Batère\nDate: du 16/06/2025  à 07:00 au 19/06/2025 à 19:00\nNiveau technique: 4\nNiveau physique: 3\nDénivelé positif : 1200 m\nPlaces: 3/7 inscriptions confirmées\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM240071&h=4e3ddefefa
 DTEND:20250619T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Batère
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250616T050000Z
@@ -421,7 +421,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Piste des gorges de Madale vers la Forêt des Ecrivains Combatants\nLieu: Caroux\nDate: le 30/03/2025 de 08:00 à 17:00\nNiveau technique: 4\nNiveau physique: 3\nDénivelé positif : 700 m\nPlaces: 15 places\, 1 inscription en attente\nResponsable: RENOUARD JEAN-FRANÇOIS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250035&h=9a9054cdd0
 DTEND:20250330T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250330T060000Z
@@ -433,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: CIRCUIT DU VIN 0 LA SOURCE / groupe 2\nLieu: POMEROLS\nDate: le 27/02/2025 de 08:00 à 20:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 100 m\nPlaces: Capacité illimitée\nResponsable: SACRISTAN MARCEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250041&h=3085d94320
 DTEND:20250227T190000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:POMEROLS
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250227T070000Z
@@ -445,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: glacier du tour chamonix\nDate: du 11/07/2025  à 08:30 au 14/07/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1100 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250714T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:glacier du tour chamonix
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250711T063000Z
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: cueillette\, recettes\, cuisine et ...dégustation\nLieu: le moulinet (le soulié) un samedi\, pour tous\nDate: le 12/04/2025 de 08:00 à 17:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 1360 m\nPlaces: 8 places\, 7 inscriptions en attente\nResponsable: VAILHE ANNE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250016&h=73d641c1ef
 DTEND:20250412T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:le moulinet (le soulié) un samedi\, pour tous
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250412T060000Z
@@ -468,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Ubaye partie N-E\,  2 refuges CAF et 1 gite\nLieu: Alpes Hte Provence st paul sur ubaye\nDate: du 24/08/2025  à 07:00 au 31/08/2025 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: 7/7 inscriptions confirmées\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING
 DTEND:20250831T180000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Alpes Hte Provence st paul sur ubaye
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250824T050000Z
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: L'Hortus  Groupe 2\nLieu: Entre Mas de Londres et Valflounes\nDate: le 27/02/2025 de 08:30 à 19:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 400 m\nPlaces: Capacité illimitée\, 12 inscriptions confirmées\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA240166&h=5afadae8a4
 DTEND:20250227T180000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Entre Mas de Londres et Valflounes
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250227T073000Z
@@ -491,7 +491,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Pas de Fontanille Piste du Pouce\nLieu: Mons la trivalle\nDate: le 02/03/2025 de 09:00 à 16:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 10 m\nPlaces: Capacité illimitée\, 7 inscriptions confirmées\, 2 inscriptions en attente\nResponsable: ROMBEAUX CHRISTOPHE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250037&h=ee05aa2118
 DTEND:20250302T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Mons la trivalle
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250302T080000Z
@@ -503,7 +503,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Les ruines de chavardes le montahut\nLieu: Départ de Auziale entrée du village devant l'arrêt de bus\nDate: le 27/02/2025 de 09:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 700 m\nPlaces: Capacité illimitée\nResponsable: ARNAUD FRANCIS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250043&h=1c088fcf45
 DTEND:20250227T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Départ de Auziale entrée du village devant l'arrêt de bus
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250227T080000Z
@@ -515,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: neouvielle\nDate: du 23/08/2025  à 08:30 au 24/08/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250824T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:neouvielle
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250823T063000Z
@@ -526,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Gr1 les crêtes du saut de Vézole\nLieu: lac du vézole\nDate: le 15/05/2025 de 08:00 à 17:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: Capacité illimitée\nResponsable: VAILHE CHRISTIAN\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250018&h=269a3519aa
 DTEND:20250515T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:lac du vézole
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250515T060000Z
@@ -538,7 +538,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: squat à Carla !!!!\nLieu: monts d'olmes\nDate: du 07/06/2025  à 07:00 au 09/06/2025 à 19:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: 1/6 inscription confirmée\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RM240069&h=dc1d35bdb6
 DTEND:20250609T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:monts d'olmes
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250607T050000Z
@@ -550,7 +550,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Ski de rando\nLieu: Pyrénées\nDate: du 21/03/2025  à 08:00 au 24/03/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: 6 places\, 2 inscriptions en attente\nResponsable: RICARD BRUNO\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450SM250004&h=8d7827a315
 DTEND:20250324T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Pyrénées
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250321T070000Z
@@ -562,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: escalade pour grimpeur autonome\nLieu: caroux\nDate: le 09/03/2025 de 08:30 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: 6 places\, 2 inscriptions en attente\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450ES250014&h=218cc622cf
 DTEND:20250309T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250309T073000Z
@@ -574,7 +574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Peyre Martine   Groupe 1\nLieu: Pégairolles de Buèges    (Mejanels)\nDate: le 22/05/2025 de 08:00 à 19:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: Capacité illimitée\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250011&h=175f8795ff
 DTEND:20250522T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Pégairolles de Buèges    (Mejanels)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250522T060000Z
@@ -586,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: CAROUX CAF Béziers\nLieu: à définir\nDate: le 04/03/2025 de 09:00 à 17:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 10 m\nPlaces: 10 places\nResponsable: PONS THIERRY\nStatus: AU PLANNING
 DTEND:20250304T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:à définir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250304T080000Z
@@ -597,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Tour du Roc de la Vigne\nLieu: Saint Guilhem\nDate: le 03/04/2025 de 08:30 à 19:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 570 m\nPlaces: Capacité illimitée\nResponsable: ROSELLI ROLAND\nStatus: AU PLANNING
 DTEND:20250403T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Saint Guilhem
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250403T063000Z
@@ -608,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: St Veran J5 plus cool\nLieu: ?\nDate: le 27/02/2025 de 08:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 600 m\nPlaces: Capacité illimitée\nResponsable: VILLEMIN NOELLE\nStatus: AU PLANNING
 DTEND:20250227T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:?
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250227T070000Z
@@ -619,7 +619,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Col Lacroix\, Ristola\nLieu: Ristola\nDate: le 27/02/2025 de 09:00 à 17:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 650 m\nPlaces: Capacité illimitée\nResponsable: BRUOT VALERIE\nStatus: AU PLANNING
 DTEND:20250227T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Ristola
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250227T080000Z
@@ -630,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: COLLECTIVE\nLieu: Bor & Bar\nDate: du 17/05/2025  à 09:00 au 18/05/2025 à 17:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 800 m\nPlaces: Capacité illimitée\, 7 inscriptions en attente\nResponsable: VAILHE CHRISTIAN\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA250026&h=9c66d599cb
 DTEND:20250518T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Bor & Bar
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250517T070000Z
@@ -642,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Sortie escalade non autonomes non inscrits à l'EE\nLieu: Caroux\nDate: le 13/04/2025 de 09:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1360 m\nPlaces: 7 places\, 5 inscriptions en attente\nResponsable: OLIVA NADINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450ES250022&h=73ed571aa3
 DTEND:20250413T150000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250413T070000Z
@@ -654,7 +654,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: escalade pour grimpeur autonome\nLieu: a definir\nDate: le 24/05/2025 de 08:30 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: 4 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250524T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:a definir
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250524T063000Z
@@ -665,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: sortie groupe perfectionné en alpinisme 2025\nLieu: caroux\nDate: le 15/03/2025 de 08:30 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 10 m\nPlaces: 7 places\nResponsable: GUILLAUMONT LAURENT\nStatus: AU PLANNING
 DTEND:20250315T170000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250315T073000Z
@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Les 1000 marches\nLieu: Rouvials\nDate: le 13/04/2025 de 08:00 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 1360 m\nPlaces: Capacité illimitée\, 1 inscription en attente\nResponsable: COMBES CLAUDE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3450RA240117&h=c12b5aa8d7
 DTEND:20250413T160000Z
-LAST-MODIFIED:20250226T092347Z
+LAST-MODIFIED:20250226T093456Z
 LOCATION:Rouvials
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250413T060000Z
