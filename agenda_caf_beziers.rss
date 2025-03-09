@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 09 Mar 2025 22:48:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Canyonisme] SEJOUR VERDON (04)</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; SEJOUR VERDON (04)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; La Palud Sur Verdon (04)&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 400 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/8 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LECLERCQ MICHEL&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Canyonisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>LECLERCQ MICHEL</author><pubDate>Fri, 07 Mar 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3400CA250017</guid></item><item><title>[Raquettes à neige] NA1 partie pratique</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; NA1 partie pratique&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Ascou Ariège&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7/7 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRUOT VALERIE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Raquettes à neige&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRUOT VALERIE</author><pubDate>Fri, 07 Mar 2025 19:00:00 GMT</pubDate><guid isPermaLink="true">3450RQ250003</guid></item><item><title>[Randonnée] PISTE DE BRAMEFAN</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; PISTE DE BRAMEFAN&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; CAROUX&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 15 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RENOUARD JEAN-FRANÇOIS&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RENOUARD JEAN-FRANÇOIS</author><pubDate>Sun, 09 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250033</guid></item><item><title>[Escalade] escalade pour grimpeur autonome</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; escalade pour grimpeur autonome&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; caroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 3/6 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GUILLAUMONT LAURENT&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>GUILLAUMONT LAURENT</author><pubDate>Sun, 09 Mar 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450ES250014</guid></item><item><title>[Randonnée] Minerve  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250010&amp;h=d98193b95c</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 09 Mar 2025 23:04:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Randonnée] Minerve  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250010&amp;h=d98193b95c</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Minerve  Groupe 1&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Minerve&lt;/li&gt;
