@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Tue, 18 Mar 2025 08:50:26 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] St Guilhem le Désert</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250043&amp;h=275def0b21</link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Tue, 18 Mar 2025 09:05:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] St Guilhem le Désert</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250043&amp;h=275def0b21</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; St Guilhem le Désert&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; St Guilhem&lt;/li&gt;
@@ -575,7 +575,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SACRISTAN MARCEL</author><pubDate>Tue, 10 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250054</guid></item><item><title>[Randonnée Montagne] Tour du Canigou 4 jours</title><link></link><description>
+                &lt;/ul&gt;</description><author>SACRISTAN MARCEL</author><pubDate>Tue, 10 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250054</guid></item><item><title>[Randonnée Montagne] Tour de l Ubaye GR56</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Tour de l Ubaye GR56&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Alpes de haute Provence-Alpes Maritimes&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=42" alt="Niveau 4"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 10000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Sun, 15 Jun 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250016</guid></item><item><title>[Randonnée Montagne] Tour du Canigou 4 jours</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Tour du Canigou 4 jours&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Batère&lt;/li&gt;
