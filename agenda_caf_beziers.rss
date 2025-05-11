@@ -1,420 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Mon, 24 Mar 2025 09:48:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Ski de rando</title><link></link><description>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Agenda CAF Montpellier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=12&amp;c=3400&amp;h=32cdfd3f91</link><description>Agenda des sorties du Club Alpin Français de Montpellier</description><language>fr-FR</language><lastBuildDate>Sun, 11 May 2025 22:04:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Escalade] sortie selon météo</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250066&amp;h=21b14b7fb9</link><description>
                 &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Ski de rando&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Pyrénées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6 places, 4 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RICARD BRUNO&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RICARD BRUNO</author><pubDate>Fri, 21 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450SM250004</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Voyage ski de rando en Norvège</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Voyage ski de rando en Norvège&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Hemsedal et fjord à Aurland&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 9000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 3/4 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BELDA THIERRY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; VALIDEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BELDA THIERRY</author><pubDate>Sat, 22 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450SM240001</guid></item><item><title>[Escalade] Sortie falaise à définir</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250046&amp;h=c605fec096</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie falaise à définir&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Vingrau selon météo&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; sortie selon météo&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; A définir selon météo&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 350 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 2 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SMAGGHE DAMIEN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250046&amp;h=c605fec096"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250046&amp;h=c605fec096&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SMAGGHE DAMIEN</author><pubDate>Tue, 25 Mar 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450ES250046</guid></item><item><title>[Randonnée] De l'homme préhistorique a G. Schivardi Groupe 2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250047&amp;h=1a5b6ead2a</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; De l'homme préhistorique a G. Schivardi Groupe 2&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Mailhac (  Aude )&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription confirmée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; JOUCLA ROGER&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250047&amp;h=1a5b6ead2a"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250047&amp;h=1a5b6ead2a&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>JOUCLA ROGER</author><pubDate>Thu, 27 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250047</guid></item><item><title>[Randonnée] Gr1 plus cool   st Michel cabreroles</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250060&amp;h=f93311a964</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Gr1 plus cool   st Michel cabreroles&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Les Aires&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VILLEMIN NOELLE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250060&amp;h=f93311a964"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250060&amp;h=f93311a964&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VILLEMIN NOELLE</author><pubDate>Thu, 27 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250060</guid></item><item><title>[Randonnée] Piste de la Madeleine piste de Rocarel</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250025&amp;h=40bcb316b3</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Piste de la Madeleine piste de Rocarel&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Colombières sur Orb&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 15 inscriptions confirmées, 4 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROMBEAUX CHRISTOPHE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250025&amp;h=40bcb316b3"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250025&amp;h=40bcb316b3&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROMBEAUX CHRISTOPHE</author><pubDate>Thu, 27 Mar 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250025</guid></item><item><title>[Ski alpinisme/ski de montagne/snowboard alpinisme] Grand week-end ski de rando Pyrénées</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250012&amp;h=66c0a8b1e8</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Grand week-end ski de rando Pyrénées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Les Angles&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1000 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6 places, 4 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RICARD BRUNO&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Ski alpinisme/ski de montagne/snowboard alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250012&amp;h=66c0a8b1e8"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450SM250012&amp;h=66c0a8b1e8&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RICARD BRUNO</author><pubDate>Fri, 28 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450SM250012</guid></item><item><title>[Alpinisme] Formation Alpinisme Prépa Initié</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Formation Alpinisme Prépa Initié&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Caroux - Main de Farrières&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4 places, 4 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; LOUBET BERNARD&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>LOUBET BERNARD</author><pubDate>Sat, 29 Mar 2025 07:00:00 GMT</pubDate><guid isPermaLink="true">3450AL240035</guid></item><item><title>[Escalade] Sortie tous les Enfant lundi+mercredi</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250036&amp;h=ed31a916a2</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie tous les Enfant lundi+mercredi&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Montpeyroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=30" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 2 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TURPIN THEOPHILE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250036&amp;h=ed31a916a2"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250036&amp;h=ed31a916a2&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>TURPIN THEOPHILE</author><pubDate>Sat, 29 Mar 2025 10:00:00 GMT</pubDate><guid isPermaLink="true">3450ES250036</guid></item><item><title>[Randonnée] Piste des gorges de Madale vers la Forêt des Ecrivains combattants</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250035&amp;h=9a9054cdd0</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Piste des gorges de Madale vers la Forêt des Ecrivains combattants&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Caroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 4&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=34" alt="Niveau 4"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 15 places, 10 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RENOUARD JEAN-FRANÇOIS&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250035&amp;h=9a9054cdd0"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250035&amp;h=9a9054cdd0&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RENOUARD JEAN-FRANÇOIS</author><pubDate>Sun, 30 Mar 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250035</guid></item><item><title>[Randonnée Montagne] Caroux CAF Béziers</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Caroux CAF Béziers&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; à définir&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Tue, 01 Apr 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250017</guid></item><item><title>[Randonnée Montagne] Pic-Saint-Loup par 3ème le pilier Nord-Ouest et crêtes de l'Hortus</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250008&amp;h=2d3b8d9d7e</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Pic-Saint-Loup par 3ème le pilier Nord-Ouest et crêtes de l'Hortus&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint-Martin-De-Londres&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/10 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROMBEAUX CHRISTOPHE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250008&amp;h=2d3b8d9d7e"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM250008&amp;h=2d3b8d9d7e&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROMBEAUX CHRISTOPHE</author><pubDate>Thu, 03 Apr 2025 07:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250008</guid></item><item><title>[Randonnée] Tour du Roc de la Vigne groupe 2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250039&amp;h=0d59509d99</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Tour du Roc de la Vigne groupe 2&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint Guilhem&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 570 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 2 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROSELLI ROLAND&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250039&amp;h=0d59509d99"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250039&amp;h=0d59509d99&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROSELLI ROLAND</author><pubDate>Thu, 03 Apr 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450RA250039</guid></item><item><title>[Randonnée] stage initiation carto orientation</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250004&amp;h=cd6051a15d</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; stage initiation carto orientation&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; les aires&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 9/9 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VILLEMIN NOELLE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250004&amp;h=cd6051a15d"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250004&amp;h=cd6051a15d&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VILLEMIN NOELLE</author><pubDate>Thu, 03 Apr 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250004</guid></item><item><title>[Alpinisme] sortie groupe perfectionné en alpinisme 2025</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; sortie groupe perfectionné en alpinisme 2025&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; creneau d'endron&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GUILLAUMONT LAURENT&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>GUILLAUMONT LAURENT</author><pubDate>Sat, 05 Apr 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450AL250002</guid></item><item><title>[Randonnée] Ruisseau de Roucayrol,vire de Roque Rouge,piste de Rocarel,sentier Garel.</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250058&amp;h=ac021cd103</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Ruisseau de Roucayrol,vire de Roque Rouge,piste de Rocarel,sentier Garel.&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; CAROUX&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 12 places, 2 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; RENOUARD JEAN-FRANÇOIS&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250058&amp;h=ac021cd103"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250058&amp;h=ac021cd103&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>RENOUARD JEAN-FRANÇOIS</author><pubDate>Sun, 06 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250058</guid></item><item><title>[Randonnée] Gr1 les balcons du sommail</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250017&amp;h=b85b6f49ae</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Gr1 les balcons du sommail&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; le Moulinet&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 350 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VAILHE CHRISTIAN&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250017&amp;h=b85b6f49ae"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250017&amp;h=b85b6f49ae&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VAILHE CHRISTIAN</author><pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250017</guid></item><item><title>[Randonnée] BELPLO / groupe 2</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; BELPLO / groupe 2&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; BELPLO&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 350 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; MAS PIERRE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>MAS PIERRE</author><pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250048</guid></item><item><title>[Randonnée] cueillette, recettes, cuisine et ...dégustation</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250016&amp;h=73d641c1ef</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; cueillette, recettes, cuisine et ...dégustation&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; le moulinet (le soulié) un samedi, pour tous&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places, 7 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VAILHE ANNE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250016&amp;h=73d641c1ef"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250016&amp;h=73d641c1ef&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VAILHE ANNE</author><pubDate>Sat, 12 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250016</guid></item><item><title>[Escalade] Stage Escalade Grande voie Jonte Réservé Adulte Ecole Escalade</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250034&amp;h=13758bf87b</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Stage Escalade Grande voie Jonte Réservé Adulte Ecole Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; gorge de la jonte&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 6 places, 1 inscription en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TURPIN THEOPHILE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250034&amp;h=13758bf87b"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250034&amp;h=13758bf87b&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>TURPIN THEOPHILE</author><pubDate>Sat, 12 Apr 2025 10:00:00 GMT</pubDate><guid isPermaLink="true">3450ES250034</guid></item><item><title>[Randonnée] Les 1000 marches</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240117&amp;h=c12b5aa8d7</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Les 1000 marches&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Rouvials&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; COMBES CLAUDE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240117&amp;h=c12b5aa8d7"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240117&amp;h=c12b5aa8d7&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>COMBES CLAUDE</author><pubDate>Sun, 13 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240117</guid></item><item><title>[Escalade] Sortie escalade non autonomes non inscrits à l'EE</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sortie escalade non autonomes non inscrits à l'EE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Caroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7 places, 5 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; OLIVA NADINE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; ANNULEE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Sun, 13 Apr 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450ES250022</guid></item><item><title>[Escalade] Escalade grimpeurs non autonomes non inscrits à l'EE</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250040&amp;h=9eb50170b6</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Escalade grimpeurs non autonomes non inscrits à l'EE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Caroux&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places, 4 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; OLIVA NADINE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250040&amp;h=9eb50170b6"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250040&amp;h=9eb50170b6&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>OLIVA NADINE</author><pubDate>Sun, 13 Apr 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450ES250040</guid></item><item><title>[Randonnée] PRADES SUR VERNAZOBRE / groupe 2</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; PRADES SUR VERNAZOBRE / groupe 2&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; PRADES SUR VERNAZOBRE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FONDA ALAIN&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>FONDA ALAIN</author><pubDate>Thu, 17 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250049</guid></item><item><title>[Randonnée] Bramefan - Mt Gros - Montahut - GR1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250059&amp;h=3c31c81f17</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Bramefan - Mt Gros - Montahut - GR1&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Parking Eglise de MONS&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 730 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SOYRIS JOEL&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250059&amp;h=3c31c81f17"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250059&amp;h=3c31c81f17&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SOYRIS JOEL</author><pubDate>Thu, 17 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250059</guid></item><item><title>[Randonnée] BOUSSAGUES /groupe 2</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; BOUSSAGUES /groupe 2&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; BOUSSAGUES&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; TOMAS ROSIE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>TOMAS ROSIE</author><pubDate>Thu, 24 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250050</guid></item><item><title>[Randonnée] Rando de Fernand de Cessenon groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250056&amp;h=502b7790c3</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Rando de Fernand de Cessenon groupe 1&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Cessenon&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 450 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 5 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROSELLI ROLAND&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250056&amp;h=502b7790c3"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250056&amp;h=502b7790c3&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROSELLI ROLAND</author><pubDate>Thu, 24 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250056</guid></item><item><title>[Randonnée Montagne] Nettoyage sentier du Médaillé, N°11</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Nettoyage sentier du Médaillé, N°11&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Bardou&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1360 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ASTRUC BESMA&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ASTRUC BESMA</author><pubDate>Fri, 25 Apr 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250010</guid></item><item><title>[Randonnée] Mont Aigoual - Sentier des 4000 marches - Gr 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240157&amp;h=547576a214</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Mont Aigoual - Sentier des 4000 marches - Gr 1&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Valleraugue&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1360 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 13 inscriptions en attente&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SOYRIS JOEL&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240157&amp;h=547576a214"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA240157&amp;h=547576a214&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SOYRIS JOEL</author><pubDate>Thu, 01 May 2025 07:00:00 GMT</pubDate><guid isPermaLink="true">3450RA240157</guid></item><item><title>[Randonnée Montagne] vers l'aigoual, en complément du 1er mai avec Joel</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240068&amp;h=9423c8d07e</link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; vers l'aigoual, en complément du 1er mai avec Joel&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; valleraugue&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4/5 inscriptions confirmées&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VILLEMIN NOELLE&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240068&amp;h=9423c8d07e"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240068&amp;h=9423c8d07e&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VILLEMIN NOELLE</author><pubDate>Fri, 02 May 2025 07:00:00 GMT</pubDate><guid isPermaLink="true">3450RM240068</guid></item><item><title>[Alpinisme] sortie groupe perfectionné en alpinisme 2025</title><link></link><description>
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; sortie groupe perfectionné en alpinisme 2025&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; neige ou rocher  lieu à definir&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 7 places&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GUILLAUMONT LAURENT&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>GUILLAUMONT LAURENT</author><pubDate>Sat, 03 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450AL250003</guid></item><item><title>[Randonnée] Gr1 les crêtes du saut de Vézole</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250018&amp;h=269a3519aa</link><description>
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250066&amp;h=21b14b7fb9"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450ES250066&amp;h=21b14b7fb9&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SMAGGHE DAMIEN</author><pubDate>Tue, 13 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450ES250066</guid></item><item><title>[Randonnée] Gr1 les crêtes du saut de Vézole</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250018&amp;h=269a3519aa</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Gr1 les crêtes du saut de Vézole&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; lac du vézole&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 350 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VAILHE CHRISTIAN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250018&amp;h=269a3519aa"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250018&amp;h=269a3519aa&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VAILHE CHRISTIAN</author><pubDate>Thu, 15 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250018</guid></item><item><title>[Randonnée] Minerve et ses rivières groupe 2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250040&amp;h=778d103dd2</link><description>
+                &lt;/ul&gt;</description><author>VAILHE CHRISTIAN</author><pubDate>Thu, 15 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250018</guid></item><item><title>[Randonnée] Val de la Cesse. Les grottes de Fausan et curiosités de Lauriole G2</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250040&amp;h=778d103dd2</link><description>
                 &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Minerve et ses rivières groupe 2&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Val de la Cesse. Les grottes de Fausan et curiosités de Lauriole G2&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Minerve&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 300 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 350 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROSELLI ROLAND&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250040&amp;h=778d103dd2"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250040&amp;h=778d103dd2&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>ROSELLI ROLAND</author><pubDate>Thu, 15 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450RA250040</guid></item><item><title>[Randonnée] COLLECTIVE</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250026&amp;h=9c66d599cb</link><description>
+                &lt;/ul&gt;</description><author>ROSELLI ROLAND</author><pubDate>Thu, 15 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450RA250040</guid></item><item><title>[Randonnée] Collective Randonnée Bor et Bar</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250068&amp;h=89629a9c10</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Collective Randonnée Bor et Bar&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Saint André de Najac&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 420 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 5 inscriptions confirmées&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SOYRIS JOEL&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250068&amp;h=89629a9c10"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250068&amp;h=89629a9c10&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SOYRIS JOEL</author><pubDate>Sat, 17 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450RA250068</guid></item><item><title>[Alpinisme] PSC1 MULTI-ACTIVITES : Formation premiers secours</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250009&amp;h=ea3ed00e52</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; PSC1 MULTI-ACTIVITES : Formation premiers secours&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; 2 Place HENRY DUNANT, 34790 Grabels&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places, 10 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; WEILL AMINE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250009&amp;h=ea3ed00e52"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250009&amp;h=ea3ed00e52&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>WEILL AMINE</author><pubDate>Sat, 17 May 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400AL250009</guid></item><item><title>[Randonnée] COLLECTIVE</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250026&amp;h=9c66d599cb</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; COLLECTIVE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Bor &amp; Bar&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 21 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 27 inscriptions confirmées, 3 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VAILHE CHRISTIAN&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250026&amp;h=9c66d599cb"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250026&amp;h=9c66d599cb&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>VAILHE CHRISTIAN</author><pubDate>Sat, 17 May 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250026</guid></item><item><title>[Randonnée] Peyre Martine  Cirque de la Séranne  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250011&amp;h=175f8795ff</link><description>
+                &lt;/ul&gt;</description><author>VAILHE CHRISTIAN</author><pubDate>Sat, 17 May 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250026</guid></item><item><title>[Via ferrata] Collective Via ferrata Bor et Bor Roc de Gorb</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VF250001&amp;h=46166143b6</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Collective Via ferrata Bor et Bor Roc de Gorb&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Roc de Gorb&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 50 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4 places, 1 inscription en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ASTRUC BESMA&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Via ferrata&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VF250001&amp;h=46166143b6"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450VF250001&amp;h=46166143b6&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>ASTRUC BESMA</author><pubDate>Sat, 17 May 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450VF250001</guid></item><item><title>[Alpinisme] Sauvetage et auto-sauvetage en paroi</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250009&amp;h=90c26607e5</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Sauvetage et auto-sauvetage en paroi&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; W-E "collective" au Roc de Gorb&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription confirmée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FOURNIER DOMINIQUE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250009&amp;h=90c26607e5"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250009&amp;h=90c26607e5&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>FOURNIER DOMINIQUE</author><pubDate>Sat, 17 May 2025 10:00:00 GMT</pubDate><guid isPermaLink="true">3450AL250009</guid></item><item><title>[Escalade] ELAN avec Romain Beauquier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250008&amp;h=59b2c5a175</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; ELAN avec Romain Beauquier&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Villetelle&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SILLOU JEAN-MARIE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250008&amp;h=59b2c5a175"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250008&amp;h=59b2c5a175&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SILLOU JEAN-MARIE</author><pubDate>Sat, 17 May 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3498ES250008</guid></item><item><title>[Randonnée] Collective Bor et Bar</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250070&amp;h=8eabce2251</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Collective Bor et Bar&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Camping le Gourpassou - Lagarde Viaur&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 6 inscriptions confirmées&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SOYRIS JOEL&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250070&amp;h=8eabce2251"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250070&amp;h=8eabce2251&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SOYRIS JOEL</author><pubDate>Sun, 18 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450RA250070</guid></item><item><title>[Randonnée Montagne] Caroux CAF Béziers</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Caroux CAF Béziers&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; à définir&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Tue, 20 May 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250020</guid></item><item><title>[Randonnée] Peyre Martine  Cirque de la Séranne  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250011&amp;h=175f8795ff</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Peyre Martine  Cirque de la Séranne  Groupe 1&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Pégairolles de Buèges    (Méjanels)&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 3 inscriptions confirmées&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 5 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; ROSELLI ROLAND&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
@@ -431,19 +155,43 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>MAS PIERRE</author><pubDate>Thu, 22 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250051</guid></item><item><title>[Escalade] escalade pour grimpeur autonome</title><link></link><description>
+                &lt;/ul&gt;</description><author>MAS PIERRE</author><pubDate>Thu, 22 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250051</guid></item><item><title>[Escalade] escalade pour grimpeur autonome en TA</title><link></link><description>
                 &lt;ul&gt;
-                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; escalade pour grimpeur autonome&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; a definir&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; escalade pour grimpeur autonome en TA&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; balade des carousiens - caroux&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 900 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 850 m&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 4 places&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; GUILLAUMONT LAURENT&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>GUILLAUMONT LAURENT</author><pubDate>Sat, 24 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450ES250016</guid></item><item><title>[Randonnée Montagne] les 3 esteles, la Dona</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240070&amp;h=1f1323f970</link><description>
+                &lt;/ul&gt;</description><author>GUILLAUMONT LAURENT</author><pubDate>Sat, 24 May 2025 08:30:00 GMT</pubDate><guid isPermaLink="true">3450ES250016</guid></item><item><title>[Escalade] ELAN avec Romain Beauquier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250009&amp;h=a93abe52e6</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; ELAN avec Romain Beauquier&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Villetelle&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 850 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SILLOU JEAN-MARIE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250009&amp;h=a93abe52e6"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250009&amp;h=a93abe52e6&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SILLOU JEAN-MARIE</author><pubDate>Sat, 24 May 2025 14:00:00 GMT</pubDate><guid isPermaLink="true">3498ES250009</guid></item><item><title>[Randonnée] L'Arête de Sainte Eutrope</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498RA250035&amp;h=5a088a3dce</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; L'Arête de Sainte Eutrope&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Andabre&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 850 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 6 inscriptions confirmées, 1 inscription en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONTY ELISABETH&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498RA250035&amp;h=5a088a3dce"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498RA250035&amp;h=5a088a3dce&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PONTY ELISABETH</author><pubDate>Sun, 25 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3498RA250035</guid></item><item><title>[Randonnée Montagne] les 3 esteles, la Dona</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240070&amp;h=1f1323f970</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; les 3 esteles, la Dona&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Mantet&lt;/li&gt;
@@ -462,7 +210,7 @@
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=22" alt="Niveau 1"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 500 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 1/18 inscription confirmée3 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 5/18 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; REBOULET ANNE MARIE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
@@ -479,7 +227,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>JOUCLA ROGER</author><pubDate>Thu, 29 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250052</guid></item><item><title>[Randonnée] Pic de Nore  1211m  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250012&amp;h=e294f7ee81</link><description>
+                &lt;/ul&gt;</description><author>JOUCLA ROGER</author><pubDate>Thu, 29 May 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250052</guid></item><item><title>[Randonnée Montagne] Caroux CAF Béziers</title><link></link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Caroux CAF Béziers&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; à définir&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 600 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; PONS THIERRY&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>PONS THIERRY</author><pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3450RM250021</guid></item><item><title>[Randonnée] Pic de Nore  1211m  Groupe 1</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250012&amp;h=e294f7ee81</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Pic de Nore  1211m  Groupe 1&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Pradelles Cabardes&lt;/li&gt;
@@ -503,7 +263,19 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>MAS PIERRE</author><pubDate>Thu, 05 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250053</guid></item><item><title>[Randonnée Montagne] squat à Carla !!!!</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240069&amp;h=dc1d35bdb6</link><description>
+                &lt;/ul&gt;</description><author>MAS PIERRE</author><pubDate>Thu, 05 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250053</guid></item><item><title>[Alpinisme] Course en neige débutant</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250008&amp;h=0228963a0b</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Course en neige débutant&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Étendard&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1100 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 1 inscription confirmée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; FOURNIER DOMINIQUE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250008&amp;h=0228963a0b"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450AL250008&amp;h=0228963a0b&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>FOURNIER DOMINIQUE</author><pubDate>Fri, 06 Jun 2025 16:00:00 GMT</pubDate><guid isPermaLink="true">3450AL250008</guid></item><item><title>[Randonnée Montagne] squat à Carla !!!!</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RM240069&amp;h=dc1d35bdb6</link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; squat à Carla !!!!&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; monts d'olmes&lt;/li&gt;
@@ -539,7 +311,31 @@
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href=""&gt;&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>SACRISTAN MARCEL</author><pubDate>Tue, 10 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250054</guid></item><item><title>[Randonnée Montagne] Tour de l Ubaye GR56</title><link></link><description>
+                &lt;/ul&gt;</description><author>SACRISTAN MARCEL</author><pubDate>Tue, 10 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250054</guid></item><item><title>[Randonnée] Cirque de Tournemire et surprises!</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250067&amp;h=c5a699ebda</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Cirque de Tournemire et surprises!&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Tournemire départ en Train gare de Magalas&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; Tous niveaux&lt;br /&gt;&lt;img src="" alt="Niveau Tous niveaux"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 700 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 4 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; JOUCLA ROGER&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250067&amp;h=c5a699ebda"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250067&amp;h=c5a699ebda&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>JOUCLA ROGER</author><pubDate>Thu, 12 Jun 2025 06:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250067</guid></item><item><title>[Escalade] ELAN avec Romain Beauquier</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250010&amp;h=1353320b77</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; ELAN avec Romain Beauquier&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Club Esca'llargues&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 10000 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 8 places&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; SILLOU JEAN-MARIE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Escalade&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250010&amp;h=1353320b77"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3498ES250010&amp;h=1353320b77&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>SILLOU JEAN-MARIE</author><pubDate>Sat, 14 Jun 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3498ES250010</guid></item><item><title>[Randonnée Montagne] Tour de l Ubaye GR56</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; Tour de l Ubaye GR56&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; Alpes de haute Provence-Alpes Maritimes&lt;/li&gt;
@@ -594,12 +390,24 @@
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=26" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 2&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=34" alt="Niveau 2"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 800 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 19 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; Capacité illimitée, 28 inscriptions en attente&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; BRUOT VALERIE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250019&amp;h=ff0c16953f"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3450RA250019&amp;h=ff0c16953f&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;</description><author>BRUOT VALERIE</author><pubDate>Sat, 28 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250019</guid></item><item><title>[Alpinisme] sortie groupe perfectionné en alpinisme 2025</title><link></link><description>
+                &lt;/ul&gt;</description><author>BRUOT VALERIE</author><pubDate>Sat, 28 Jun 2025 08:00:00 GMT</pubDate><guid isPermaLink="true">3450RA250019</guid></item><item><title>[Alpinisme] PSC1 MULTI-ACTIVITES : Formation premiers secours</title><link>https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250010&amp;h=5000275320</link><description>
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; PSC1 MULTI-ACTIVITES : Formation premiers secours&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; 2 Place HENRY DUNANT, 34790 Grabels&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=18" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 1&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=26" alt="Niveau 1"/&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1100 m&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 10 places, 9 inscriptions en attente&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; WEILL AMINE&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Alpinisme&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Inscriptions:&lt;/b&gt; &lt;a href="https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250010&amp;h=5000275320"&gt;https://extranet-clubalpin.com/app/out/out.php?s=6&amp;c=3400AL250010&amp;h=5000275320&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;</description><author>WEILL AMINE</author><pubDate>Sat, 28 Jun 2025 09:00:00 GMT</pubDate><guid isPermaLink="true">3400AL250010</guid></item><item><title>[Alpinisme] sortie groupe perfectionné en alpinisme 2025</title><link></link><description>
                 &lt;ul&gt;
                     &lt;li&gt;&lt;b&gt;Sortie:&lt;/b&gt; sortie groupe perfectionné en alpinisme 2025&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Lieu:&lt;/b&gt; glacier du tour chamonix&lt;/li&gt;
@@ -618,7 +426,7 @@
                     &lt;li&gt;&lt;b&gt;Niveau technique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=technique&amp;id=30" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Niveau physique:&lt;/b&gt; 3&lt;br /&gt;&lt;img src="https://extranet-clubalpin.com/app/out/image.php?type=physique&amp;id=38" alt="Niveau 3"/&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Dénivelé:&lt;/b&gt; Dénivelé positif : 1100 m&lt;/li&gt;
-                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 1/6 inscription confirmée&lt;/li&gt;
+                    &lt;li&gt;&lt;b&gt;Places:&lt;/b&gt; 2/6 inscriptions confirmées&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Responsable:&lt;/b&gt; VILLEMIN NOELLE&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Status:&lt;/b&gt; AU PLANNING&lt;/li&gt;
                     &lt;li&gt;&lt;b&gt;Activité:&lt;/b&gt; Randonnée Montagne&lt;/li&gt;

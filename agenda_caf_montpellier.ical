@@ -2,90 +2,113 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:CAF Montpellier - https://arntanguy.github.io/caf_montpellier
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Gorges du Lamalou\nLieu: Ravin des Arcs\nDate: le 17/04/2025 de 09:30 à 16:30\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 550 m\nPlaces: 3/12 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250022&h=0e218f2f14
-DTEND:20250417T143000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Ravin des Arcs
+DESCRIPTION:Sortie: PSC1 MULTI-ACTIVITES : Formation premiers secours\nLieu: 2 Place HENRY DUNANT\, 34790 Grabels\nDate: le 28/06/2025 de 09:00 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 400 m\nPlaces: 10 places\, 9 inscriptions en attente\nResponsable: WEILL AMINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250010&h=5000275320
+DTEND:20250628T150000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:2 Place HENRY DUNANT\, 34790 Grabels
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250417T073000Z
+DTSTART:20250628T070000Z
 STATUS:TENTATIVE
-SUMMARY:[Randonnée] Gorges du Lamalou
-UID:3400RA250022@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250022&h=0e218f2f14
+SUMMARY:[Alpinisme] PSC1 MULTI-ACTIVITES : Formation premiers secours
+UID:3400AL250010@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250010&h=5000275320
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Réunion et pot de la section escalade\nLieu: Local du club\nDate: le 09/04/2025 de 19:00 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 550 m\nPlaces: Capacité illimitée\, 9 inscriptions confirmées\nResponsable: ROLLIN MAEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250059&h=0e36610a3f
-DTEND:20250409T200000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Local du club
+DESCRIPTION:Sortie: Rassemblement Occitanie Canyon Spéléo\nLieu: Mons La Trivalle\nDate: du 17/05/2025  à 08:00 au 18/05/2025 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: Capacité illimitée\, 5 inscriptions confirmées\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250052&h=006069547c
+DTEND:20250518T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Mons La Trivalle
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250409T170000Z
+DTSTART:20250517T060000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Réunion et pot de la section escalade
-UID:3400ES250059@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250059&h=0e36610a3f
+SUMMARY:[Canyonisme] Rassemblement Occitanie Canyon Spéléo
+UID:3400CA250052@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250052&h=006069547c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Grimpe libre à Lattes\nLieu: SAE de Lattes\nDate: le 25/03/2025 de 20:30 à 22:30\nNiveau technique: 2\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: 15 places\nResponsable: LEGAVRE THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250065&h=e726d62791
-DTEND:20250325T213000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE de Lattes
+DESCRIPTION:Sortie: sierra de guarra\nLieu: Espagne\nDate: du 26/05/2025  à 07:00 au 01/06/2025 à 20:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: 4/12 inscriptions confirmées\nResponsable: ARMANGAU FRANÇOIS\nStatus: AU PLANNING
+DTEND:20250601T180000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Espagne
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250325T193000Z
+DTSTART:20250526T050000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Grimpe libre à Lattes
-UID:3400ES250065@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250065&h=e726d62791
+SUMMARY:[Canyonisme] sierra de guarra
+UID:3400CA250027@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 12/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
+DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 12/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 20 places\, 7 inscriptions en attente\nResponsable: MARY LAURA\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250071&h=8e6f88d15c
 DTEND:20250512T183000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250512T163000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
 UID:3400ES250071@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250071&h=8e6f88d15c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: À bloc pour aller faire du bloc !\nLieu: Targassonne\nDate: du 11/04/2025  à 18:00 au 13/04/2025 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 550 m\nPlaces: 7/8 inscriptions confirmées\, 1 inscription en attente\nResponsable: ROLLIN MAEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250052&h=6add312b37
-DTEND:20250413T160000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Targassonne
+DESCRIPTION:Sortie: Cycle formation TA - Groupe 2 - Première soirée\nLieu: Clocheton des Matelles\nDate: le 14/05/2025 de 18:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: Capacité illimitée\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
+DTEND:20250514T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Clocheton des Matelles
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250411T160000Z
+DTSTART:20250514T160000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] À bloc pour aller faire du bloc !
-UID:3400ES250052@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250052&h=6add312b37
+SUMMARY:[Terrain d'aventure] Cycle formation TA - Groupe 2 - Première soirée
+UID:3400TA250003@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: ASSISTANCE ET DEPLACEMENT DE VICTIME SUR CORDE\nLieu: CLARAC (31)\nDate: du 29/03/2025  à 08:00 au 30/03/2025 à 18:00\nNiveau technique: 4\nNiveau physique: 2\nDénivelé positif : 100 m\nPlaces: 2/2 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
-DTEND:20250330T160000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:CLARAC (31)
+DESCRIPTION:Sortie: Réflexion sur les inscriptions rentrée septembre 2025\nLieu: 6 Rue de la Poésie\, 34000 Montpellier\nDate: le 13/05/2025 de 19:00 à 20:30\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: Réflexion sur les inscriptions rentrée septembre 2025\nResponsable: ROLLIN MAEL\nStatus: VALIDEE
+DTEND:20250513T183000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:6 Rue de la Poésie\, 34000 Montpellier
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250329T070000Z
-STATUS:TENTATIVE
-SUMMARY:[Canyonisme] ASSISTANCE ET DEPLACEMENT DE VICTIME SUR CORDE
-UID:3400CA250014@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+DTSTART:20250513T170000Z
+STATUS:CONFIRMED
+SUMMARY:[Escalade] Réflexion sur les inscriptions rentrée septembre 2025
+UID:3400ES250105@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: CANYON DU VERDUS\nLieu: Saint Guilhem le Désert (34)\nDate: le 27/03/2025 de 08:00 à 18:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 200 m\nPlaces: 6/10 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
-DTEND:20250327T170000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Saint Guilhem le Désert (34)
+DESCRIPTION:Sortie: Semaine en étoile à la découverte du massif des Cerces\, Thabor\nLieu: Vallée de la Clarée\, Nevache\nDate: du 28/05/2025  à 08:00 au 01/06/2025 à 20:30\nNiveau technique: 2\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: 2/6 inscriptions confirmées\, 1 inscription en attente\nResponsable: FARDIN SYLVIE\nStatus: ANNULEE
+DTEND:20250601T183000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Vallée de la Clarée\, Nevache
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250327T070000Z
-STATUS:TENTATIVE
-SUMMARY:[Canyonisme] CANYON DU VERDUS
-UID:3400CA250020@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+DTSTART:20250528T060000Z
+STATUS:CANCELLED
+SUMMARY:[Randonnée Alpine] Semaine en étoile à la découverte du massif des Cerces\, Thabor
+UID:3400RL250001@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nLieu: Val d'Ossola\nDate: du 02/08/2025  à 08:00 au 09/08/2025 à 20:00\nNiveau technique: 4\nNiveau physique: 4\nPlaces: Capacité illimitée\, 8 inscriptions confirmées\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\nResponsable: WEILL AMINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250012&h=4929ef7c4c
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250602T174000Z
+STATUS:TENTATIVE
+SUMMARY:[Alpinisme] Soirée sécurité "RETEX"
+UID:3400AL250012@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250012&h=4929ef7c4c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: 4 Jours en AUVERGNE\nLieu: Secteur Puy de Dôme\nDate: du 29/05/2025  à 07:00 au 01/06/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: 7 places\, 4 inscriptions en attente\nResponsable: GALZY NADINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250024&h=19177d4345
+DTEND:20250601T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Secteur Puy de Dôme
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250529T050000Z
+STATUS:TENTATIVE
+SUMMARY:[Randonnée] 4 Jours en AUVERGNE
+UID:3400RA250024@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250024&h=19177d4345
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Rassemblement International de Canyon Italie\nLieu: Val d'Ossola\nDate: du 02/08/2025  à 08:00 au 09/08/2025 à 20:00\nNiveau technique: 4\nNiveau physique: 4\nPlaces: Capacité illimitée\, 8 inscriptions confirmées\, 2 inscriptions en attente\nResponsable: BERNARD LIONEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
 DTEND:20250809T180000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Val d'Ossola
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250802T060000Z
@@ -95,31 +118,20 @@ UID:3400CA240111@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA240111&h=709310c952
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 14/04/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 550 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250414T183000Z
-LAST-MODIFIED:20250324T094816Z
+DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 26/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 1000 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
+DTEND:20250526T183000Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250414T163000Z
+DTSTART:20250526T163000Z
 STATUS:TENTATIVE
 SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250067@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+UID:3400ES250073@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Weenk-end falaise tous niveaux\nLieu: Châteauvert (Var)\nDate: du 28/03/2025  à 18:00 au 30/03/2025 à 20:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 100 m\nPlaces: Capacité illimitée\, 10 inscriptions confirmées\nResponsable: BRESSON ANTONIN\nStatus: AU PLANNING
-DTEND:20250330T180000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Châteauvert (Var)
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250328T170000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] Weenk-end falaise tous niveaux
-UID:3400ES250014@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Printemps dans les Cévennes\nLieu: Cévennes\nDate: le 18/05/2025 de 08:00 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: 16 places\, 3 inscriptions en attente\nResponsable: PIERRE AUGUSTE ALINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250011&h=0834e8b449
+DESCRIPTION:Sortie: Printemps dans les Cévennes\nLieu: Cévennes\nDate: le 18/05/2025 de 08:00 à 18:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 800 m\nPlaces: 16 places\, 10 inscriptions en attente\nResponsable: PIERRE AUGUSTE ALINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250011&h=0834e8b449
 DTEND:20250518T160000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Cévennes
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250518T060000Z
@@ -129,76 +141,90 @@ UID:3400RA250011@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250011&h=0834e8b449
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 26/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 500 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250526T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: Cycle formation TA - Weekend Commun\nLieu: Caroux\nDate: du 24/05/2025  à 08:00 au 25/05/2025 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 1000 m\nPlaces: Capacité illimitée\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
+DTEND:20250525T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250526T163000Z
+DTSTART:20250524T060000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250073@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+SUMMARY:[Terrain d'aventure] Cycle formation TA - Weekend Commun
+UID:3400TA250005@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Canyons à secs de la ciotat\nLieu: La ciotat\nDate: du 04/04/2025  à 18:00 au 06/04/2025 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 550 m\nPlaces: 6/6 inscriptions confirmées\nResponsable: VINCENT MAGALI\nStatus: AU PLANNING
-DTEND:20250406T180000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:La ciotat
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\, 1 inscription en attente\nResponsable: WEILL AMINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250107&h=a596bb8766
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250404T160000Z
+DTSTART:20250602T174000Z
 STATUS:TENTATIVE
-SUMMARY:[Canyonisme] Canyons à secs de la ciotat
-UID:3400CA250016@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+SUMMARY:[Escalade] Soirée sécurité "RETEX"
+UID:3400ES250107@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250107&h=a596bb8766
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: VERCORS\nLieu: IZERON (38)\nDate: du 25/04/2025  à 14:00 au 27/04/2025 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 200 m\nPlaces: 6/8 inscriptions confirmées\, 1 inscription en attente\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
-DTEND:20250427T180000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:IZERON (38)
+DESCRIPTION:Sortie: Quelques techniques alpines - Compétences Perfectionnées\nLieu: Randonnée Alpine Arête Est Pic Saint-Loup\nDate: le 15/06/2025 de 08:00 à 18:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 3 places\, 3 inscriptions en attente\nResponsable: NOUVIAIRE NICOLAS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RL250003&h=ad59e8c147
+DTEND:20250615T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Randonnée Alpine Arête Est Pic Saint-Loup
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250425T120000Z
+DTSTART:20250615T060000Z
 STATUS:TENTATIVE
-SUMMARY:[Canyonisme] VERCORS
-UID:3400CA250022@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+SUMMARY:[Randonnée Alpine] Quelques techniques alpines - Compétences Perfectionnées
+UID:3400RL250003@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RL250003&h=ad59e8c147
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: POUR TOUS VERIFICATION ANNUELLE DES EPI - Session ETE ALPINISME-VIA FERRATA-ESCALADE-TERRAIN D'AVENTURE\nLieu: Local du CAF- 06 rue de la Poésie\nDate: le 08/04/2025 de 19:00 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 550 m\nPlaces: Capacité illimitée\, 4 inscriptions en attente\nResponsable: COUSSOT GAELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250008&h=48af4c8434
-DTEND:20250408T200000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Local du CAF- 06 rue de la Poésie
+DESCRIPTION:Sortie: Tour des Encantats\nLieu: Massif des Encantats (Pyrénées espagnoles)\nDate: du 06/07/2025  à 07:00 au 13/07/2025 à 22:00\nNiveau technique: 2\nNiveau physique: 3\nDénivelé positif : 400 m\nPlaces: 6 places\, 5 inscriptions en attente\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250026&h=8cf36869b8
+DTEND:20250713T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Massif des Encantats (Pyrénées espagnoles)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250408T170000Z
+DTSTART:20250706T050000Z
 STATUS:TENTATIVE
-SUMMARY:[Alpinisme] POUR TOUS VERIFICATION ANNUELLE DES EPI - Session ETE ALPINISME-VIA FERRATA-ESCALADE-TERRAIN D'AVENTURE
-UID:3400AL250008@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250008&h=48af4c8434
+SUMMARY:[Randonnée] Tour des Encantats
+UID:3400RA250026@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250026&h=8cf36869b8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 31/03/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 250 m\nPlaces: 20 places\nResponsable: CHAMPAROU MARJORIE\nStatus: AU PLANNING
-DTEND:20250331T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: Grimpe libre à Lattes\nLieu: SAE de Lattes\nDate: le 13/05/2025 de 20:30 à 22:30\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 15 places\nResponsable: LEGAVRE THIERRY\nStatus: ANNULEE
+DTEND:20250513T203000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:SAE de Lattes
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250331T163000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250029@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+DTSTART:20250513T183000Z
+STATUS:CANCELLED
+SUMMARY:[Escalade] Grimpe libre à Lattes
+UID:3400ES250094@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 28/04/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250428T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: CANYONS EN ALBANIE\nLieu: ALBANIE\nDate: du 08/05/2025  à 08:00 au 18/05/2025 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 800 m\nPlaces: 4/4 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
+DTEND:20250518T180000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:ALBANIE
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250428T163000Z
+DTSTART:20250508T060000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250069@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+SUMMARY:[Canyonisme] CANYONS EN ALBANIE
+UID:3400CA250056@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Rando-Orchido-Bricolo et autres activités\nLieu: Plateau du Larzac\nDate: du 29/05/2025  à 08:00 au 01/06/2025 à 18:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 1/18 inscription confirmée3 inscriptions en attente\nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250013&h=63635a0b39
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM250012&h=8567b22553
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250602T174000Z
+STATUS:TENTATIVE
+SUMMARY:[Ski alpinisme/ski de montagne/snowboard alpinisme] Soirée sécurité "RETEX"
+UID:3400SM250012@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM250012&h=8567b22553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Rando-Orchido-Bricolo et autres activités\nLieu: Plateau du Larzac\nDate: du 29/05/2025  à 08:00 au 01/06/2025 à 18:00\nNiveau technique: 1\nNiveau physique: 2\nDénivelé positif : 500 m\nPlaces: 5/18 inscriptions confirmées\nResponsable: REBOULET ANNE MARIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250013&h=63635a0b39
 DTEND:20250601T160000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Plateau du Larzac
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250529T060000Z
@@ -208,9 +234,45 @@ UID:3400RA250013@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250013&h=63635a0b39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Sortie: Grimpe Libre SAE de Lattes\nLieu: SAE de Lattes\nDate: le 13/05/2025 de 20:30 à 22:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 14 places\nResponsable: PISCITELLO FLAVIA\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250109&h=cbda3b7957
+DTEND:20250513T203000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:SAE de Lattes
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250513T183000Z
+STATUS:TENTATIVE
+SUMMARY:[Escalade] Grimpe Libre SAE de Lattes
+UID:3400ES250109@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250109&h=cbda3b7957
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250028&h=1ecd0d0364
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250602T174000Z
+STATUS:TENTATIVE
+SUMMARY:[Randonnée] Soirée sécurité "RETEX"
+UID:3400RA250028@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250028&h=1ecd0d0364
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Grimpe libre à Lattes\nLieu: SAE de Lattes\nDate: le 27/05/2025 de 20:30 à 22:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 1000 m\nPlaces: 15 places\nResponsable: LEGAVRE THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250096&h=e8849cd873
+DTEND:20250527T203000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:SAE de Lattes
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250527T183000Z
+STATUS:TENTATIVE
+SUMMARY:[Escalade] Grimpe libre à Lattes
+UID:3400ES250096@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250096&h=e8849cd873
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Sortie: MULTIVIACTIVITES : date probable week-end sécurité pour les encadrants de l'Hérault\nLieu: Hérault\nDate: du 14/06/2025  à 08:00 au 15/06/2025 à 17:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: Capacité illimitée\nResponsable: WEILL AMINE\nStatus: AU PLANNING
 DTEND:20250615T150000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Hérault
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250614T060000Z
@@ -219,66 +281,54 @@ SUMMARY:[Alpinisme] MULTIVIACTIVITES : date probable week-end sécurité pour le
 UID:3400AL250003@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Sète  entre Mer et Saint Clair\nLieu: Sète\nDate: le 03/04/2025 de 09:00 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 250 m\nPlaces: 8/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RP250001&h=d3529d465a
-DTEND:20250403T150000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Sète
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\nResponsable: GUERIN PAUL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SP250021&h=df5854b01b
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250403T070000Z
+DTSTART:20250602T174000Z
 STATUS:TENTATIVE
-SUMMARY:[Randonnée (plaine)] Sète  entre Mer et Saint Clair
-UID:3400RP250001@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RP250001&h=d3529d465a
+SUMMARY:[Spéléologie] Soirée sécurité "RETEX"
+UID:3400SP250021@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SP250021&h=df5854b01b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 05/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250505T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: La Montagne pour Tous !\nLieu: Le sommet du Pic Saint-Loup\nDate: le 06/07/2025 de 09:30 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 400 m\nPlaces: 12 places\nResponsable: NOUVIAIRE NICOLAS\nStatus: AU PLANNING
+DTEND:20250706T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Le sommet du Pic Saint-Loup
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250505T163000Z
+DTSTART:20250706T073000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250070@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: SECTEUR SISTERON 3 JOURS\nLieu: Sisteron\nDate: du 19/04/2025  à 07:00 au 21/04/2025 à 18:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 900 m\nPlaces: 7 places\nResponsable: GALZY NADINE\nStatus: AU PLANNING
-DTEND:20250421T160000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Sisteron
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250419T050000Z
-STATUS:TENTATIVE
-SUMMARY:[Randonnée Montagne] SECTEUR SISTERON 3 JOURS
+SUMMARY:[Randonnée Montagne] La Montagne pour Tous !
 UID:3400RM250002@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Monthaut\nLieu: Massif de Saint Guilhem\nDate: le 22/05/2025 de 09:15 à 16:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 650 m\nPlaces: 2/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250023&h=feceab502c
+DESCRIPTION:Sortie: Cycle formation TA - Groupe 1 - Deuxième soirée\nLieu: Clocheton des Matelles\nDate: le 20/05/2025 de 18:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 650 m\nPlaces: Capacité illimitée\nResponsable: VONAU LOUIS\nStatus: AU PLANNING
+DTEND:20250520T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Clocheton des Matelles
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250520T160000Z
+STATUS:TENTATIVE
+SUMMARY:[Terrain d'aventure] Cycle formation TA - Groupe 1 - Deuxième soirée
+UID:3400TA250002@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Monthaut\nLieu: Massif de Saint Guilhem\nDate: le 22/05/2025 de 09:15 à 16:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 650 m\nPlaces: 3/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: ANNULEE
 DTEND:20250522T140000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Massif de Saint Guilhem
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250522T071500Z
-STATUS:TENTATIVE
+STATUS:CANCELLED
 SUMMARY:[Randonnée] Monthaut
 UID:3400RA250023@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250023&h=feceab502c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 07/04/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 550 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250407T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250407T163000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250066@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 19/05/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 650 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
 DTEND:20250519T183000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250519T163000Z
@@ -287,44 +337,32 @@ SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
 UID:3400ES250072@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 24/03/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: 20 places\, 8 inscriptions en attente\nResponsable: CHAMPAROU MARJORIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250028&h=0c5b68014c
-DTEND:20250324T193000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: Cycle formation TA - Groupe 2 - Deuxième soirée\nLieu: Clocheton des Matelles\nDate: le 21/05/2025 de 18:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 650 m\nPlaces: Capacité illimitée\nResponsable: TANGUY ARNAUD\nStatus: AU PLANNING
+DTEND:20250521T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Clocheton des Matelles
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250324T173000Z
+DTSTART:20250521T160000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250028@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250028&h=0c5b68014c
+SUMMARY:[Terrain d'aventure] Cycle formation TA - Groupe 2 - Deuxième soirée
+UID:3400TA250004@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance d'escalade aux Aiguerelles\nLieu: SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)\nDate: le 21/04/2025 de 18:30 à 20:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: 20 places\nResponsable: MARY LAURA\nStatus: AU PLANNING
-DTEND:20250421T183000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles (accès rue de l'Améthyste\, en face du n°25)
+DESCRIPTION:Sortie: A la découverte du massif des Cerces\, Thabor\nLieu: Névache\, vallée de la Clarée\nDate: du 28/05/2025  à 08:00 au 01/06/2025 à 20:30\nNiveau technique: 2\nNiveau physique: 3\nDénivelé positif : 1000 m\nPlaces: 6/6 inscriptions confirmées\nResponsable: FARDIN SYLVIE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250025&h=2d7580ff9e
+DTEND:20250601T183000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Névache\, vallée de la Clarée
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250421T163000Z
+DTSTART:20250528T060000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance d'escalade aux Aiguerelles
-UID:3400ES250068@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+SUMMARY:[Randonnée] A la découverte du massif des Cerces\, Thabor
+UID:3400RA250025@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250025&h=2d7580ff9e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Sortie Couenne autour de Montpellier\nLieu: Certainement Thaurac\nDate: le 05/04/2025 de 09:00 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 550 m\nPlaces: Capacité illimitée\nResponsable: VONAU LOUIS\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250074&h=ef8f9abb58
-DTEND:20250405T160000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Certainement Thaurac
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250405T070000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] Sortie Couenne autour de Montpellier
-UID:3400ES250074@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250074&h=ef8f9abb58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Un beau massif granitique : la montagne du Caroux\nLieu: Caroux\nDate: le 15/06/2025 de 07:00 à 19:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 16 places\, 1 inscription en attente\nResponsable: PIERRE AUGUSTE ALINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250012&h=26098168cc
+DESCRIPTION:Sortie: Un beau massif granitique : la montagne du Caroux\nLieu: Caroux\nDate: le 15/06/2025 de 07:00 à 19:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 16 places\, 6 inscriptions en attente\nResponsable: PIERRE AUGUSTE ALINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250012&h=26098168cc
 DTEND:20250615T170000Z
-LAST-MODIFIED:20250324T094816Z
+LAST-MODIFIED:20250511T220454Z
 LOCATION:Caroux
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250615T050000Z
@@ -334,97 +372,96 @@ UID:3400RA250012@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250012&h=26098168cc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: POLE LOCAL : THE BIG CONF' : Sensibilisation au climat pour aventuriers\nLieu: Local du Club alpin de Montpellier\nDate: le 16/04/2025 de 19:30 à 21:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 550 m\nPlaces: 30 places\, 12 inscriptions en attente\nResponsable: GOUSTILLE GEOFFREY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250049&h=cd7b21b415
-DTEND:20250416T193000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Local du Club alpin de Montpellier
+DESCRIPTION:Sortie: Séance aux Aiguerelles - séance libre du mercredi soir\nLieu: SAE des Aiguerelles\nDate: le 14/05/2025 de 20:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 1/21 inscription confirmée1 inscription en attente\nResponsable: ROUSSEL REMI\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250108&h=1894c88cea
+DTEND:20250514T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:SAE des Aiguerelles
 ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250416T173000Z
+DTSTART:20250514T180000Z
 STATUS:TENTATIVE
-SUMMARY:[Escalade] POLE LOCAL : THE BIG CONF' : Sensibilisation au climat pour aventuriers
-UID:3400ES250049@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250049&h=cd7b21b415
+SUMMARY:[Escalade] Séance aux Aiguerelles - séance libre du mercredi soir
+UID:3400ES250108@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250108&h=1894c88cea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: VERNEDES (30)\nLieu: Aumessas (30)\nDate: le 01/05/2025 de 08:00 à 20:00\nNiveau technique: 3\nNiveau physique: 3\nDénivelé positif : 200 m\nPlaces: 4/8 inscriptions confirmées\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING
-DTEND:20250501T180000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Aumessas (30)
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250501T060000Z
-STATUS:TENTATIVE
-SUMMARY:[Canyonisme] VERNEDES (30)
-UID:3400CA250023@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Canyon d'Albes\nLieu: Saint-Geniès-de-Varensal\nDate: le 30/03/2025 de 09:00 à 18:00\nNiveau technique: 3\nNiveau physique: 2\nDénivelé positif : 300 m\nPlaces: 1/6 inscription confirmée\nResponsable: POUSSARD REMI\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250025&h=34a301d152
-DTEND:20250330T160000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Saint-Geniès-de-Varensal
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250330T070000Z
-STATUS:TENTATIVE
-SUMMARY:[Canyonisme] Canyon d'Albes
-UID:3400CA250025@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250025&h=34a301d152
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: "Collective sports de neige 2025"\nLieu: Villar d'arêne (05)\nDate: du 28/03/2025  à 14:00 au 30/03/2025 à 16:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 1000 m\nPlaces: 30/34 inscriptions confirmées\, 4 inscriptions en attente\nResponsable: BRUNEL THIERRY\nStatus: VALIDEE\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM250007&h=0a14c7a408
-DTEND:20250330T140000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Villar d'arêne (05)
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250328T130000Z
-STATUS:CONFIRMED
-SUMMARY:[Ski alpinisme/ski de montagne/snowboard alpinisme] "Collective sports de neige 2025"
-UID:3400SM250007@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400SM250007&h=0a14c7a408
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Printemps dans les Cevennes\nLieu: Massif Aigoual\nDate: le 17/05/2025 de 09:00 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: 4/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250020&h=b94389cd93
+DESCRIPTION:Sortie: PSC1 MULTI-ACTIVITES : Formation premiers secours\nLieu: 2 Place HENRY DUNANT\, 34790 Grabels\nDate: le 17/05/2025 de 09:00 à 17:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: 10 places\, 10 inscriptions en attente\nResponsable: WEILL AMINE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250009&h=ea3ed00e52
 DTEND:20250517T150000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Massif Aigoual
+LAST-MODIFIED:20250511T220454Z
+LOCATION:2 Place HENRY DUNANT\, 34790 Grabels
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250517T070000Z
 STATUS:TENTATIVE
+SUMMARY:[Alpinisme] PSC1 MULTI-ACTIVITES : Formation premiers secours
+UID:3400AL250009@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400AL250009&h=ea3ed00e52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Grimpe libre à Lattes\nLieu: SAE de Lattes\nDate: le 20/05/2025 de 20:30 à 22:30\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 650 m\nPlaces: 15 places\nResponsable: LEGAVRE THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250095&h=73c07cdaee
+DTEND:20250520T203000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:SAE de Lattes
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250520T183000Z
+STATUS:TENTATIVE
+SUMMARY:[Escalade] Grimpe libre à Lattes
+UID:3400ES250095@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250095&h=73c07cdaee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Soirée sécurité "RETEX"\nLieu: Local CAF Montpellier (6 rue de la Poésie)\nDate: le 02/06/2025 de 19:40 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 900 m\nPlaces: 30 places\nResponsable: LECLERCQ MICHEL\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250057&h=6bc0ea6dbf
+DTEND:20250602T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Local CAF Montpellier (6 rue de la Poésie)
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250602T174000Z
+STATUS:TENTATIVE
+SUMMARY:[Canyonisme] Soirée sécurité "RETEX"
+UID:3400CA250057@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400CA250057&h=6bc0ea6dbf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: fête du sport à Lattes 15 juin de 10h à 18h\nLieu: Lattes\nDate: le 15/06/2025 de 10:00 à 18:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 400 m\nPlaces: Capacité illimitée\, 1 inscription confirmée1 inscription en attente\nResponsable: LEGAVRE THIERRY\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250076&h=e448393f39
+DTEND:20250615T160000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Lattes
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250615T080000Z
+STATUS:TENTATIVE
+SUMMARY:[Escalade] fête du sport à Lattes 15 juin de 10h à 18h
+UID:3400ES250076@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250076&h=e448393f39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Printemps dans les Cevennes\nLieu: Massif Aigoual\nDate: du 17/05/2025  à 09:00 au 18/05/2025 à 17:00\nNiveau technique: 2\nNiveau physique: 2\nDénivelé positif : 900 m\nPlaces: 10/10 inscriptions confirmées\nResponsable: PAVIOT ODILE\nStatus: ANNULEE
+DTEND:20250518T150000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Massif Aigoual
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250517T070000Z
+STATUS:CANCELLED
 SUMMARY:[Randonnée] Printemps dans les Cevennes
 UID:3400RA250020@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400RA250020&h=b94389cd93
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sortie: Séance aux Aiguerelles - séance libre du mercredi soir\nLieu: SAE des Aiguerelles\nDate: le 26/03/2025 de 20:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 200 m\nPlaces: 21 places\, 3 inscriptions en attente\nResponsable: ROUSSEL REMI\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250057&h=5e60e51226
-DTEND:20250326T210000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:SAE des Aiguerelles
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250326T190000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] Séance aux Aiguerelles - séance libre du mercredi soir
-UID:3400ES250057@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250057&h=5e60e51226
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: POUR TOUS VERIFICATION ANNUELLE DES EPI - Session ETE - ESCALADE -VIA FERRATA- TERRAIN D'AVENTURE - ALPINISME\nLieu: Local du CAF - 06 rue de la poésie - Montpellier\nDate: le 08/04/2025 de 19:00 à 22:00\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 550 m\nPlaces: Capacité illimitée\, 2 inscriptions en attente\nResponsable: COUSSOT GAELLE\nStatus: AU PLANNING\nInscriptions: https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250063&h=d90f3e6360
-DTEND:20250408T200000Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:Local du CAF - 06 rue de la poésie - Montpellier
-ORGANIZER;CN=CAF Montpellier:mailto:
-DTSTART:20250408T170000Z
-STATUS:TENTATIVE
-SUMMARY:[Escalade] POUR TOUS VERIFICATION ANNUELLE DES EPI - Session ETE - ESCALADE -VIA FERRATA- TERRAIN D'AVENTURE - ALPINISME
-UID:3400ES250063@arntanguy.github.io/caf_montpellier/agenda_caf.ical
-URL:https://extranet-clubalpin.com/app/out/out.php?s=6&c=3400ES250063&h=d90f3e6360
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sortie: Camp d'été\nLieu: ???\nDate: du 28/06/2025  au 13/07/2025 à 23:59\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nPlaces: Capacité illimitée\nResponsable: JANSSEN PHILIPPE\nStatus: AU PLANNING
-DTEND:20250713T215900Z
-LAST-MODIFIED:20250324T094816Z
-LOCATION:???
+DESCRIPTION:Sortie: Camp d'été\nLieu: Aneto-Posets\nDate: du 28/06/2025  au 06/07/2025 à 23:59\nNiveau technique: Tous niveaux\nNiveau physique: Tous niveaux\nDénivelé positif : 400 m\nPlaces: Capacité illimitée\nResponsable: JANSSEN PHILIPPE\nStatus: AU PLANNING
+DTEND:20250706T215900Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Aneto-Posets
 ORGANIZER;CN=CAF Montpellier:mailto:
 DTSTART:20250627T220000Z
 STATUS:TENTATIVE
 SUMMARY:[Randonnée Montagne] Camp d'été
 UID:3400RM250001@arntanguy.github.io/caf_montpellier/agenda_caf.ical
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sortie: Cycle formation TA - Groupe 1 - Première soirée\nLieu: Clocheton des Matelles\nDate: le 13/05/2025 de 18:00 à 22:00\nNiveau technique: 1\nNiveau physique: 1\nDénivelé positif : 900 m\nPlaces: Capacité illimitée\nResponsable: VONAU LOUIS\nStatus: AU PLANNING
+DTEND:20250513T200000Z
+LAST-MODIFIED:20250511T220454Z
+LOCATION:Clocheton des Matelles
+ORGANIZER;CN=CAF Montpellier:mailto:
+DTSTART:20250513T160000Z
+STATUS:TENTATIVE
+SUMMARY:[Terrain d'aventure] Cycle formation TA - Groupe 1 - Première soirée
+UID:3400TA250001@arntanguy.github.io/caf_montpellier/agenda_caf.ical
 END:VEVENT
 END:VCALENDAR
